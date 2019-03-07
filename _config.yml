@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -25,23 +25,28 @@ projects:
   exclude:
     forks: true
     projects:
-    # - repo-name
+    - spemer-portfolio
+    - study_c
+    - study_python
+    - study_java
 
 social_media:
-  # behance: your_username
-  # facebook: your_username
-  # dribbble: your_username
-  # linkedin: your_username
+  behance: spemer
+  facebook: ghsspower
+  dribbble: spemer
+  linkedin: hyouk-seo-0b6801122
+  twitter: OfficialSpemer
+  youtube: OfficialSpemer
   # stackoverflow: your_user_id
-  # twitter: your_username
-  # youtube: your_username
 
 topics:
   - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Vue.js
+    web_url: https://github.com/topics/vue
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
 
   - name: Sass
     web_url: https://github.com/topics/sass
