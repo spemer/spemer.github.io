@@ -7,9 +7,12 @@ bundle install
 bundle exec jekyll serve
 
 
+# get commit message
+read -p "Enter commit message: " commitmsg
+
 # commit
 git add .
-git commit -m 'Deploy'
+git commit -m $commitmsg
 git push
 
 
