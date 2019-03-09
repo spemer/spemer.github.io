@@ -6,7 +6,6 @@ bundle install
 # build on a local server
 bundle exec jekyll serve
 
-
 # get commit message
 read -p "Enter commit message: " commitmsg
 
@@ -14,6 +13,5 @@ read -p "Enter commit message: " commitmsg
 git add .
 git commit -m $commitmsg
 git push
-
 
 exit
