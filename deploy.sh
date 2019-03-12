@@ -7,7 +7,7 @@ bundle install
 bundle exec jekyll serve
 
 # get commit message
-echo "\n"
+printf "\n"
 read -p "Enter commit message: " commitmsg
 
 # commit
