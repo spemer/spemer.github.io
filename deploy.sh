@@ -1,5 +1,4 @@
 #!/bin/bash
-
 prjname="spemer.github.io"
 
 echo "=============================="
