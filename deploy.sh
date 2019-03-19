@@ -13,11 +13,11 @@ bundle exec jekyll serve
 
 # get commit message
 printf "\n"
-read -p "Enter commit message: " commitmsg
+IFS= read -r -p "Enter commit message: " commitmsg
 
 # commit
 git add .
-git commit -m ${commitmsg}
+git commit -m "$commitmsg"
 git push
 
 exit
