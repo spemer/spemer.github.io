@@ -1,8 +1,6 @@
 #!/bin/bash
-prjname="spemer.github.io"
-
 echo "=============================="
-echo ${prjname}
+echo "${PWD##*/}"
 echo "=============================="
 
 # install missing gems
