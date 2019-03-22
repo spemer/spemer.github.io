@@ -9,12 +9,11 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
+  - scope:
+      path: '' # an empty string here means all files in the project
+      type: 'posts'
     values:
-      layout: "post"
+      layout: 'post'
 
 projects:
   sort_by: stars
@@ -25,11 +24,11 @@ projects:
   exclude:
     forks: true
     projects:
-    - spemer-portfolio
-    - study_c
-    - study_python
-    - study_java
-    - Univcam-android
+      - spemer-portfolio
+    # - study_c
+    # - study_python
+    # - study_java
+    # - Univcam-android
 
 social_media:
   behance: spemer
