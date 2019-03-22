@@ -25,10 +25,10 @@ projects:
     forks: true
     projects:
       - spemer-portfolio
-    # - study_c
-    # - study_python
-    # - study_java
-    # - Univcam-android
+      - study_c
+      - study_python
+      - study_java
+      - Univcam-android
 
 social_media:
   behance: spemer
