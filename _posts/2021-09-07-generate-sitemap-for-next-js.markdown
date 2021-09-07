@@ -5,7 +5,7 @@ categories: [ Next.js ]
 image: https://miro.medium.com/max/1400/1*L-D4PZvP1eTL4qmR1DHP0g.jpeg
 ---
 
-사이트맵 생성부터, 검색엔진 색인 요청까지
+### 사이트맵 생성부터, 검색엔진 색인 요청까지
 
 안녕하세요! 라이브 마켓 모음 앱, 볼라의 디자이너 서혁입니다. 볼라는 셀러(판매자)와 구매자가 라이브 방송을 통해 소통하며 상품을 구매할 수 있는 플랫폼입니다.
 
@@ -19,7 +19,7 @@ Next.js는 pages 디렉토리 내의 폴더와 파일명을 따라 URL이 생성
 
 우선 루트 디렉토리에서 scripts 폴더를 만들고, 그 안에 sitemap-common.js라는 이름으로 아래와 같은 코드를 작성했습니다.
 
-{% highlight javascript %}
+```javascript
 const fs = require("fs");
 const globby = require("globby");
 const prettier = require("prettier");
@@ -72,11 +72,11 @@ const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
 
   fs.writeFileSync("../public/sitemap-common.xml", formattedSitemap, "utf8");
 })();
-{% endhighlight %}
+```
 
 위의 스크립트를 실행하면, 아래와 같은 xml 파일을 만들어줍니다(예시).
 
-{% highlight html %}
+```html
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -104,7 +104,7 @@ const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
     <lastmod>2020-04-03T08:19:25.691Z</lastmod>
   </url>
 </urlset>
-{% endhighlight %}
+```
 
 ---
 
@@ -114,7 +114,7 @@ const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
 
 sitemap-posts.js라는 이름으로 아래와 같은 코드를 작성했습니다.
 
-{% highlight javascript %}
+```javascript
 const fs = require("fs");
 const fetch = require("node-fetch");
 const prettier = require("prettier");
@@ -161,11 +161,11 @@ const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
 
   fs.writeFileSync("../public/sitemap-posts.xml", formattedSitemap, "utf8");
 })();
-{% endhighlight %}
+```
 
 위의 스크립트를 실행하면, 아래와 같은 xml 파일을 만들어줍니다(예시).
 
-{% highlight html %}
+```html
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -213,7 +213,7 @@ const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
     <lastmod>2020-04-03T16:03:19.388Z</lastmod>
   </url>
 </urlset>
-{% endhighlight %}
+```
 
 ---
 
@@ -221,7 +221,7 @@ const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
 
 gzip(.gz) 형식으로 압축된 사이트맵은 용량을 줄이면서도, xml 형식의 사이트맵과 동일하게 사용할 수 있습니다. 위에서 만들어진 xml 파일들을 zlib을 사용해서 모두 gzip 형식으로 압축하겠습니다.
 
-{% highlight javascript %}
+```javascript
 const fs = require("fs");
 const zlib = require("zlib");
 
@@ -243,7 +243,7 @@ dirs.forEach((dir) => {
     }
   });
 });
-{% endhighlight %}
+```
 
 위의 스크립트를 실행하면, 1번과 2번에서 만들어진 xml 파일들을 모두 .gz 형식으로 압축해줍니다.
 
@@ -255,7 +255,7 @@ dirs.forEach((dir) => {
 
 볼라의 경우 `/seller/[_id]`, `/product/[_id]`, `/video/[_id]` 등 다양한 동적 웹페이지들에 대응해 각각 사이트맵을 따로 만들어주었으며, 구글 서치콘솔 등에 사이트맵을 제출하기 위해서는 단일 사이트맵으로 제출해야 하기 때문에 아래와 같은 코드를 작성해서 사이트맵 색인 파일을 만들었습니다.
 
-{% highlight javascript %}
+```javascript
 const fs = require("fs");
 const globby = require("globby");
 const prettier = require("prettier");
@@ -293,11 +293,11 @@ const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
 
   fs.writeFileSync("../public/sitemap.xml", formattedSitemap, "utf8");
 })();
-{% endhighlight %}
+```
 
 위의 스크립트를 실행하면, 아래와 같은 xml 파일을 만들어줍니다(예시).
 
-{% highlight html %}
+```html
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
@@ -309,13 +309,13 @@ const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
     <lastmod>2020-04-03T08:19:46.858Z</lastmod>
   </sitemap>
 </sitemapindex>
-{% endhighlight %}
+```
 
 ---
 
 ### 5. 마스터 배포 시마다 새로운 사이트맵을 생성하는 Bash 스크립트와, GitHub Actions에서 구글 Search Console에 사이트맵을 Ping 하는 스크립트 작성
 
-{% highlight bash %}
+```bash
 # yarn sitemap
 $ cd public
 $ rm -rf sitemap
@@ -325,13 +325,13 @@ $ cd scripts
 $ node ./sitemap-common.js
 $ node ./sitemap-posts.js
 $ node ./sitemap.js
-{% endhighlight %}
+```
 
 구글 서치콘솔에 페이지의 색인을 다시 생성하도록 요청하려면, 아래의 스크립트를 마지막에 추가하면 됩니다.
 
-{% highlight bash %}
+```bash
 $ curl http://google.com/ping?sitemap=http://website.com/sitemap.xml
-{% endhighlight %}
+```
 
 볼라의 경우에는 xml 형식의 사이트맵을 만든 후 해당 사이트맵들을 gzip 형식으로 압축한 다음, 기존의 xml 사이트맵을 제거할 수 있도록 아래와 같은 bash 스크립트를 따로 작성해주었습니다.
 
@@ -339,11 +339,11 @@ $ curl http://google.com/ping?sitemap=http://website.com/sitemap.xml
 
 이후, 마스터 배포 시 GitHub Actions에서 위의 스크립트들을 실행하도록 workflow 파일을 수정했습니다.
 
-{% highlight bash %}
+```bash
 # 사이트맵을 만들고, 구글에 제출합니다.
 - run: yarn sitemap
   name: ping sitemap
-{% endhighlight %}
+```
 
 ---
 
