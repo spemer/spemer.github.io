@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vue.js 에서 Axios 사용하기"
-categories: [ Vue.js, Axios ]
+categories: [ Vue.js, Axios, Web ]
 image: https://spemer.com/img/works/vue/thumb.png
 ---
 
