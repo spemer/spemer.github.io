@@ -1,6 +1,6 @@
 # Jekyll Blog
 
-[Watch](https://spemer.github.io/)
+[https://spemer.github.io/](https://spemer.github.io/)
 
 ### Documentation
 
