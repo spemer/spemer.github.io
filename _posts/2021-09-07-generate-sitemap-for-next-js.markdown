@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Next.js를 위한 sitemap generator 만들기"
-categories: [ Jekyll ]
+categories: [ Next.js ]
 image: https://miro.medium.com/max/1400/1*L-D4PZvP1eTL4qmR1DHP0g.jpeg
 ---
 
