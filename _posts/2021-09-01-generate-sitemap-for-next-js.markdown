@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Next.js를 위한 sitemap generator 만들기"
-categories: [ Next.js, React.js, Web ]
-tags: [ featured ]
+title: "Next.js를 위한 sitemap generator 만들기"
+categories: [Next.js, React.js, Web]
+tags: [featured]
 image: https://spemer.com/img/works/sitemap/logo.jpeg
 ---
 
@@ -16,7 +16,7 @@ image: https://spemer.com/img/works/sitemap/logo.jpeg
 
 ### 1. Next.js의 폴더구조를 활용한 sitemap generator 스크립트 작성​
 
-Next.js는 pages 디렉토리 내의 폴더와 파일명을 따라 URL이 생성되므로, globby를 사용해 pages 디렉토리의 모든 폴더와 파일명들 중 Next.js만의 특수한 파일명들 (_document.js, _app.js 등)을 제외한 나머지 폴더 및 파일명들로 사이트맵 xml이 만들어지도록 코드를 작성했습니다.
+Next.js는 pages 디렉토리 내의 폴더와 파일명을 따라 URL이 생성되므로, globby를 사용해 pages 디렉토리의 모든 폴더와 파일명들 중 Next.js만의 특수한 파일명들 (\_document.js, \_app.js 등)을 제외한 나머지 폴더 및 파일명들로 사이트맵 xml이 만들어지도록 코드를 작성했습니다.
 
 우선 루트 디렉토리에서 scripts 폴더를 만들고, 그 안에 sitemap-common.js라는 이름으로 아래와 같은 코드를 작성했습니다.
 
@@ -29,7 +29,7 @@ const getDate = new Date().toISOString();
 
 const YOUR_AWESOME_DOMAIN = "https://website.com";
 
-const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
+const formatted = (sitemap) => prettier.format(sitemap, { parser: "html" });
 
 (async () => {
   const pages = await globby([
@@ -37,12 +37,12 @@ const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
     "../pages/**/*.tsx",
     "../pages/*.tsx",
     // exclude
-    "!../pages/_*.tsx"
+    "!../pages/_*.tsx",
   ]);
 
   const pagesSitemap = `
     ${pages
-      .map(page => {
+      .map((page) => {
         const path = page
           .replace("../pages/", "")
           .replace(".tsx", "")
@@ -125,19 +125,19 @@ const getDate = new Date().toISOString();
 const fetchUrl = "https://jsonplaceholder.typicode.com/posts";
 const YOUR_AWESOME_DOMAIN = "https://website.com";
 
-const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
+const formatted = (sitemap) => prettier.format(sitemap, { parser: "html" });
 
 (async () => {
   const fetchPosts = await fetch(fetchUrl)
-    .then(res => res.json())
-    .catch(err => console.log(err));
+    .then((res) => res.json())
+    .catch((err) => console.log(err));
 
   const postList = [];
-  fetchPosts.forEach(post => postList.push(post.id));
+  fetchPosts.forEach((post) => postList.push(post.id));
 
   const postListSitemap = `
     ${postList
-      .map(id => {
+      .map((id) => {
         return `
           <url>
             <loc>${`${YOUR_AWESOME_DOMAIN}/post/${id}`}</loc>
@@ -265,14 +265,14 @@ const getDate = new Date().toISOString();
 
 const webrootDomain = "https://website.com";
 
-const formatted = sitemap => prettier.format(sitemap, { parser: "html" });
+const formatted = (sitemap) => prettier.format(sitemap, { parser: "html" });
 
 (async () => {
   const pages = await globby(["../public/sitemap/*.gz"]);
 
   const sitemapIndex = `
     ${pages
-      .map(page => {
+      .map((page) => {
         const path = page.replace("../public/", "");
         return `
           <sitemap>
@@ -357,4 +357,3 @@ $ curl http://google.com/ping?sitemap=http://website.com/sitemap.xml
 ### 마치며
 
 개발에 대한 지식이 많이 부족한 터라 잘못된 내용이 있을 수도 있는데, 해당 부분에 코멘트를 달아주신다면 바로잡을 수 있도록 하겠습니다. 혹시 위 방법보다 더욱 좋은 방법이나, 개선을 위한 의견 등은 댓글로 부탁드립니다. 읽어주셔서 감사합니다!
-

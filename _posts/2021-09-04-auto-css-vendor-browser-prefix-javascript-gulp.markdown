@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Auto CSS prefix with Gulp"
-categories: [ CSS, Gulp, Web ]
-tags: [ featured ]
+title: "Auto CSS prefix with Gulp"
+categories: [CSS, Gulp, Web]
+tags: [featured]
 image: https://spemer.com/img/works/gulp/gulp.png
 ---
 
@@ -54,10 +54,10 @@ npm install --save-dev gulp
 Now you have to create gulpfile.js on the directory newProject that you’ve made before with command prompt. Next, write code snippet below into your gulpfile.js file, and save it.
 
 ```javascript
-const gulp = require('gulp');
+const gulp = require("gulp");
 
-gulp.task('taskname', function(){
-    console.log('\nHello world!\n');
+gulp.task("taskname", function () {
+  console.log("\nHello world!\n");
 });
 ```
 
@@ -68,7 +68,6 @@ gulp taskname
 ```
 
 If you can see the same result of mine like the image below, Congrats! You set your first gulpfile successfully.
-
 
 {% include image.html url="https://spemer.com/img/works/gulp/npmver.png" description="Terminal" %}
 
@@ -92,7 +91,7 @@ To test this auto-prefixer, we’re going to make CSS file on the same directory
 
 ```css
 div {
-    display: flex;
+  display: flex;
 }
 ```
 
@@ -102,16 +101,19 @@ Go back to your gulpfile.js, copy and paste the code snippet below.
 > on the top of your gulpfile.js, Always!
 
 ```javascript
-const gulp = require('gulp');
-const autoprefixer = require('gulp-autoprefixer');
+const gulp = require("gulp");
+const autoprefixer = require("gulp-autoprefixer");
 
-gulp.task('prefix', () =>
-    gulp.src('styleTest.css')
-        .pipe(autoprefixer({
-            browsers: ['last 99 versions'],
-            cascade: false
-    }))
-    .pipe(gulp.dest('style'))
+gulp.task("prefix", () =>
+  gulp
+    .src("styleTest.css")
+    .pipe(
+      autoprefixer({
+        browsers: ["last 99 versions"],
+        cascade: false,
+      })
+    )
+    .pipe(gulp.dest("style"))
 );
 ```
 
@@ -128,11 +130,11 @@ Write the command line above(with name of the task) on your command prompt. Now,
 
 ```css
 div {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: flex;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 ```
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "부동산/주택담보대출 용어: LTV, DTI, DSR 간략 정리"
-categories: [ 부동산, 제태크, 경제 ]
-tags: [ featured ]
+title: "부동산/주택담보대출 용어: LTV, DTI, DSR 간략 정리"
+categories: [부동산, 제태크, 경제]
+tags: [featured]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdf7Lm6%2Fbtreh1ENV90%2FahXL1wbzvAoGK7CBW4ydKk%2Fimg.webp
 ---
 
@@ -18,11 +18,11 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 1. `Loan To Value ratio` 의 약자
 2. 주택 가치를 기준​​으로 대출 비율을 정함
-  a. 우리 집을 담보로 얼마까지 대출을 받을 수 있는지
+   a. 우리 집을 담보로 얼마까지 대출을 받을 수 있는지
 3. 은행이 주택을 담보로 대출을 해줄 때 적용하는 담보 가치 대비 최대 대출가능 한도
-  a. LTV가 높으면 대출 가능 금액도 높아지고
-  b. LTV가 낮으면 대출 가능 금액도 낮아진다
-  c. 일반적으로 지방보다는 수도권의 LTV가 더 낮음
+   a. LTV가 높으면 대출 가능 금액도 높아지고
+   b. LTV가 낮으면 대출 가능 금액도 낮아진다
+   c. 일반적으로 지방보다는 수도권의 LTV가 더 낮음
 
 ### 적용 예시 및 참고사항
 
@@ -40,9 +40,10 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 1. Debt To Income 의 약자
 2. 본인 소득을 기준으로 대출 비율을 정함
 3. 연 총 소득에서 매년 갚아야 하는 원금 및 이자가 차지하는 비율
-  a. LTV와 동일하게, 일반적으로 지방보다는 수도권의 DTI가 더 낮음​
+   a. LTV와 동일하게, 일반적으로 지방보다는 수도권의 DTI가 더 낮음​
 
 ### 적용 예시 및 참고사항
+
 - 예를 들어 연 소득이 5천만 원이고 DTI가 50%라면, 대출 원리금 상환액이 2천 5백만 원을 넘지 않도록 대출 규모를 제한하게 된다.
 - 금융기관에서 DTI를 산정할 때 최소 2년 연간 소득 증빙자료를 제출해야 하며, 해당 증빙자료를 제출하지 못할 경우 신고소득(내가 신고한 소득)과 인정소득(실제로 인정되는 소득)이 일정 부분 차감된다.
 
@@ -56,7 +57,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 1. Debt Service Ratio 의 약자
 2. 전체 대출에 대한 원리금 상환액을 연 소득으로 나눈 비율
-  a. 대출을 받으려는 사람이 현재 실행중인 모든 대출에 대한 원리금 상환액을 연 소득으로 나눈 비율
+   a. 대출을 받으려는 사람이 현재 실행중인 모든 대출에 대한 원리금 상환액을 연 소득으로 나눈 비율
 
 ​
 

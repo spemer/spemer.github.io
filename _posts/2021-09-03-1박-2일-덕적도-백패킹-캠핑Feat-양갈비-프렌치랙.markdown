@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "1박 2일 덕적도 백패킹 캠핑(Feat. 양갈비 프렌치랙)"
-categories: [ 캠핑, 덕적도, 일상, 여행 ]
-tags: [ featured ]
+title: "1박 2일 덕적도 백패킹 캠핑(Feat. 양갈비 프렌치랙)"
+categories: [캠핑, 덕적도, 일상, 여행]
+tags: [featured]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FblFemj%2FbtrdJ35oPUF%2FxP5WICbMSiWIfXmI4YQ25k%2Fimg.jpg
 ---
 

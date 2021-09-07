@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Vue.js 에서 Axios 사용하기"
-categories: [ Vue.js, Axios, Web ]
-tags: [ featured ]
+title: "Vue.js 에서 Axios 사용하기"
+categories: [Vue.js, Axios, Web]
+tags: [featured]
 image: https://spemer.com/img/works/vue/thumb.png
 ---
 
@@ -23,17 +23,17 @@ npm install --save axios
 그리고, Axios를 전역으로 사용할 수 있도록 main.js 안에 메소드를 추가합니다.
 
 ```javascript
-import Vue from 'vue'
-import App from './App'
-import axios from 'axios'
+import Vue from "vue";
+import App from "./App";
+import axios from "axios";
 
-Vue.prototype.$http = axios
+Vue.prototype.$http = axios;
 
 app = new Vue({
-    el: '#app',
-    components: { App },
-    template: '<App/>'
-})
+  el: "#app",
+  components: { App },
+  template: "<App/>",
+});
 ```
 
 ---
@@ -44,32 +44,28 @@ app = new Vue({
 
 ```html
 <template lang="pug">
-  div#app
-    div(v-for="user in users" v-bind:key="users.id")
-      h1 {{ user.name }}
-      p {{ user.email }}
-    button(@click="fetchUsers") Click me
+  div#app div(v-for="user in users" v-bind:key="users.id") h1 {{ user.name }} p
+  {{ user.email }} button(@click="fetchUsers") Click me
 </template>
 
 <script>
-export default {
-  name: 'app',
-  data () {
-    return {
-      users: []
-    }
-  },
-  methods: {
-    fetchUsers: function () {
-      let baseURI = 'https://jsonplaceholder.typicode.com'
-      this.$http.get(`${baseURI}/users`)
-      .then((result) => {
-        console.log(result)
-        this.users = result.data
-      })
-    }
-  }
-}
+  export default {
+    name: "app",
+    data() {
+      return {
+        users: [],
+      };
+    },
+    methods: {
+      fetchUsers: function () {
+        let baseURI = "https://jsonplaceholder.typicode.com";
+        this.$http.get(`${baseURI}/users`).then((result) => {
+          console.log(result);
+          this.users = result.data;
+        });
+      },
+    },
+  };
 </script>
 ```
 
@@ -86,5 +82,5 @@ npm install --save es6-promise
 그 후, webpack의 config 파일에 아래와 같은 코드를 작성해서 불러옵니다.
 
 ```javascript
-require('es6-promise').polyfill();
+require("es6-promise").polyfill();
 ```
