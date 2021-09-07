@@ -2,10 +2,10 @@
 layout: post
 title:  "Next.js를 위한 sitemap generator 만들기"
 categories: [ Jekyll ]
-image: assets/images/demo1.jpg
+image: https://miro.medium.com/max/1400/1*L-D4PZvP1eTL4qmR1DHP0g.jpeg
 ---
 
-> 사이트맵 생성부터, 검색엔진 색인 요청까지
+사이트맵 생성부터, 검색엔진 색인 요청까지
 
 안녕하세요! 라이브 마켓 모음 앱, 볼라의 디자이너 서혁입니다. 볼라는 셀러(판매자)와 구매자가 라이브 방송을 통해 소통하며 상품을 구매할 수 있는 플랫폼입니다.
 
