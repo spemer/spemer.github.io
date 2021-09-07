@@ -1,4 +1,9 @@
 <figure class="image">
-  <img src="{{ include.url }}" alt="{{ include.description }}" />
+  <img
+    loading="lazy"
+    src="{{ include.url }}"
+    alt="{{ include.description }}"
+    title="{{ include.description }}"
+  />
   <figcaption>{{ include.description }}</figcaption>
 </figure>
