@@ -22,7 +22,7 @@ authors:
     Spemer:
       name:           Hyouk Seo
       site:           https://spemer.com/
-      avatar:         https://spemer.com/img/profile_about.png
+      avatar:         /assets/images/avatar.jpg
       bio:            "I am a detail-oriented Digital Product & User Experience Designer, Problem Solver and Frontend Developer; create design based on human-centered design."
       email:          ghsspower@gmail.com
       twitter:        https://twitter.com/OfficialSpemer
@@ -37,7 +37,7 @@ defaults:
     values:
       layout: post
       author: Spemer
-      avatar: https://spemer.com/img/profile_about.png
+      avatar: /assets/images/avatar.jpg
       
   # all pages
   - scope:
