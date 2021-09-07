@@ -2,7 +2,7 @@
 layout: post
 title:  "Next.js를 위한 sitemap generator 만들기"
 categories: [ Next.js ]
-image: https://miro.medium.com/max/1400/1*L-D4PZvP1eTL4qmR1DHP0g.jpeg
+image: https://spemer.com/img/works/sitemap/logo.jpeg
 ---
 
 ### 사이트맵 생성부터, 검색엔진 색인 요청까지
