@@ -6,11 +6,10 @@ favicon: "assets/images/favicon.ico"
 baseurl: ""
 disqus: "Spemer"
 email: "ghsspower@gmail.com"
-# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google-analytics: G-1CRN7Q6CQR
 
 include: ["_pages"]
 permalink: /:title/
-google-analytics: G-1CRN7Q6CQR
 
 # Plugins
 plugins:
