@@ -1,10 +1,11 @@
+User-agent: *
+Allow: /
+
 User-agent: Yeti
 Disallow: /
 
 User-agent: Daumoa
 Disallow: /
 
-User-agent: *
-Allow: /
 
 Sitemap: /sitemap.xml
