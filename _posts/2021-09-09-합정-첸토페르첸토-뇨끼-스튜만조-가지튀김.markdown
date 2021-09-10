@@ -3,7 +3,7 @@ layout: post
 title: "[합정 첸토페르첸토] 뇨끼 스튜만조 가지튀김"
 categories: [맛집]
 tags: [featured]
-image:
+image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvJdGh%2FbtrewwTDTZE%2FFlwnOq3oBY0csbdpPlkolk%2Fimg.jpg
 ---
 
 원래 '카밀로라자네리아'라는 식당을 가려고 했는데, 하필 방문했던 날이 휴무여서 근처 비슷한 이태리 식당을 찾다가 들렀던 식당 카밀로라자네리아에서 첸토페르첸토 까지는 걸어서 1~2분? 정도가 걸렸던 것 같다. 운이 좋게도 바 테이블에 한 팀의 자리가 남아있어서 저녁시간임에도 불구하고 웨이팅 없이 들어갈 수 있었다.
