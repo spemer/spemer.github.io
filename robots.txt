@@ -1,0 +1,7 @@
+User-agent: Yeti
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: /sitemap.xml
