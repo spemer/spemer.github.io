@@ -42,6 +42,8 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 ![덕적도 북리선착장](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcSDzcs%2Fbtre7H52miv%2F8WbyxhFxgVzXbEnQtNd1o0%2Fimg.jpg)
 
+{% include google-adsense-content.html %}
+
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=5C2D69C4AFA0687373A9FF795D0F59953EC5&outKey=V124a01075f50682d8941062e833f97b7da2eacfe1c218f9cb521062e833f97b7da2e" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 
 사실 보통은 덕적도에 도착하면 5시가 넘거나 거의 그 정도 시간이어서, 다른 때는 오자마자 저녁 준비를 했는데 이번 덕적도 캠핑은 카페리가 아침 8시 30분밖에 없는 바람에 평소보다 훨씬 일찍 오게 되었다. 텐트치고 점심먹고 드라이브까지 했는데 네시쯤? 된듯 했다. 그래도 친구의 선견지명 덕분인지, 카드게임을 가져와서 시간을 좀 때울수 있었다.

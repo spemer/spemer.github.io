@@ -33,6 +33,6 @@ article.article-post iframe[allowfullscreen] {
   }
 }
 
-main.site-content {
-  margin-bottom: 192px !important;
+.google-ads {
+  padding: 48px auto !important;
 }

@@ -71,6 +71,10 @@ app = new Vue({
 
 ---
 
+{% include google-adsense-content.html %}
+
+---
+
 ### IE 지원하기
 
 IE는 promise를 지원하지 않기때문에, 그에 해당하는 polyfill이 필요합니다. 아래의 명령어를 입력해서 설치합니다.

@@ -250,6 +250,10 @@ dirs.forEach((dir) => {
 
 ---
 
+{% include google-adsense-content.html %}
+
+---
+
 ### 4. 위의 방법들로 만들어진 sitemap 파일들을 위한, 사이트맵 색인 파일 생성 스크립트 작성
 
 여러 개의 사이트맵들을 검색엔진에 제공(구글 서치콘솔, 네이버 서치 어드바이저 등)하기 위해서는, 사이트맵 색인(Sitemap index) 파일이 별도로 필요합니다.

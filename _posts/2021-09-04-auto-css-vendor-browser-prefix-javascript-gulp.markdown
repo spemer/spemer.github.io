@@ -75,6 +75,10 @@ On the Gist code snippet above, I wrote `taskname` after `gulp.task` on the line
 
 ---
 
+{% include google-adsense-content.html %}
+
+---
+
 # Play with code
 
 ### Auto prefix your CSS code with Gulp plug-ins
