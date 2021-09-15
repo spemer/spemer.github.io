@@ -8,3 +8,7 @@
 .nav-item a {
   color: rgba(0, 0, 0, 0.87) !important;
 }
+
+.site-content .row.mt-5 {
+  margin-top: 96px !important;
+}
