@@ -32,3 +32,7 @@ article.article-post iframe[allowfullscreen] {
     max-height: 280px !important;
   }
 }
+
+main.site-content {
+  margin-bottom: 192px !important;
+}
