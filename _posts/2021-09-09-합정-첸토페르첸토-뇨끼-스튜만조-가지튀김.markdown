@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[합정 첸토페르첸토] 뇨끼 스튜만조 가지튀김"
-categories: [맛집]
+categories: [맛집, 일상]
 tags: [featured]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc5bUtV%2FbtrexlqMaOb%2F3OkhqMTIGy2fDbvnVLTHKk%2Fimg.jpg
 ---
