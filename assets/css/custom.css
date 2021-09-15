@@ -9,6 +9,26 @@
   color: rgba(0, 0, 0, 0.87) !important;
 }
 
+/* Profile section */
 .site-content .row.mt-5 {
   margin-top: 96px !important;
+}
+
+/* Embed videos */
+article.article-post iframe[allowfullscreen] {
+  width: 100% !important;
+  max-width: 100% !important;
+  max-height: 410px !important;
+}
+
+@media screen and (max-width: 420px) {
+  article.article-post iframe[allowfullscreen] {
+    max-height: 320px !important;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  article.article-post iframe[allowfullscreen] {
+    max-height: 280px !important;
+  }
 }
