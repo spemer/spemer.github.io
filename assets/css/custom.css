@@ -33,6 +33,7 @@ article.article-post iframe[allowfullscreen] {
   }
 }
 
+/* Google AdSense */
 .google-ads {
-  padding: 48px auto !important;
+  margin: 48px auto !important;
 }
