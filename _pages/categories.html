@@ -21,6 +21,10 @@ permalink: "/categories.html"
       post.title != null %} {% if group == null or group == post.group %} {%
       include main-loop-card.html %} {% endif %} {% endif %} {% endfor %} {%
       assign pages_list = nil %} {% assign group = nil %} {% endfor %}
+
+      <div style="margin-top: 32px; margin-bottom: 32px; width: 100%">
+        {% include google-adsense-contents.html %}
+      </div>
     </div>
 
     <div class="col-md-4">{% include sidebar-featured.html %}</div>
