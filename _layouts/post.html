@@ -55,7 +55,7 @@ layout: default
         >
           <p class="text-uppercase font-weight-bold">
             <span class="catlist">
-              {% for category in page.categories %}
+              🏷️ {% for category in page.categories %}
               <a
                 class="sscroll text-danger"
                 href="{{site.baseurl}}/categories.html#{{ category | downcase }}"
@@ -108,7 +108,7 @@ layout: default
     <!-- Share -->
     <div class="col-lg-2 pr-4 mb-4 col-md-12">
       <div class="sticky-top sticky-top-offset text-center">
-        <div class="text-muted">Share this</div>
+        <div class="text-muted">Share this 📤</div>
         <div class="share d-inline-block">
           <!-- AddToAny BEGIN -->
           <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
@@ -157,7 +157,7 @@ layout: default
         </div>
         <div class="col-md-10">
           <h5 class="font-weight-bold">
-            Written by {{ author.name }} {% if author.twitter %}<span
+            Written by ✍️ {{ author.name }} {% if author.twitter %}<span
               ><a
                 target="_blank"
                 href="{{ author.twitter }}"
@@ -171,22 +171,22 @@ layout: default
       </div>
       {% endif %}
 
-      <!-- Previous/Next posting -->
-      <!-- <div class="prevnext">
-        {% if page.previous.url %}
-        <div class="prev">
-          <a class="text-dark" href="{{ site.baseurl }}{{ page.previous.url }}"
-            >{{page.previous.title}}</a
-          >
-        </div>
-        {% endif %} {% if page.next.url %}
+      <!-- Next/Previous posting -->
+      <div class="nextprev">
+        {% if page.next.url %}
         <div class="next">
           <a class="text-dark" href="{{ site.baseurl }}{{ page.next.url }}">
-            {{page.next.title}}
+            <b>{{page.next.title}}</b>
           </a>
         </div>
+        {% endif %} {% if page.previous.url %}
+        <div class="prev">
+          <a class="text-dark" href="{{ site.baseurl }}{{ page.previous.url }}"
+            ><b>{{page.previous.title}}</b></a
+          >
+        </div>
         {% endif %}
-      </div> -->
+      </div>
 
       <!-- Comments -->
       {% if page.comments != false %} {% include comments.html %} {% endif %}

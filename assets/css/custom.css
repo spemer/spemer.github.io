@@ -38,3 +38,22 @@ article.article-post iframe[allowfullscreen] {
   padding-top: 32px !important;
   padding-bottom: 32px !important;
 }
+
+/* Next/Previous posting */
+.nextprev {
+  width: 100%;
+  padding: 64px 0 32px;
+}
+
+.nextprev .next::before {
+  content: "다음 글: ";
+}
+
+.nextprev .prev::before {
+  content: "이전 글: ";
+}
+
+.nextprev .next,
+.nextprev .prev {
+  padding: 8px 0;
+}

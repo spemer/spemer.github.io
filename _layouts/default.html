@@ -15,8 +15,13 @@
 
     <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
 
-    <!-- Font Awesome Icons -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <!-- Previous/Next posting -->
+    {% if page.previous.url %}
+    <link rel="prev" href="{{page.previous.url}}" title="{{page.previous.title}}">
+    {% endif %}
+    {% if page.next.url %}
+    <link rel="next" href="{{page.next.url}}" title="{{page.next.title}}">
+    {% endif %}
 
     <!-- Google Fonts-->
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="stylesheet">
@@ -29,7 +34,7 @@
 
     <!-- Custom Stylesheet -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/custom.css">
-
+    
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
     <script
     src="https://code.jquery.com/jquery-3.3.1.min.js"
