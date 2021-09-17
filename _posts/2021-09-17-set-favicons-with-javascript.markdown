@@ -71,7 +71,7 @@ setFavicons("https://spemer.com/img/favicon/favicon.png");
 
 That’s it! In the same way, we can set other favicons like Android shortcut icons or Apple touch icons for iPhone and iPad.
 
-{% include google-adsense-content.html %}
+{% include google-adsense-contents.html %}
 
 ## Set another array and function
 

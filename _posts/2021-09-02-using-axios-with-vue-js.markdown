@@ -71,7 +71,7 @@ app = new Vue({
 
 ---
 
-{% include google-adsense-content.html %}
+{% include google-adsense-contents.html %}
 
 ---
 
