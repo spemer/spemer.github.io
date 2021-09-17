@@ -90,7 +90,6 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=29C734F3D809709EAB912780974B2E7A6B6B&outKey=V129922f58a20d19d28b3b9822d7ae024021c3538b00466988ab6b9822d7ae024021c" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 
-아래는 내 채널과 이번 덕적도 캠핑 유튜브 브이로그 영상!
-https://www.youtube.com/channel/UC0F9twxhsmEXGT95t73jFpQ
+아래는 이번 덕적도 캠핑 유튜브 브이로그 영상!
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Xoivu9cEeRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
