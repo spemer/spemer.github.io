@@ -38,15 +38,3 @@ article.article-post iframe[allowfullscreen] {
   padding-top: 32px !important;
   padding-bottom: 32px !important;
 }
-
-/* Previous/Next posting */
-.prevnext {
-  width: 100%;
-  padding: 32px auto;
-}
-
-.prevnext .prev,
-.prevnext .next {
-  width: 50%;
-  display: inline-block;
-}
