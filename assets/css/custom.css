@@ -35,5 +35,6 @@ article.article-post iframe[allowfullscreen] {
 
 /* Google AdSense */
 .google-ads {
-  margin: 48px auto !important;
+  padding-top: 48px !important;
+  padding-bottom: 48px !important;
 }
