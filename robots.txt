@@ -10,5 +10,7 @@ Disallow: /
 User-agent: Daumoa
 Disallow: /
 
+User-agent: Googlebot
+Allow: /
 
 Sitemap: /sitemap.xml
