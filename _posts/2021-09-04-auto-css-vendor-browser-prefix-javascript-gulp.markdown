@@ -69,7 +69,7 @@ gulp taskname
 
 If you can see the same result of mine like the image below, Congrats! You set your first gulpfile successfully.
 
-{% include image.html url="https://spemer.com/img/works/gulp/npmver.png" description="Terminal" %}
+![Terminal](https://spemer.com/img/works/gulp/npmver.png)
 
 On the Gist code snippet above, I wrote `taskname` after `gulp.task` on the line 3, and used that taskname on my command prompt to execute the task. You can set the name of task with the way you want, or you can set it’s name as `default`. If you set the name of task as `default`, you don’t need to write the task’s name on command prompt — just write `gulp` to execute it.
 
