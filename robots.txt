@@ -4,6 +4,9 @@ Allow: /
 User-agent: Yeti
 Disallow: /
 
+User-agent: Naverbot
+Disallow: /
+
 User-agent: Daumoa
 Disallow: /
 
