@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auto CSS prefix with Gulp"
-categories: [CSS, Gulp, Web]
+categories: [CSS, Gulp, Web, Frontend]
 tags: [featured]
 image: https://spemer.com/img/works/gulp/gulp.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Next.js를 위한 sitemap generator 만들기"
-categories: [Next.js, React.js, Web]
+categories: [Next.js, React.js, Web, Frontend]
 tags: [featured]
 image: https://spemer.com/img/works/sitemap/logo.jpeg
 ---
