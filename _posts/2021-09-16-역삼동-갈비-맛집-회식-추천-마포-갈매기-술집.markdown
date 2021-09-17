@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "역삼동 갈비 맛집 | 역삼역 회식 추천 | 마포 갈비 & 갈매기 | 역삼 노상 술집 | 을지로 바이브"
+title: "역삼동 갈비 맛집 | 역삼역 회식 추천 | 마포 갈비 & 갈매기 | 역삼 노상 술집"
 categories: [일상, 맛집]
 tags: [featured]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbp2n6K%2Fbtrfibmc5cL%2FhxgqEaG1APqWVtfBMbQKPK%2Fimg.png
