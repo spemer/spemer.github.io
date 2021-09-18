@@ -30,7 +30,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 아래에서 조금 더 자세히 설명하겠지만, 위의 코드는 검색엔진으로 하여금 해당 태그가 포함된 모든 페이지들을 크롤링하고 색인까지 함께 실행하라는 의미를 담고있는 코드이다. 여기서 우리가 변경할 수 있는것은 name 속성의 값(robots)과 content 속성의 값(index, follow)이다.
 
-​
+{% include google-adsense-contents.html %}
 
 ### name 속성에 적용될 수 있는 값
 
