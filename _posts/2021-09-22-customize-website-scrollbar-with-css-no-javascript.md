@@ -21,29 +21,29 @@ To customize website’s scrollbar, Only few lines of code in your stylesheet ar
 
 /* total width */
 body::-webkit-scrollbar {
-    background-color: #fff;
-    width: 16px;
+  background-color: #fff;
+  width: 16px;
 }
 
 /* background of the scrollbar */
 body::-webkit-scrollbar-track {
-    background-color: #fff;
+  background-color: #fff;
 }
 
 /* scrollbar body */
 body::-webkit-scrollbar-thumb {
-    background-color: #babac0;
-    border-radius: 16px;
-    border: 4px solid #fff;
+  background-color: #babac0;
+  border-radius: 16px;
+  border: 4px solid #fff;
 }
 
 /* set button(top and bottom of the scrollbar) */
 body::-webkit-scrollbar-button {
-    display:none;
+  display: none;
 }
 ```
 
-Customizing web browser’s scrollbar is non standard method to styling, so you need -webkit- [vendor prefix](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix) to use pseudo-elements above. 
+Customizing web browser’s scrollbar is non standard method to styling, so you need -webkit- [vendor prefix](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix) to use pseudo-elements above.
 
 ---
 
@@ -52,13 +52,27 @@ Customizing web browser’s scrollbar is non standard method to styling, so you 
 You can use 7 different pseudo-elements to customize web browser’s scrollbar. See the code snippet below:
 
 ```css
-::-webkit-scrollbar             {/* entire scrollbar scope */}
-::-webkit-scrollbar-button      {/* directional buttons at the top and bottom of the scrollbar */}
-::-webkit-scrollbar-track       {/* space below the scrollbar */}
-::-webkit-scrollbar-track-piece {/* not covered area by the scrollbar-thumb */}
-::-webkit-scrollbar-thumb       {/* draggable scrollbar itself */}
-::-webkit-resizer               {/* resizser at the bottom of the scrollbar */}
-::-webkit-scrollbar-corner      {/* bottom of the scrollbar without resizse */}
+::-webkit-scrollbar {
+  /* entire scrollbar scope */
+}
+::-webkit-scrollbar-button {
+  /* directional buttons at the top and bottom of the scrollbar */
+}
+::-webkit-scrollbar-track {
+  /* space below the scrollbar */
+}
+::-webkit-scrollbar-track-piece {
+  /* not covered area by the scrollbar-thumb */
+}
+::-webkit-scrollbar-thumb {
+  /* draggable scrollbar itself */
+}
+::-webkit-resizer {
+  /* resizser at the bottom of the scrollbar */
+}
+::-webkit-scrollbar-corner {
+  /* bottom of the scrollbar without resizse */
+}
 ```
 
 I used ::-webkit-scrollbar, ::-webkit-scrollbar-track and ::-webkit-scrollbar-thumb for this tutorial. Each properties need value inside the brackets.
@@ -70,9 +84,18 @@ I used ::-webkit-scrollbar, ::-webkit-scrollbar-track and ::-webkit-scrollbar-th
 I wrote only three lines of CSS code to customize my website’s scrollbar. These methods don’t need a single line of JavaScript code, super simple and easy to use. Check out link below to watch on live website!
 
 ```css
-body::-webkit-scrollbar       {background-color:#fff;width:16px}
-body::-webkit-scrollbar-track {background-color:#fff}
-body::-webkit-scrollbar-thumb {background-color:#babac0;border-radius:16px;border:4px solid #fff}
+body::-webkit-scrollbar {
+  background-color: #fff;
+  width: 16px;
+}
+body::-webkit-scrollbar-track {
+  background-color: #fff;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #babac0;
+  border-radius: 16px;
+  border: 4px solid #fff;
+}
 ```
 
 See live version on my website: https://spemer.com, or check my CSS code on my GitHub (line 75 to 82)
