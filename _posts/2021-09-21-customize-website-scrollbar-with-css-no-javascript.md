@@ -12,7 +12,7 @@ It seems like **scrollbar** has just tiny part of the webpage, but to me — as 
 
 ---
 
-### Start off
+### Basic
 
 To customize your website’s scrollbar, Only few lines of code in your stylesheet are needed. You don’t even need to write JavaScript to customize it. Following snippet shows CSS code to customize scrollbar of your webpage.
 
@@ -83,9 +83,9 @@ You can use 7 different pseudo-elements to customize scrollbar of webpage with t
 
 I used `::-webkit-scrollbar`, `::-webkit-scrollbar-track` and `::-webkit-scrollbar-thumb` for this tutorial. Each properties need value inside the brackets.
 
----
+{% include google-adsense-contents.html %}
 
-### From my stylesheet
+### Example
 
 I wrote only three lines of CSS code to customize my website’s scrollbar. These methods don’t need a single line of JavaScript code, super simple and easy to use. Check out link below to watch on live **[website](https://spemer.com)**!
 
