@@ -57,3 +57,8 @@ article.article-post iframe[allowfullscreen] {
 .nextprev .prev {
   padding: 8px 0;
 }
+
+code.language-plaintext.highlighter-rouge {
+  background-color: #eee;
+  padding: 0 4px;
+}

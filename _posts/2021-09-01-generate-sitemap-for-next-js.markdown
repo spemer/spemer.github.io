@@ -16,9 +16,9 @@ image: https://spemer.com/img/works/sitemap/logo.jpeg
 
 ### 1. Next.js의 폴더구조를 활용한 sitemap generator 스크립트 작성​
 
-Next.js는 pages 디렉토리 내의 폴더와 파일명을 따라 URL이 생성되므로, globby를 사용해 pages 디렉토리의 모든 폴더와 파일명들 중 Next.js만의 특수한 파일명들 (\_document.js, \_app.js 등)을 제외한 나머지 폴더 및 파일명들로 사이트맵 xml이 만들어지도록 코드를 작성했습니다.
+Next.js는 pages 디렉토리 내의 폴더와 파일명을 따라 URL이 생성되므로, globby를 사용해 pages 디렉토리의 모든 폴더와 파일명들 중 Next.js만의 특수한 파일명들 (`\_document.js`, `\_app.js`등)을 제외한 나머지 폴더 및 파일명들로 사이트맵 xml이 만들어지도록 코드를 작성했습니다.
 
-우선 루트 디렉토리에서 scripts 폴더를 만들고, 그 안에 sitemap-common.js라는 이름으로 아래와 같은 코드를 작성했습니다.
+우선 루트 디렉토리에서 scripts 폴더를 만들고, 그 안에 `sitemap-common.js`라는 이름으로 아래와 같은 코드를 작성했습니다.
 
 ```javascript
 const fs = require("fs");
@@ -113,7 +113,7 @@ const formatted = (sitemap) => prettier.format(sitemap, { parser: "html" });
 
 위의 예제 코드와 같이, 정적 페이지들에 대해서는 사이트맵을 만들어주기가 비교적 쉽습니다. 하지만, 동적 페이지들(e.g. userId 등을 받아서 페이지를 띄워주는)에 대해서는 조금 다른 방식을 통해 사이트맵을 생성하는 스크립트를 작성해야 했습니다(예제 코드에서는 [JSONPlaceholder](https://jsonplaceholder.typicode.com/)의 API 를 사용했습니다).
 
-sitemap-posts.js라는 이름으로 아래와 같은 코드를 작성했습니다.
+`sitemap-posts.js`라는 이름으로 아래와 같은 코드를 작성했습니다.
 
 ```javascript
 const fs = require("fs");

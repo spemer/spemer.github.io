@@ -20,7 +20,7 @@ image: https://spemer.com/img/works/vue/thumb.png
 npm install --save axios
 ```
 
-그리고, Axios를 전역으로 사용할 수 있도록 main.js 안에 메소드를 추가합니다.
+그리고, Axios를 전역으로 사용할 수 있도록 `main.js` 안에 메소드를 추가합니다.
 
 ```javascript
 import Vue from "vue";
