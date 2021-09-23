@@ -6,9 +6,9 @@ tags: [featured]
 image: https://miro.medium.com/max/1400/1*kh08HW91JyQ2FMUyHGRA9w.png
 ---
 
-![Scrollbar](https://miro.medium.com/max/1400/1*kh08HW91JyQ2FMUyHGRA9w.png)
-
 It seems like **scrollbar** has just tiny part of the webpage, but to me — as UI designer — it’s not that tiny, nor okay to ignore.
+
+![Scrollbar](https://miro.medium.com/max/1400/1*kh08HW91JyQ2FMUyHGRA9w.png)
 
 ---
 
@@ -43,13 +43,13 @@ body::-webkit-scrollbar-button {
 }
 ```
 
-Customizing web browser’s scrollbar is non standard method to styling, so you need `-webkit-` **[vendor prefix](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix)** to use pseudo-elements above.
+Customizing scrollbar is non standard method to styling, so you need `-webkit-` **[vendor prefix](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix)** to use pseudo-elements above.
 
 ---
 
 ### Pseudo elements
 
-You can use 7 different pseudo-elements to customize scrollbar of webpage with the code below:
+You can use 7 different pseudo-elements to customize scrollbar with the code below:
 
 ```css
 ::-webkit-scrollbar {
