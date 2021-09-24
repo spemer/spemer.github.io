@@ -8,7 +8,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 요새 친한 친구들과 함께 부동산을 조금씩 공부하기 시작했다. 필자는 부동산의 "ㅂ"자도 모르는 초보이기에, 아래와 같은 간단한 용어도 이해하는데 한참이 걸렸다. 나처럼 막 부동산 공부를 시작하려는 분들, 혹은 P2P 분산투자나 부동산 경매를 꿈꾸는 부린이 여러분들이 첫 발걸음을 떼는데 작지만 유용한 정보가 되었으면 하는 마음으로 최대한 쉽게 용어를 풀어보려 한다.
 
-{% include ads-contents.html %}
+![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGtUBk%2Fbtreg2EbT8r%2F4lmH7PDi3VmxbyXKHncMv1%2Fimg.webp)
 
 # LTV
 
@@ -43,7 +43,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 - 예를 들어 연 소득이 5천만 원이고 DTI가 50%라면, 대출 원리금 상환액이 2천 5백만 원을 넘지 않도록 대출 규모를 제한하게 된다.
 - 금융기관에서 DTI를 산정할 때 최소 2년 연간 소득 증빙자료를 제출해야 하며, 해당 증빙자료를 제출하지 못할 경우 신고소득(내가 신고한 소득)과 인정소득(실제로 인정되는 소득)이 일정 부분 차감된다.
 
-![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGtUBk%2Fbtreg2EbT8r%2F4lmH7PDi3VmxbyXKHncMv1%2Fimg.webp)
+{% include ads-contents.html %}
 
 # DSR
 

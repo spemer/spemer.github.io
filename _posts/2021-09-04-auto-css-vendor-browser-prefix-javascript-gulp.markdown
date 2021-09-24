@@ -2,7 +2,7 @@
 layout: post
 title: "Auto CSS prefix with Gulp"
 categories: [CSS, Gulp, Web, Frontend]
-tags: [featured]
+tags: []
 image: https://spemer.com/img/works/gulp/gulp.png
 ---
 

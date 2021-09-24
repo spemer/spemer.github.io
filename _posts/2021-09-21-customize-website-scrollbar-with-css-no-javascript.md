@@ -43,7 +43,7 @@ body::-webkit-scrollbar-button {
 }
 ```
 
-Customizing scrollbar is non standard method to styling, so you need `-webkit-` **[vendor prefix](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix)** to use pseudo-elements above.
+Customizing scrollbar is non standard method to styling, so you need `-webkit-` <a href="https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix" rel="noopener noreferrer" target="_blank" class="markdown-link">vendor prefix</a> to use pseudo-elements above.
 
 ---
 
@@ -87,7 +87,7 @@ I used `::-webkit-scrollbar`, `::-webkit-scrollbar-track` and `::-webkit-scrollb
 
 ### Example
 
-I wrote only three lines of CSS code to customize my website’s scrollbar. These methods don’t need a single line of JavaScript code, super simple and easy to use. Check out link below to watch on live **[website](https://spemer.com)**!
+I wrote only three lines of CSS code to customize my website’s scrollbar. These methods don’t need a single line of JavaScript code, super simple and easy to use. Check out link below to watch on live <a href="https://spemer.com" rel="noopener noreferrer" target="_blank" class="markdown-link">website</a>!
 
 ```css
 body::-webkit-scrollbar {
@@ -110,7 +110,7 @@ body::-webkit-scrollbar-thumb {
 
 ### Can I use?
 
-At this point - in my writing this article today(**September 21, 2021**), search result on **[caniuse.com](https://caniuse.com/?search=scrollbar)** says 97.27% of browsers support for `::-webkit-scrollbar` pseudo-elements.
+At this point - in my writing this article today(**September 21, 2021**), search result on <a href="https://caniuse.com/?search=scrollbar" rel="noopener noreferrer" target="_blank" class="markdown-link">caniuse.com</a> says 97.27% of browsers support for `::-webkit-scrollbar` pseudo-elements.
 
 ![Can I Use](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdhRMju%2Fbtrfw3WGN9W%2Fx1jCBReNUjAZns1Dhkt1x0%2Fimg.jpg)
 

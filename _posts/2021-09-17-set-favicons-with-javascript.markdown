@@ -2,7 +2,7 @@
 layout: post
 title: "Set favicons with JavaScript"
 categories: [JavaScript, Frontend, Web]
-tags: [featured]
+tags: []
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCtGvV%2FbtrfrdXITqu%2FpdwU5g9NL1GNdJhLPa3CX0%2Fimg.png
 ---
 

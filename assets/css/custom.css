@@ -62,3 +62,30 @@ code.language-plaintext.highlighter-rouge {
   background-color: #eee;
   padding: 0 4px;
 }
+
+/* Follow button */
+a.btn.btn-outline-success.btn-sm.btn-round.ml-2,
+a.btn.btn-outline-success.btn-sm.btn-round.ml-1 {
+  font-weight: 700;
+  border-width: 2px;
+  padding: 0.2rem 0.7rem;
+}
+
+/* Bolder link */
+.markdown-link {
+  font-weight: 700;
+}
+
+/* Additional padding */
+main article.article-post {
+  padding-bottom: 64px;
+}
+
+main article.article-post p img,
+main article.article-post iframe {
+  margin: 32px 0;
+}
+
+main article.article-post hr {
+  margin: 64px 0;
+}
