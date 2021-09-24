@@ -39,6 +39,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 - bingbot (Bing의 크롤러)
 - Yeti (Naver의 크롤러)
 - Daumoa (Daum의 크롤러)
+- Zumbot (Zum의 크롤러)
 
 ---
 
