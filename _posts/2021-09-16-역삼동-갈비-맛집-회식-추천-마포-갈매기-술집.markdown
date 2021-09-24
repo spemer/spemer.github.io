@@ -22,7 +22,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 야외의 장점은 역시 답답하지 않고, 냄새도 배지 않으면서 9월같은 초가을 날씨에는 해질녘 이른 노을아래 선선한 바람을 맞으며 기분좋게 맥주 한잔 할 수있다는것 아닐까? 이 날은 금요일이었는데, 그래서인지 더욱 여유롭고 가벼운 마음으로 맛있는 고기와 술을 먹었다.
 
-{% include google-adsense-contents.html %}
+{% include ads-contents.html %}
 
 ![맥주 한 잔](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F1k18i%2FbtrffOluPim%2FLOhOep74mphGx4IBOQXTKK%2Fimg.png)
 

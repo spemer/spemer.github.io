@@ -250,7 +250,7 @@ dirs.forEach((dir) => {
 
 ---
 
-{% include google-adsense-contents.html %}
+{% include ads-contents.html %}
 
 ---
 

@@ -42,7 +42,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 ![덕적도 북리선착장](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcSDzcs%2Fbtre7H52miv%2F8WbyxhFxgVzXbEnQtNd1o0%2Fimg.jpg)
 
-{% include google-adsense-contents.html %}
+{% include ads-contents.html %}
 
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=5C2D69C4AFA0687373A9FF795D0F59953EC5&outKey=V124a01075f50682d8941062e833f97b7da2eacfe1c218f9cb521062e833f97b7da2e" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 

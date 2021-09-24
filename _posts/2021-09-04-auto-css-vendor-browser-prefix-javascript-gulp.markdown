@@ -75,7 +75,7 @@ On the Gist code snippet above, I wrote `taskname` after `gulp.task` on the line
 
 ---
 
-{% include google-adsense-contents.html %}
+{% include ads-contents.html %}
 
 ---
 

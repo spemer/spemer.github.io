@@ -55,7 +55,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 - noarchive (비표준, 페이지를 캐시하지 않음)
 - nosnippet (비표준, 검색 결과에 페이지에 대한 스니핏 혹은 미리보기를 지원하지 않음)
 
-{% include google-adsense-contents.html %}
+{% include ads-contents.html %}
 
 ### 특정 검색엔진에서 나의 글이 검색 결과에 반영되지 않도록 조치하기
 

@@ -83,7 +83,7 @@ You can use 7 different pseudo-elements to customize scrollbar with the code bel
 
 I used `::-webkit-scrollbar`, `::-webkit-scrollbar-track` and `::-webkit-scrollbar-thumb` for this tutorial. Each properties need value inside the brackets.
 
-{% include google-adsense-contents.html %}
+{% include ads-contents.html %}
 
 ### Example
 

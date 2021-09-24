@@ -16,7 +16,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 ![인천대교](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FczN729%2FbtrdOWKFKcz%2FpDzy0fK3NC7kmzmJUWcWU1%2Fimg.jpg)
 
-{% include google-adsense-contents.html %}
+{% include ads-contents.html %}
 
 배를 타고 생각없이 물멍을 하면서 두시간정도 지나면, 덕적도가 슬슬 보이기 시작한다. 주말동안 흐리거나 비가 올거라는 일기예보가 있었지만 다행스럽게도 이놈의 일기예보는 맞아떨어지는걸 거의 본적이 없어서.. 비는 오지 않았고 오히려 덕적도에 도착했을때는 너무 더웠다.
 
