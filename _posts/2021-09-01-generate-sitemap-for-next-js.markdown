@@ -258,7 +258,7 @@ dirs.forEach((dir) => {
 
 여러 개의 사이트맵들을 검색엔진에 제공(구글 서치콘솔, 네이버 서치 어드바이저 등)하기 위해서는, 사이트맵 색인(Sitemap index) 파일이 별도로 필요합니다.
 
-볼라의 경우 `/seller/[_id]`, `/product/[_id]`, `/video/[_id]` 등 다양한 동적 웹페이지들에 대응해 각각 사이트맵을 따로 만들어주었으며, 구글 서치콘솔 등에 사이트맵을 제출하기 위해서는 단일 사이트맵으로 제출해야 하기 때문에 아래와 같은 코드를 작성해서 사이트맵 색인 파일을 만들었습니다.
+우리의 경우 `/seller/[_id]`, `/product/[_id]`, `/video/[_id]` 등 다양한 동적 웹페이지들에 대응해 각각 사이트맵을 따로 만들어주었으며, 구글 서치콘솔 등에 사이트맵을 제출하기 위해서는 단일 사이트맵으로 제출해야 하기 때문에 아래와 같은 코드를 작성해서 사이트맵 색인 파일을 만들었습니다.
 
 ```javascript
 const fs = require("fs");
@@ -318,7 +318,7 @@ const formatted = (sitemap) => prettier.format(sitemap, { parser: "html" });
 
 ---
 
-### 5. 마스터 배포 시마다 새로운 사이트맵을 생성하는 Bash 스크립트와, GitHub Actions에서 구글 Search Console에 사이트맵을 Ping 하는 스크립트 작성
+### 5. 마스터 배포 시마다 새로운 사이트맵을 생성하는 Bash 스크립트와 GitHub Actions에서 구글 Search Console에 사이트맵을 Ping하는 스크립트 작성
 
 ```bash
 # yarn sitemap

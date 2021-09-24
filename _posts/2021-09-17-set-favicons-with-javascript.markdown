@@ -46,7 +46,7 @@ let favIcons = [
 ];
 ```
 
-And, we’re gonna use this array with for loop to apply it to our code above.
+And we’re going to use this array with for loop to apply it to our code above.
 
 ```javascript
 function setFavicons(favImg) {

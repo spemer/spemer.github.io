@@ -28,9 +28,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 {% include ads-contents.html %}
 
-여담이지만 바 테이블에 오픈키친이기 때문에 음식을 먹으면서 요리하는 모습과 음식을 내놓기 직전 치즈를 강판에 갈아 올리는 모습까지 바로 앞에서 다 보이는데, 셰프님이 우리의 가지튀김에 치즈를 갈아 올릴 때 치즈를 너무 세게 갈아서인지 우리 옆 자리에 혼자 오신 여성분의 음식에까지 치즈가 꽤 많이 튀었었다. 컴플레인을 걸지 않으신걸 보니 개이득이군 하면서 먹은 게 아니었을까 싶다.
-
-아무튼 첫 음식이 너무 만족스러웠고, 두 번째 가지튀김을 다 먹을 때쯤 다음 음식이 나왔다.
+그렇게 첫 음식은 너무 만족스러웠고, 두 번째 가지튀김을 다 먹을 때쯤 다음 음식이 나왔다.
 
 ![스튜만조](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc5bUtV%2FbtrexlqMaOb%2F3OkhqMTIGy2fDbvnVLTHKk%2Fimg.jpg)
 

@@ -49,7 +49,7 @@ Customizing scrollbar is non standard method to styling, so you need `-webkit-` 
 
 ### Pseudo elements
 
-You can use 7 different pseudo-elements to customize scrollbar with the code below:
+You can use 7 different pseudo-elements to customize scrollbar with code below:
 
 ```css
 ::-webkit-scrollbar {

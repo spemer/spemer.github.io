@@ -36,7 +36,6 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 - robots (모든 검색엔진의 크롤러를 대상으로 함)
 - googlebot (Google의 크롤러)
-- bingbot (Bing의 크롤러)
 - Yeti (Naver의 크롤러)
 - Daumoa (Daum의 크롤러)
 - Zumbot (Zum의 크롤러)

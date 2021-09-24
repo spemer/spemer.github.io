@@ -35,7 +35,7 @@ To make sure Node.js installed correctly, write node -v and npm -v to check your
 npm install -g gulp
 ```
 
-If you can’t find or use your command prompt, I recommend you to install [Git Bash](https://git-scm.com/downloads). Moreover, It looks cooler than built-in command prompt!
+Rather than default command prompt, I recommend you to install [Git Bash](https://git-scm.com/downloads). Moreover, It looks cooler than built-in command prompt!
 
 Now you’ve installed Gulp globally, so you need to make directory to install Gulp locally and to play with it. Type following command lines on your command prompt, on directory wherever you want to.
 

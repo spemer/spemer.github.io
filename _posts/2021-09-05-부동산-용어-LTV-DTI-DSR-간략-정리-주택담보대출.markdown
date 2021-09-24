@@ -6,7 +6,7 @@ tags: [featured]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdf7Lm6%2Fbtreh1ENV90%2FahXL1wbzvAoGK7CBW4ydKk%2Fimg.webp
 ---
 
-요새 친한 친구들과 함께 부동산을 조금씩 공부하기 시작했다. 필자는 부동산의 "ㅂ"자도 모르는 초보이기에, 아래와 같은 간단한 용어도 이해하는데 한참이 걸렸다. 나처럼 막 부동산 공부를 시작하려는 분들, 혹은 P2P 분산투자나 부동산 경매를 꿈꾸는 부린이 여러분들이 첫 발걸음을 떼는데 작지만 유용한 정보가 되었으면 하는 마음으로 최대한 쉽게 용어를 풀어보려 한다.
+요새 친한 친구들과 함께 부동산을 조금씩 공부하기 시작했다. 나는 부동산 공부에 막 걸음마를 떼기 시작한터라 아래와 같은 간단한 용어도 이해하는데 한참이 걸렸다. 이렇게 막 부동산 공부를 시작하려는 분들, 혹은 P2P 분산투자나 부동산 경매를 꿈꾸는 부린이 여러분들이 첫 발걸음을 떼는데 작지만 유용한 정보가 되었으면 하는 마음으로 최대한 쉽게 용어를 풀어보려 한다.
 
 ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGtUBk%2Fbtreg2EbT8r%2F4lmH7PDi3VmxbyXKHncMv1%2Fimg.webp)
 

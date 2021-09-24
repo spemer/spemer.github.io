@@ -77,13 +77,13 @@ app = new Vue({
 
 ### IE 지원하기
 
-IE는 promise를 지원하지 않기때문에, 그에 해당하는 polyfill이 필요합니다. 아래의 명령어를 입력해서 설치합니다.
+IE는 `promise`를 지원하지 않기때문에, 그에 해당하는 polyfill이 필요합니다. 아래 명령어를 입력해서 설치할 수 있습다.
 
 ```bash
 npm install --save es6-promise
 ```
 
-그 후, webpack의 config 파일에 아래와 같은 코드를 작성해서 불러옵니다.
+그 후, webpack의 config 파일에 아래 코드를 작성해서 불러옵니다.
 
 ```javascript
 require("es6-promise").polyfill();
