@@ -1,10 +1,16 @@
+User-agent: NaverBot
+Disallow: /
+
 User-agent: Yeti
 Disallow: /
 
-User-agent: Naverbot
+User-agent: Daumoa
 Disallow: /
 
-User-agent: Daumoa
+User-agent: Zumbot
+Disallow: /
+
+User-agent: Bingbot
 Disallow: /
 
 User-agent: Googlebot
