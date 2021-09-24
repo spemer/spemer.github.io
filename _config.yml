@@ -1,10 +1,11 @@
 # Site
 name: "Spemer(Hyouk Seo)"
-description: "Spemer's diary"
+description: "Spemer's camping diary 🏕️"
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 baseurl: ""
 disqus: "Spemer"
+locale: ko_KR
 email: "ghsspower@gmail.com"
 google-analytics: G-1CRN7Q6CQR
 
@@ -26,6 +27,15 @@ authors:
     bio: "I am a detail-oriented Digital Product & User Experience Designer, Problem Solver and Frontend Developer; create design based on human-centered design."
     email: ghsspower@gmail.com
     twitter: https://twitter.com/OfficialSpemer
+
+social:
+  name: Hyouk Seo(Spemer)
+  links:
+    - https://twitter.com/OfficialSpemer
+    - https://www.facebook.com/ghsspower
+    - https://www.linkedin.com/in/hyouk-seo-0b6801122/
+    - https://github.com/spemer
+    - https://www.instagram.com/spemer
 
 # Defaults
 defaults:
