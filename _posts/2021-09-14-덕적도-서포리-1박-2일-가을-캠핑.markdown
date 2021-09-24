@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "덕적도 서포리해변 1박 2일 초가을 백패킹 캠핑 | 덕적도 카페리 차량 주의사항"
-categories: [캠핑, 덕적도, 일상, 여행]
+categories: [캠핑, 덕적도, 일상, 여행, 백패킹]
 tags: [featured]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrVrxm%2Fbtre5bGMr4o%2Fjbpb0lAOBDDdEzjoCIXkRK%2Fimg.jpg
 ---
 
-몇달 전 덕적도를 다녀왔는데, 또 다녀왔다. 벌써 1년 사이에 네 번째 덕적도. 이번 덕적도 캠핑에 다른 점이 있다면 카페리에 차를 선적해서 다녀왔다는 점! 선적 비용이 좀 많이(?) 사악하지만, 그래도 너무 편하다. 물론 백패킹의 묘미가 그런 곳들을 뚜벅이로 가는 데 있긴 하지만, 이런 게 바로 자본주의의 맛이 아닐까 싶은 생각이 들 정도.
+몇달 전 덕적도를 다녀왔는데, 또 다녀왔다. 벌써 1년 사이에 네 번째 덕적도. 이번 덕적도 캠핑에 다른 점이 있다면 카페리에 차를 선적해서 다녀왔다는 점! 선적 비용이 좀 많이(?) 사악하지만, 그래도 너무 편하다. 물론 백패킹의 묘미가 그런 곳들을 뚜벅이로 가는 데 있긴 하지만, 이런게 바로 자본주의의 맛이 아닐까 싶은 생각이 들 정도.
 
 <a href="/1%EB%B0%95-2%EC%9D%BC-%EB%8D%95%EC%A0%81%EB%8F%84-%EB%B0%B1%ED%8C%A8%ED%82%B9-%EC%BA%A0%ED%95%91-%EC%96%91%EA%B0%88%EB%B9%84-%ED%94%84%EB%A0%8C%EC%B9%98%EB%9E%99/" class="markdown-link">이전 덕적도 포스팅이 궁금하다면?(클릭)</a>
 
-친구들과 코나를 타고 갔는데, 인천항 연안부두 여객터미널에서 카페리에 차량을 선적하려면 왕복 12만원의 거금이 들어간다. 코나같은 소형 SUV 기준 인천에서 덕적도로 갈때 66,000원 + 덕적도에서 인천으로 돌아올때 54,000원. 가기 전 미리 사전조사를 해보니, 카페리는 사람은 표가 미리 예매 가능하지만 차량은 불가능하다고 하더라. 차량은 배 출발시간 최소 1시간 전에 미리 와서 선착순으로(!) 줄을 서야 한다고 한다. 4차 산업혁명, 인공지능, 특이점 어쩌고.. 하는 세상에 이런 충격적인 방식을 쓰다니. 물론 나는 겁이 많은 타입이라 서울에서 6시에 출발, 7시에 인천의 친구들을 픽업해서 7시 30분에 딱 도착해서 줄을 섰다. 다행스럽게도 아직 자리가 남아있었다. 물론 놓치면 차를 두고가거나, 헛걸음을 하게 될 수도 있으니 주의!
+친구들과 코나를 타고 갔는데, 인천항 연안부두 여객터미널에서 카페리에 차량을 선적하려면 왕복 12만원의 거금이 들어간다. 코나같은 소형 SUV 기준 인천에서 덕적도로 갈때 66,000원 + 덕적도에서 인천으로 돌아올때 54,000원(합이 무려 12만원). 가기 전 미리 알아본 바로는, 카페리는 사람은 표가 미리 예매 가능하지만 차량은 불가능하다고 하더라. 차량은 배 출발시간 최소 1시간 전에 미리 와서 선착순으로(!) 줄을 서야 한다고 한다. 물론 나는 겁이 많은 타입이라 서울에서 6시에 출발, 7시에 인천의 친구들을 픽업해서 7시 30분에 딱 도착해서 줄을 섰다. 다행스럽게도 아직 자리가 남아있었다. 물론 놓치면 차를 두고가거나, 배를 못타고 헛걸음을 하게 될 수도 있으니 주의!
 
 ![인천항 연안부두 여객터미널](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbE1pBF%2Fbtre6EhqQzo%2FzlFPj775Ke61zdKbQtVzVK%2Fimg.jpg)
 
@@ -30,17 +30,17 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=1BB518BB671021AF5B891D496879EB567A69&outKey=V122f07a31840ab166b0f66fb526a2c868b1e244386edccdfef5666fb526a2c868b1e" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 
-8시 30분 배를 타고 출발, 덕적도에 도착하자마자 텐트를 치고 나니 딱 12시가 되었다. 5시 30분에 일어나서 오는 길에 감사하게도 친구네 어머니께서 챙겨주신 사과와 빵을 먹긴 했지만 다들 허기진 상태여서, 지난 덕적도 포스팅에서도 소개했던 중국집으로 향했다. 날이 더워 콩국수를 시키려 했지만 여름이 지나서인지 이제 당분간 콩국수는 팔지 않을 예정이라고 하시던 주인아주머니. 아직은 덥다고요~ ㅠㅠㅠ
+8시 30분 배를 타고 출발, 덕적도에 도착하자마자 텐트를 치고 나니 딱 12시가 되었다. 5시 30분에 일어나서 오는 길에 감사하게도 친구네 어머니께서 챙겨주신 사과와 빵을 먹긴 했지만 다들 허기진 상태여서, 지난 덕적도 포스팅에서도 소개했던 중국집으로 향했다. 날이 더워 콩국수를 시키려 했지만 계절음식 이라서인지 당분간 콩국수는 팔지 않을 예정이라고 하시던 주인아주머니. 아직은 덥다고요~ ㅠㅠㅠ
 
 ![덕적도 짬뽕 맛집 바다반점](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcGlcrr%2Fbtre6CRsdbD%2Fv7P2cClgVvBkBCGAMhQqPk%2Fimg.jpg)
 
 짜장 하나, 짬뽕 둘, 탕수육 하나. 탕수육 저 소스가 정말 너무나도 맛있다. 살짝 달면서 간장 베이스가 느껴지긴 하는데, 아마 앞으로 덕적도에 올때마다 이 중국집은 꼭 오게되지 않을까 싶을 정도였다.
 
-밥을 다 먹고 근처 CU 편의점(이런 곳에 편의점이 있다니)에서 물이나 햇반 같은 것들을 좀 사는데 계산대에 고등어 한 마리가 누워있었다. 길냥이인 줄 알았는데, 주인아주머니께서 키우는 거라고 하셨다.
+밥을 다 먹고 근처 CU 편의점(이런 곳에 편의점이 있다니)에서 물이랑 햇반 같은 것들을 좀 사는데 계산대에 고등어 한 마리가 누워있었다. 길냥이인 줄 알았는데, 주인아주머니께서 키우는 거라고 하셨다.
 
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=C28ABC8C3DF3CAEE46E7DF680B5FECA2196A&outKey=V125a63b0b44878165914788c4d75d707863d98b991a1d0d83811788c4d75d707863d" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 
-다음은 시간이 남아서 친구 운전 연습 겸 덕적도 드라이브. 그동안 덕적도를 왔을때는 항상 친구와 바로 저녁먹고 술먹고 하면 해가 져서 기껏해야 서포리 주변만 둘러봤는데, 덕적도가 이렇게 넓고 볼거리가 많은 섬인걸 처음 알았다. 네비도 찍지 않고 길 닿는대로 운전하다보니 너무나도 멋진 풍경의 선착장과 등대가 보였다.
+다음은 시간이 남아서 친구 운전 연습 겸 덕적도 드라이브. 그동안 덕적도를 왔을때는 항상 친구와 바로 저녁먹고 술먹고 하면 해가 져서 기껏해야 서포리 주변만 둘러봤는데, 덕적도가 이렇게 넓고 볼거리가 많은 섬인걸 처음 알았다. 네비게이션도 안찍고 마음가는대로 운전하다보니, 너무나도 멋진 풍경의 선착장과 등대가 보였다.
 
 ![덕적도 북리선착장](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcSDzcs%2Fbtre7H52miv%2F8WbyxhFxgVzXbEnQtNd1o0%2Fimg.jpg)
 
@@ -80,21 +80,21 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=7F15289C8B05CAD13221D01216AD6DC043F2&outKey=V1283e6ecf10c14a8ae23146ee7fe470e7dbe6f1e7235593a3f1c146ee7fe470e7dbe" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 
-아침까지 먹고 텐트도 걷은 다음, 뒤쪽 소나무 숲 그늘로 피신해서 점심까지 루미큐브도 했다. 아니 루미큐브 말로나 들어봤지 이렇게 재미있는 게임이었어..? 물론 한 15판 해서 한두 판 이긴 것 같다. ㅋㅋㅋ
+아침까지 먹고 텐트도 걷은 다음, 뒤쪽 소나무 숲 그늘로 피신해서 점심까지 루미큐브도 했다. 아니 루미큐브 말로나 들어봤지 이렇게 재미있는 게임이었어..? 물론 한 15판 해서 한두 판 이긴 것 같다(하…).
 
 ![덕적도 서포리 해수욕장](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbLmTr8%2Fbtre1ahCs1a%2FQTsnYuBDbhrQ94rT4pamIk%2Fimg.jpg)
 
-마지막 점심은 원래 선착장 근처의 바지락 칼국수를 먹으려했는데, 갑자기 옆 분식집 아주머니의 영업을 당해서 분식집으로 들어가게 됐다. 근데 알고보니 유튜브에도 많이 나왔던 맛집이라고. 실제로 양도 많고 정말 맛있었다. 우리가 시킨건 김밥 두 줄과 떡볶이 하나, 그리고 잔치국수까지.
+마지막 점심은 원래 선착장 근처의 칼국수를 먹으려했는데, 갑자기 옆 분식집 아주머니의 영업에 분식집으로 들어가게 됐다. 알고보니 유튜브에도 많이 나왔던 맛집이라고. 실제로 양도 많고 정말 맛있었다. 우리가 시킨건 김밥 두 줄과 떡볶이 하나, 잔치국수까지.
 
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=25D5B9D6559F0F2D61F0F5DDD24DCE3CCD06&outKey=V123450630159af8c5c2561b09f77111bab26119305369d4f59c461b09f77111bab26" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 
-돌아오는 배에서도 역시 루미큐브. 나야 뭐 항상 사서 고생하는 캠핑(?)을 추구하지만 날도 덥고, 전날 새벽부터 이렇게 멀리까지 오느라 다들 힘들었을 텐데 친구들이 다들 재미있게 놀아줘서 다행이었다. 스모어도 너무 맛있었고! 이번 캠핑은 위에서 말한 것처럼 유튜브로도 편집해서 올려두었다. 드디어 미루고 미루던 유튜버의 길을 가기 시작했다. 구독과 좋아요 그리고 알람 설정까지 부탁해요~
+돌아오는 배에서도 루미큐브. 나야 항상 사서 고생하는 캠핑을 추구하지만, 날도 덥고 전날 새벽부터 멀리까지 오느라 다들 힘들었을 텐데 다들 재미있게 놀아줘서 다행이었다. 스모어도 너무 맛있었고! 이번 캠핑은 위에서 말한 것처럼 <a href="https://youtu.be/Xoivu9cEeRY" rel="noopener noreferrer" target="_blank" class="markdown-link" title="덕적도 1박 2일 캠핑 유튜브">유튜브</a>로도 편집해서 올려두었다. 드디어 미루고 미루던 유튜버의 길을 가기 시작했다. 구독과 좋아요 그리고 알림설정까지 부탁해요~
 
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=29C734F3D809709EAB912780974B2E7A6B6B&outKey=V129922f58a20d19d28b3b9822d7ae024021c3538b00466988ab6b9822d7ae024021c" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 
 ---
 
-아래는 이번 덕적도 캠핑 유튜브 브이로그 영상!
+아래는 이번 덕적도 백패킹 유튜브 브이로그 영상!
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Xoivu9cEeRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
