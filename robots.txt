@@ -1,4 +1,4 @@
-User-agent: NaverBot
+User-agent: Naverbot
 Disallow: /
 
 User-agent: Yeti
@@ -14,6 +14,6 @@ User-agent: Bingbot
 Disallow: /
 
 User-agent: Googlebot
-Allow: /
+Disallow: 
 
 Sitemap: https://spemer.github.io/sitemap.xml
