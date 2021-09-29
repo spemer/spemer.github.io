@@ -118,7 +118,7 @@ a.text-dark:hover {
   box-shadow: none;
 }
 .btn-link.btn-primary {
-  color: #03a87c;
+  color: #01a075;
   border-color: transparent;
 }
 .btn-link.btn-secondary {
@@ -130,11 +130,11 @@ a.text-dark:hover {
   border-color: transparent;
 }
 .btn-link.btn-info {
-  color: #09ebaf;
+  color: #06dfa5;
   border-color: transparent;
 }
 .btn-link.btn-warning {
-  color: #ffde03;
+  color: #f5d400;
   border-color: transparent;
 }
 .btn-link.btn-danger {
