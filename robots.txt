@@ -13,6 +13,18 @@ Disallow: /
 User-agent: Bingbot
 Disallow: /
 
+User-agent: Yandex
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
 User-agent: Googlebot
 Disallow: 
 
