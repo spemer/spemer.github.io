@@ -71,7 +71,8 @@ layout: default
               class="rounded-circle"
               src="{{site.baseurl}}/{{author.avatar}}"
               alt="{{author.name}}"
-              width="70"
+              width="64"
+              height="64"
             />
             {% endif %}
             <small class="ml-3">
@@ -156,12 +157,13 @@ layout: default
             class="rounded-circle"
             src="{{site.baseurl}}/{{author.avatar}}"
             alt="{{author.name}}"
-            width="90"
+            width="88"
+            height="88"
           />
           {% endif %}
         </div>
         <div class="col-md-10">
-          <h5 class="font-weight-bold">
+          <h3 class="font-weight-bold">
             Written by ✍️ {{ author.name }} {% if author.twitter %}<span
               ><a
                 rel="noopener noreferrer"
@@ -171,7 +173,7 @@ layout: default
                 >Follow</a
               ></span
             >{% endif %}
-          </h5>
+          </h3>
           {{ author.bio }}
         </div>
       </div>
