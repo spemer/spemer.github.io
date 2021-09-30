@@ -9,7 +9,7 @@
   --indigo: #502c6c;
   --purple: #ad6edd;
   --pink: #ff0266;
-  --red: #ea2f65;
+  --red: #d80a44;
   --orange: #fbb500;
   --yellow: #ffde03;
   --green: #01916a;
@@ -2146,7 +2146,7 @@ textarea.form-control {
   width: 100%;
   margin-top: 0.25rem;
   font-size: 85%;
-  color: #ea2f65;
+  color: #d80a44;
 }
 
 .invalid-tooltip {
@@ -2168,13 +2168,13 @@ textarea.form-control {
 .form-control.is-invalid,
 .was-validated .custom-select:invalid,
 .custom-select.is-invalid {
-  border-color: #ea2f65;
+  border-color: #d80a44;
 }
 .was-validated .form-control:invalid:focus,
 .form-control.is-invalid:focus,
 .was-validated .custom-select:invalid:focus,
 .custom-select.is-invalid:focus {
-  border-color: #ea2f65;
+  border-color: #d80a44;
   box-shadow: 0 0 0 0.2rem rgba(234, 47, 101, 0.25);
 }
 .was-validated .form-control:invalid ~ .invalid-feedback,
@@ -2197,7 +2197,7 @@ textarea.form-control {
 
 .was-validated .form-check-input:invalid ~ .form-check-label,
 .form-check-input.is-invalid ~ .form-check-label {
-  color: #ea2f65;
+  color: #d80a44;
 }
 
 .was-validated .form-check-input:invalid ~ .invalid-feedback,
@@ -2209,7 +2209,7 @@ textarea.form-control {
 
 .was-validated .custom-control-input:invalid ~ .custom-control-label,
 .custom-control-input.is-invalid ~ .custom-control-label {
-  color: #ea2f65;
+  color: #d80a44;
 }
 .was-validated .custom-control-input:invalid ~ .custom-control-label::before,
 .custom-control-input.is-invalid ~ .custom-control-label::before {
@@ -2239,7 +2239,7 @@ textarea.form-control {
 
 .was-validated .custom-file-input:invalid ~ .custom-file-label,
 .custom-file-input.is-invalid ~ .custom-file-label {
-  border-color: #ea2f65;
+  border-color: #d80a44;
 }
 .was-validated .custom-file-input:invalid ~ .custom-file-label::after,
 .custom-file-input.is-invalid ~ .custom-file-label::after {
@@ -2525,8 +2525,8 @@ fieldset:disabled a.btn {
 
 .btn-danger {
   color: #fff;
-  background-color: #ea2f65;
-  border-color: #ea2f65;
+  background-color: #d80a44;
+  border-color: #d80a44;
 }
 .btn-danger:hover {
   color: #fff;
@@ -2540,8 +2540,8 @@ fieldset:disabled a.btn {
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #fff;
-  background-color: #ea2f65;
-  border-color: #ea2f65;
+  background-color: #d80a44;
+  border-color: #d80a44;
 }
 .btn-danger:not(:disabled):not(.disabled):active,
 .btn-danger:not(:disabled):not(.disabled).active,
@@ -3052,15 +3052,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-danger {
-  color: #ea2f65;
+  color: #d80a44;
   background-color: transparent;
   background-image: none;
-  border-color: #ea2f65;
+  border-color: #d80a44;
 }
 .btn-outline-danger:hover {
   color: #fff;
-  background-color: #ea2f65;
-  border-color: #ea2f65;
+  background-color: #d80a44;
+  border-color: #d80a44;
 }
 .btn-outline-danger:focus,
 .btn-outline-danger.focus {
@@ -3068,15 +3068,15 @@ fieldset:disabled a.btn {
 }
 .btn-outline-danger.disabled,
 .btn-outline-danger:disabled {
-  color: #ea2f65;
+  color: #d80a44;
   background-color: transparent;
 }
 .btn-outline-danger:not(:disabled):not(.disabled):active,
 .btn-outline-danger:not(:disabled):not(.disabled).active,
 .show > .btn-outline-danger.dropdown-toggle {
   color: #fff;
-  background-color: #ea2f65;
-  border-color: #ea2f65;
+  background-color: #d80a44;
+  border-color: #d80a44;
 }
 .btn-outline-danger:not(:disabled):not(.disabled):active:focus,
 .btn-outline-danger:not(:disabled):not(.disabled).active:focus,
@@ -5240,7 +5240,7 @@ input[type="button"].btn-block {
 
 .badge-danger {
   color: #fff;
-  background-color: #ea2f65;
+  background-color: #d80a44;
 }
 .badge-danger[href]:hover,
 .badge-danger[href]:focus {
@@ -5465,9 +5465,9 @@ input[type="button"].btn-block {
 }
 
 .alert-danger {
-  color: #ea2f65;
-  background-color: #ea2f65;
-  border-color: #ea2f65;
+  color: #d80a44;
+  background-color: #d80a44;
+  border-color: #d80a44;
 }
 .alert-danger hr {
   border-top-color: #e81854;
@@ -6762,7 +6762,7 @@ button.bg-warning:focus {
 }
 
 .bg-danger {
-  background-color: #ea2f65 !important;
+  background-color: #d80a44 !important;
 }
 
 a.bg-danger:hover,
@@ -6951,7 +6951,7 @@ button.bg-lightblue:focus {
 }
 
 .border-danger {
-  border-color: #ea2f65 !important;
+  border-color: #d80a44 !important;
 }
 
 .border-light {
@@ -9679,7 +9679,7 @@ a.text-warning:focus {
 }
 
 .text-danger {
-  color: #ea2f65 !important;
+  color: #d80a44 !important;
 }
 
 a.text-danger:hover,
