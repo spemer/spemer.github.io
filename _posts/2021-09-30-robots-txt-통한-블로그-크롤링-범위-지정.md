@@ -6,8 +6,6 @@ tags: [featured]
 image: https://blog.kakaocdn.net/dn/w529y/btrgqxWNaHq/56xoWmx0YlqEqP75Ct0sV0/img.png
 ---
 
-# SEO
-
 검색엔진최적화의 핵심은 역시 콘텐츠다. 하지만 단가가 높은 키워드일수록 콘텐츠만으로 승부를 보기는 어려워지고, 나머지는 기술적인 부분의 도움을 받게 된다. 기술적인 부분에는 웹사이트 속도의 최적화, 보안, 모바일 친화 그리고 웹페이지 접근성 등 다양한 요소가 고려된다. 실제로 Lighthouse 검사를 해보면 이러한 부분들이 점수에 큰 영향을 미치는것을 알 수 있다. 더불어 웹사이트 검색결과에서 **보여주어야 할 것**과 **보여주지 말아야 할 것**을 구분해서 노출시켜주는것 또한 검색엔진최적화에 있어 중요한 부분이다.
 
 ![robots.txt](https://blog.kakaocdn.net/dn/w529y/btrgqxWNaHq/56xoWmx0YlqEqP75Ct0sV0/img.png)
