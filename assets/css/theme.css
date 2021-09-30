@@ -32,10 +32,10 @@ a:hover {
   text-decoration: none;
 }
 a {
-  color: #03a87c;
+  color: #01916a;
 }
 a.text-dark:hover {
-  color: #03a87c !important;
+  color: #01916a !important;
 }
 .c-pointer:hover {
   cursor: pointer;
@@ -138,7 +138,7 @@ a.text-dark:hover {
   border-color: transparent;
 }
 .btn-link.btn-danger {
-  color: #e20a47;
+  color: #d80a44;
   border-color: transparent;
 }
 .btn-link.btn-light {
@@ -198,14 +198,14 @@ a.text-dark:hover {
   font-weight: 400;
 }
 .navbar .highlight .nav-link {
-  color: #03a87c !important;
-  border: 1px solid #03a87c;
+  color: #01916a !important;
+  border: 1px solid #01916a;
   padding: 0.3rem 1rem;
   border-radius: 3px;
   font-size: 0.93rem;
 }
 .navbar .highlight .nav-link:hover {
-  background: #03a87c;
+  background: #01916a;
   color: #fff !important;
 }
 .navbar-brand {
@@ -348,13 +348,13 @@ a.text-dark:hover {
   background-color: rgba(23, 29, 90, 0.5);
 }
 .bg-primary {
-  fill: #03a87c !important;
+  fill: #01916a !important;
 }
 .bg-secondary {
   fill: #7832e2 !important;
 }
 .bg-success {
-  fill: #03a87c !important;
+  fill: #01916a !important;
 }
 .bg-info {
   fill: #09ebaf !important;
@@ -363,7 +363,7 @@ a.text-dark:hover {
   fill: #ffde03 !important;
 }
 .bg-danger {
-  fill: #ea2f65 !important;
+  fill: #d80a44 !important;
 }
 .bg-light {
   fill: #f8f9fa !important;
@@ -421,7 +421,7 @@ a.text-dark:hover {
 }
 .card a:hover {
   text-decoration: none;
-  color: #03a87c;
+  color: #01916a;
 }
 .card-pricing .card ul li {
   margin-bottom: 1.5rem;
@@ -451,8 +451,8 @@ a.text-dark:hover {
 }
 .alert-primary {
   color: #fff;
-  background-color: #03a87c;
-  border-color: #03a87c;
+  background-color: #01916a;
+  border-color: #01916a;
 }
 .alert-primary hr {
   border-top-color: #038f6a;
@@ -473,8 +473,8 @@ a.text-dark:hover {
 }
 .alert-success {
   color: #fff;
-  background-color: #03a87c;
-  border-color: #03a87c;
+  background-color: #01916a;
+  border-color: #01916a;
 }
 .alert-success hr {
   border-top-color: #038f6a;
@@ -506,11 +506,11 @@ a.text-dark:hover {
 }
 .alert-danger {
   color: #fff;
-  background-color: #ea2f65;
-  border-color: #ea2f65;
+  background-color: #d80a44;
+  border-color: #d80a44;
 }
 .alert-danger hr {
-  border-top-color: #e81854;
+  border-top-color: #d80a44;
 }
 .alert-danger .alert-link {
   color: #e6e6e6;
