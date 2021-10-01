@@ -8,8 +8,6 @@ image: https://spemer.com/img/works/sitemap/logo.jpeg
 
 > 사이트맵 생성부터, 검색엔진 색인 요청까지
 
-안녕하세요! 라이브 마켓 모음 앱, 볼라의 디자이너 서혁입니다. 볼라는 셀러(판매자)와 구매자가 라이브 방송을 통해 소통하며 상품을 구매할 수 있는 플랫폼입니다.
-
 얼마 전, 기존 [Vue.js](https://vuejs.org/)로 만들어져있던 볼라 랜딩페이지(https://volla.live)를 앱 내 콘텐츠 공유용 브릿지 페이지([Next.js](https://nextjs.org/))에 통합하게 되면서 함께 진행한 검색엔진 최적화(SEO) 작업 - 그중에서도 사이트맵 작업 중에 진행했던, Next.js 동적 sitemap generator 스크립트 작성기를 공유하고자 합니다.
 
 ---
@@ -75,7 +73,7 @@ const formatted = (sitemap) => prettier.format(sitemap, { parser: "html" });
 })();
 ```
 
-위의 스크립트를 실행하면, 아래와 같은 xml 파일을 만들어줍니다(예시).
+위 코드를 실행하면, 아래와 같은 xml 파일을 만들어줍니다(예시).
 
 ```html
 <?xml version="1.0" encoding="UTF-8"?>
@@ -164,7 +162,7 @@ const formatted = (sitemap) => prettier.format(sitemap, { parser: "html" });
 })();
 ```
 
-위의 스크립트를 실행하면, 아래와 같은 xml 파일을 만들어줍니다(예시).
+위 코드를 실행하면, 아래와 같은 xml 파일을 만들어줍니다(예시).
 
 ```html
 <?xml version="1.0" encoding="UTF-8"?>
@@ -246,7 +244,7 @@ dirs.forEach((dir) => {
 });
 ```
 
-위의 스크립트를 실행하면, 1번과 2번에서 만들어진 xml 파일들을 모두 .gz 형식으로 압축해줍니다.
+위 코드를 실행하면, 1번과 2번에서 만들어진 xml 파일들을 모두 .gz 형식으로 압축해줍니다.
 
 ---
 
@@ -300,7 +298,7 @@ const formatted = (sitemap) => prettier.format(sitemap, { parser: "html" });
 })();
 ```
 
-위의 스크립트를 실행하면, 아래와 같은 xml 파일을 만들어줍니다(예시).
+위 코드를 실행하면, 아래와 같은 xml 파일을 만들어줍니다(예시).
 
 ```html
 <?xml version="1.0" encoding="UTF-8"?>

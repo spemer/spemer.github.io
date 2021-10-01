@@ -12,7 +12,7 @@ image: https://blog.kakaocdn.net/dn/w529y/btrgqxWNaHq/56xoWmx0YlqEqP75Ct0sV0/img
 
 이번 아티클의 주제인 robots.txt가 바로 **보여주어야 할 것**과 **보여주지 말아야 할 것**을 구분할 수 있게 해주는 장치인 동시에, 얼마 전 작성한 meta tag: robots 포스팅과도 연관된 항목이다.
 
-- <a href="/meta-robots-%ED%83%9C%EA%B7%B8-%EA%B2%80%EC%83%89-%EB%85%B8%EC%B6%9C-%EC%A0%9C%EC%96%B4-%EC%A0%80%ED%92%88%EC%A7%88-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%95%B4%EA%B2%B0/" class="markdown-link">Meta tag: robots 태그를 통한 검색 색인 및 노출 제어하기 | 저품질 블로그 해결하기</a>
+- <a href="/meta-robots-%ED%83%9C%EA%B7%B8-%EA%B2%80%EC%83%89-%EB%85%B8%EC%B6%9C-%EC%A0%9C%EC%96%B4-%EC%A0%80%ED%92%88%EC%A7%88-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%95%B4%EA%B2%B0/" class="markdown-link">Meta tag: robots 태그를 통한 검색 색인 및 노출 제어 | 저품질 블로그 해결</a>
 
 ---
 
@@ -99,7 +99,7 @@ Disallow: /
 
 ### 사이트맵 지정(공식문서에 나오지 않는 비표준)
 
-`Sitemap` 이라는 항목의 값으로 사이트맵이 위치한곳을 적용해주면 된다.
+`Sitemap` 이라는 항목의 값으로 **사이트맵이 위치한 곳**을 작성해주면 된다.
 
 ```txt
 User-agent: Googlebot
@@ -110,7 +110,7 @@ Sitemap: https://spemer.github.io/sitemap.xml
 
 ### 크롤링 지연(공식문서에 나오지 않는 비표준)
 
-`crawl-delay` 항목에 지연시간(초단위)을 적어주면 된다.
+`crawl-delay` 항목에 **지연시간**(초단위)을 적어주면 된다.
 
 ```txt
 # Googlebot 크롤러가 1초마다 크롤링 할 수 있도록 크롤링 제한
@@ -144,7 +144,7 @@ Allow: /
 
 ## 마치며
 
-아래 robots.txt 공식 웹사이트에 가면 자세한 문서를 볼 수 있다. 추가적으로 robots.txt 파일에 명시된 내용은 권고사항일 뿐 법적인 근거나 강제력이 없지만 무단 크롤링, 특히 크롤링한 데이터베이스를 상업적으로 이용할 경우 저작권법에 저촉될 수 있다는 점 또한 숙지하고 있는것이 좋다.
+[robots.txt 공식 웹사이트](https://www.robotstxt.org)에 가면 자세한 문서를 볼 수 있다. 추가적으로 robots.txt 파일에 명시된 내용은 권고사항일 뿐 법적인 근거나 강제력이 없지만 무단 크롤링, 특히 크롤링한 데이터베이스를 상업적으로 이용할 경우 저작권법에 저촉될 수 있다는 점 또한 숙지하고 있는것이 좋다.
 
 - https://www.robotstxt.org
-- 연관 아티클 보러가기: <a href="/meta-robots-%ED%83%9C%EA%B7%B8-%EA%B2%80%EC%83%89-%EB%85%B8%EC%B6%9C-%EC%A0%9C%EC%96%B4-%EC%A0%80%ED%92%88%EC%A7%88-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%95%B4%EA%B2%B0/" class="markdown-link">Meta tag: robots 태그를 통한 검색 색인 및 노출 제어하기 | 저품질 블로그 해결하기</a>
+- 연관 아티클 보러가기: <a href="/meta-robots-%ED%83%9C%EA%B7%B8-%EA%B2%80%EC%83%89-%EB%85%B8%EC%B6%9C-%EC%A0%9C%EC%96%B4-%EC%A0%80%ED%92%88%EC%A7%88-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%95%B4%EA%B2%B0/" class="markdown-link">Meta tag: robots 태그를 통한 검색 색인 및 노출 제어 | 저품질 블로그 해결</a>
