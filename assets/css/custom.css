@@ -93,3 +93,9 @@ main article.article-post hr {
 .col-md-10 h3.font-weight-bold {
   font-size: 21px;
 }
+
+@media screen and (max-width: 991px) {
+  .google-ads.display {
+    display: none;
+  }
+}
