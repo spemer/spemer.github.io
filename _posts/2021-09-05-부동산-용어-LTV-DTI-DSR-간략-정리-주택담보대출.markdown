@@ -8,7 +8,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 요새 친한 친구들과 함께 부동산을 조금씩 공부하기 시작했다. 나는 부동산 공부에 막 걸음마를 떼기 시작한터라 아래와 같은 간단한 용어도 이해하는데 한참이 걸렸다. 이렇게 막 부동산 공부를 시작하려는 분들, 혹은 P2P 분산투자나 부동산 경매를 꿈꾸는 부린이 여러분들이 첫 발걸음을 떼는데 작지만 유용한 정보가 되었으면 하는 마음으로 최대한 쉽게 용어를 풀어보려 한다.
 
-![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGtUBk%2Fbtreg2EbT8r%2F4lmH7PDi3VmxbyXKHncMv1%2Fimg.webp)
+---
 
 # LTV
 
@@ -27,7 +27,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 - 예를들어 5억짜리 집의 LTV가 70%라면, 최대 3억 5천만원의 대출을 받을 수 있음.
 - 현재 투기 과열지구로 지정된 서울의 경우 부동산 안정화 대책으로 인해 9억 원 이하의 주택에는 40%의 LTV를, 9억 원 초과 구간에는 20%의 LTV를 적용하고 있음. 따라서 서울에서 10억원의 주택을 담보로 대출을 신청할 경우, 최대 대출 가능 금액은 3억 8천만 원(9억 원에 대한 40%에 나머지 초과분 1억 원에 대한 20%를 더한 금액)으로 예상할 수 있음.
 
-![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FKdlWT%2Fbtrd9kzavLz%2Fqi6aIFmFfjz0b9HKjenKIK%2Fimg.webp)
+{% include ads-contents.html %}
 
 # DTI
 

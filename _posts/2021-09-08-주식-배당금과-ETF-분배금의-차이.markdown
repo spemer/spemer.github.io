@@ -36,7 +36,7 @@ ETF(상장지수펀드)는 기본적으로 여러 개별 주식들이나 혹은 
 - 배당금도 분배금과 마찬가지로 15.4%의 배당소득세가 발생한다.
 - 현금 배당의 경우 수령액에 대해 15.4%를, 주식 배당의 경우 배당주 액면가를 기준으로 15.4%를 원천징수한다.
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbARdc7%2FbtrerAGwZ4L%2F7M0V6JDXedd3Px3HTXAkr1%2Fimg.webp)
+{% include ads-contents.html %}
 
 ### 간단 요약
 
