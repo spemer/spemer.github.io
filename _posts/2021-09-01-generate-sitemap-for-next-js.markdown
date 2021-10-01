@@ -105,7 +105,7 @@ const formatted = (sitemap) => prettier.format(sitemap, { parser: "html" });
 </urlset>
 ```
 
----
+{% include ads-contents.html %}
 
 ### 2. 외부 API를 위한 sitemap generator 스크립트 작성
 
@@ -246,11 +246,7 @@ dirs.forEach((dir) => {
 
 위 코드를 실행하면, 1번과 2번에서 만들어진 xml 파일들을 모두 .gz 형식으로 압축해줍니다.
 
----
-
 {% include ads-contents.html %}
-
----
 
 ### 4. 위의 방법들로 만들어진 sitemap 파일들을 위한, 사이트맵 색인 파일 생성 스크립트 작성
 

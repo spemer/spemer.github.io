@@ -36,6 +36,8 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 짜장 하나, 짬뽕 둘, 탕수육 하나. 탕수육 저 소스가 정말 너무나도 맛있다. 살짝 달면서 간장 베이스가 느껴지긴 하는데, 아마 앞으로 덕적도에 올때마다 이 중국집은 꼭 오게되지 않을까 싶을 정도의 덕적도 맛집이었다.
 
+{% include ads-contents.html %}
+
 밥을 다 먹고 근처 CU 편의점(이런 곳에 편의점이 있다니)에서 물이랑 햇반 같은 것들을 좀 사는데 계산대에 고등어 한 마리가 누워있었다. 길냥이인 줄 알았는데, 주인아주머니께서 키우는 거라고 하셨다.
 
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=C28ABC8C3DF3CAEE46E7DF680B5FECA2196A&outKey=V125a63b0b44878165914788c4d75d707863d98b991a1d0d83811788c4d75d707863d" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
@@ -43,8 +45,6 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 다음은 시간이 남아서 친구 운전 연습 겸 덕적도 일주 드라이브. 그동안 덕적도를 왔을때는 항상 친구와 바로 저녁먹고 술먹고 하면 해가 져서 기껏해야 서포리 해수욕장 주변만 둘러봤는데, 덕적도가 이렇게 넓고 볼거리가 많은 섬인걸 처음 알았다. 네비게이션도 안찍고 마음가는대로 운전하다보니, 너무나도 멋진 풍경의 선착장과 등대가 보였다.
 
 ![덕적도 북리선착장](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcSDzcs%2Fbtre7H52miv%2F8WbyxhFxgVzXbEnQtNd1o0%2Fimg.jpg)
-
-{% include ads-contents.html %}
 
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=5C2D69C4AFA0687373A9FF795D0F59953EC5&outKey=V124a01075f50682d8941062e833f97b7da2eacfe1c218f9cb521062e833f97b7da2e" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 
@@ -73,6 +73,8 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 ![스모어](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcqsVdr%2FbtreY4hWzh5%2F3hKVtZTqnPwIEzvNGM6UAk%2Fimg.jpg)
 
 아참, 그리고 사진은 못 찍었지만 별이 정말 많았다. 스모어 먹고 불멍 좀 하다 하늘을 봤는데, 저거 은하수 아니야..? 라는 말이 나올 정도로 별이 많았다. 서울에서는 절대 볼 수 없는 별들. 멀리 혹은 오지로 캠핑을 떠난다면, 밤하늘은 꼭 한번 올려다 보자. 덕적도의 밤하늘은 정말 아름답다.
+
+{% include ads-contents.html %}
 
 <iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=4204B87D1EFB180056FC3EEDE749FF3FC015&outKey=V129c666ccaf0ad56f0c684e49b65315d787c2c45ae158d54bf7384e49b65315d787c" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 

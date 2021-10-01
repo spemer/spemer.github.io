@@ -73,11 +73,7 @@ If you can see the same result of mine like the image below, Congrats! You set y
 
 On the Gist code snippet above, I wrote `taskname` after `gulp.task` on the line 3, and used that taskname on my command prompt to execute the task. You can set the name of task with the way you want, or you can set it’s name as `default`. If you set the name of task as `default`, you don’t need to write the task’s name on command prompt — just write `gulp` to execute it.
 
----
-
 {% include ads-contents.html %}
-
----
 
 # Play with code
 

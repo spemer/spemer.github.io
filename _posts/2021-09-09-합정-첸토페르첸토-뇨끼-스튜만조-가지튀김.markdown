@@ -22,11 +22,11 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 ![가지튀김](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvJdGh%2FbtrewwTDTZE%2FFlwnOq3oBY0csbdpPlkolk%2Fimg.jpg)
 
+{% include ads-contents.html %}
+
 ![가지튀김](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdnrm2q%2FbtreCrXOCqY%2FzlHuvrrKk6V1mmlBkjsuF1%2Fimg.jpg)
 
 위에서 식전빵의 사진을 못 찍었다고 했는데, 두 번째 사진에 나와있는 게 그 식전빵이다(어쩌다 보니). 가지튀김은 정말 기대를 하나도 하지 않았었고, 가지를 좋아하지도 않는데 첸토페르첸토에서 가장 맛있고 만족스러웠던 음식이었다. 따뜻하게 튀겨진 가지를 아래 소스에 듬뿍 찍어서 익은 방울토마토와 함께 크게 한입 하면, 짭조름하면서도 입 안이 가득 차는 느낌이 너무 좋다. 치즈가 많고 튀김인 데다가 소스도 기름지지만, 방울토마토가 균형을 잘 잡아주는 느낌이었다.​
-
-{% include ads-contents.html %}
 
 그렇게 첫 음식은 너무 만족스러웠고, 두 번째 가지튀김을 다 먹을 때쯤 다음 음식이 나왔다.
 
@@ -37,6 +37,8 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 소고기를 레드와인과 함께 오래 끓인 스튜라는데, 그래서인지 아니면 당근과 토마토 때문인지 살짝 기분 좋게 달큼한 기운이 도는 게 인상 깊었다. 물론 고기는 굉장히 부드럽고 감자는 더할 나위 없이 포근했다. 위의 가지튀김만큼이나 강렬한 인상은 없었지만, 집에서도 해 먹어보고 싶은 느낌의 푸근한 음식. 특별히 와 이거 정말 너무 맛있어! 하는 느낌은 아니었지만, 감자와 함께 따뜻하게 배를 채우는 느낌이어서 기분 좋은 음식이었다. 아직 가지튀김도 남아있는데, 바로 마지막 음식이 나왔다.
 
 ![뇨끼](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbuo3HT%2FbtreyeZhfTn%2Fn1JRoQmk9pH5vIFEYvB7dK%2Fimg.jpg)
+
+{% include ads-contents.html %}
 
 ![뇨끼](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FS2CNd%2FbtreDlCQNno%2F18kqt1HjSDlmEOvA9oqkG1%2Fimg.jpg)
 

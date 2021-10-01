@@ -34,7 +34,7 @@ setFavicons("https://spemer.com/img/favicon/favicon.png");
 
 Now you’ve completed to set your website’s favicon, without writing code for every HTML files you have! You can apply this way to set favicons for other favicons or shortcut icons with JavaScript arrays.
 
----
+{% include ads-contents.html %}
 
 ## Add array for favicons
 
@@ -71,7 +71,7 @@ setFavicons("https://spemer.com/img/favicon/favicon.png");
 
 That’s it! In the same way, we can set other favicons like Android shortcut icons or Apple touch icons for iPhone and iPad.
 
-{% include ads-contents.html %}
+---
 
 ## Set another array and function
 
@@ -101,7 +101,7 @@ With the code above, we’ve completed to set touch icons for iOS.
 
 ![Code](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCtGvV%2FbtrfrdXITqu%2FpdwU5g9NL1GNdJhLPa3CX0%2Fimg.png)
 
----
+{% include ads-contents.html %}
 
 ### What’s next?
 

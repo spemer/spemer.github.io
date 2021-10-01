@@ -45,7 +45,7 @@ body::-webkit-scrollbar-button {
 
 Customizing scrollbar is non standard method to styling, so you need `-webkit-` <a href="https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix" rel="noopener noreferrer" target="_blank" class="markdown-link">vendor prefix</a> to use pseudo-elements above.
 
----
+{% include ads-contents.html %}
 
 ### Pseudo elements
 
@@ -83,7 +83,7 @@ You can use 7 different pseudo-elements to customize scrollbar with code below:
 
 I used `::-webkit-scrollbar`, `::-webkit-scrollbar-track` and `::-webkit-scrollbar-thumb` for this tutorial. Each properties need value inside the brackets.
 
-{% include ads-contents.html %}
+---
 
 ### Example
 
@@ -106,7 +106,7 @@ body::-webkit-scrollbar-thumb {
 }
 ```
 
----
+{% include ads-contents.html %}
 
 ### Can I use?
 

@@ -14,6 +14,8 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 역삼역 -> 구역삼세무서사거리 가는 방향으로 구역삼세무서사거리에서 조금만 더 내려오면, 위의 사진처럼 바깥에 화로대 테이블과 편의점 의자들이 줄서있는 모습을 볼 수 있다. 하나의 가게는 아니고, 모두 다른 가게들의 야외 테이블이다. 우리는 그 중 마포갈비 & 갈매기 라는 음식점으로 들어갔다. 옆에 인계동껍데기를 갈까도 했지만, 예전에 인천살때 대학교 친구들과 먹었을때 가성비가 너무 안좋았던 기억이 있어서 패스.
 
+{% include ads-contents.html %}
+
 ![갈매기살](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FAXnG3%2FbtrfgZmMIPT%2FeDEzog0kzJ4z8sHHqiKky1%2Fimg.png)
 
 나는 캠핑 중독 수준의 인간이라 숯은 질리도록 봤지만, 볼 때마다 늘 새롭고 설렌다. 숯불 위에 그릴이 있고, 잘 달궈진 그릴 위로 고기들이 올라갈 때 들리는 소리란..! 아무튼 대학생 때 마포갈매기를 참 좋아했는데. 그러고보니 마갈이 요새는 잘 안 보이는 듯하다.
@@ -22,13 +24,13 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 야외의 장점은 역시 답답하지 않고, 냄새도 배지 않으면서 9월같은 초가을 날씨에는 해질녘 이른 노을아래 선선한 바람을 맞으며 기분좋게 맥주 한잔 할 수있다는것 아닐까? 이 날은 금요일이었는데, 그래서인지 더욱 여유롭고 가벼운 마음으로 맛있는 고기와 술을 먹었다.
 
-{% include ads-contents.html %}
-
 ![맥주 한 잔](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F1k18i%2FbtrffOluPim%2FLOhOep74mphGx4IBOQXTKK%2Fimg.png)
 
 순식간에 맥주와 갈매기살 4인분을 해치우고, 늑간살 4인분 더 추가. 원래 주로 팀 회식은 역삼 풍년집(여기도 정말 맛집이다. 다진마늘로 코팅된 소갈비살을 숯불에 구워먹는데, 다음에 포스팅을 할 기회가 있다면 해두려 한다)을 주로 갔었는데 소고기라 그런지 맘놓고 추가하지는 못했지만, 역시 돼지고기는 다르다. 가성비도 굿.
 
 ![늑간살](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQbUEg%2FbtrfjWIDj3f%2FzKsjFQkKVmQwtvUOq4C4DK%2Fimg.png)
+
+{% include ads-contents.html %}
 
 여담이지만 팀원 모두 음악을 해서(밴드부터 디제잉, 프로듀싱까지 참 신기하게 분야도 다양하다) 음악 이야기도 하고, 일 이야기와 잡다한 이야기도 하면서 금세 8인분을 해치웠다. 술자리는 굉장히 좋아하지만 술은 못 먹는 나를 위해 맥주만 한병 더 시키고, 바로 냉면으로 패스. 냉면은 일반적인 딱 정석 함흥냉면 그 자체.
 

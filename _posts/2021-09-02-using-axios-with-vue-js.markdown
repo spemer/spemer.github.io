@@ -36,7 +36,7 @@ app = new Vue({
 });
 ```
 
----
+{% include ads-contents.html %}
 
 ### Axios 사용하기
 
@@ -69,11 +69,7 @@ app = new Vue({
 </script>
 ```
 
----
-
 {% include ads-contents.html %}
-
----
 
 ### IE 지원하기
 

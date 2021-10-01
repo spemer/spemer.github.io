@@ -46,6 +46,8 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 다양한 캠핑 스팟을 다녀봤는데 어딜가던 고양이나 강아지는 꼭 있었다. 작년에 양주 쪽으로 갔을때는 고라니 소리에 시끄러워서 잠을 못잔적도 있는데. 이쯤되면 군대에서나 봤던 전설의 동물인 산양같은 동물도 나오는게 아닐까 모르겠다.
 
+{% include ads-contents.html %}
+
 ![인증샷](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FonswB%2FbtrdNW5xOa8%2FVPdUs2DltDPxoA9SQ5MIwK%2Fimg.jpg)
 
 정신없이 먹다보면 해가 진다. 서해라서 그런지 선셋을 제대로 즐길 수 있었다. 대충 열두시까지는 저 위에 앉아서 먹고 수다떨고 한 듯 하다.
