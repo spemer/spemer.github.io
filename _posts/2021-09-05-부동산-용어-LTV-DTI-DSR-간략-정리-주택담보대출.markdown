@@ -24,7 +24,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 ### 적용 예시 및 참고사항
 
-- 예를 들어 5억짜리 집의 LTV가 70%라면, 최대 3억 5천만원의 대출을 받을 수 있음.
+- 예를들어 5억짜리 집의 LTV가 70%라면, 최대 3억 5천만원의 대출을 받을 수 있음.
 - 현재 투기 과열지구로 지정된 서울의 경우 부동산 안정화 대책으로 인해 9억 원 이하의 주택에는 40%의 LTV를, 9억 원 초과 구간에는 20%의 LTV를 적용하고 있음. 따라서 서울에서 10억원의 주택을 담보로 대출을 신청할 경우, 최대 대출 가능 금액은 3억 8천만 원(9억 원에 대한 40%에 나머지 초과분 1억 원에 대한 20%를 더한 금액)으로 예상할 수 있음.
 
 ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FKdlWT%2Fbtrd9kzavLz%2Fqi6aIFmFfjz0b9HKjenKIK%2Fimg.webp)
@@ -40,7 +40,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 ### 적용 예시 및 참고사항
 
-- 예를 들어 연 소득이 5천만 원이고 DTI가 50%라면, 대출 원리금 상환액이 2천 5백만 원을 넘지 않도록 대출 규모를 제한하게 된다.
+- 예를들어 연 소득이 5천만 원이고 DTI가 50%라면, 대출 원리금 상환액이 2천 5백만 원을 넘지 않도록 대출 규모를 제한하게 된다.
 - 금융기관에서 DTI를 산정할 때 최소 2년 연간 소득 증빙자료를 제출해야 하며, 해당 증빙자료를 제출하지 못할 경우 신고소득(내가 신고한 소득)과 인정소득(실제로 인정되는 소득)이 일정 부분 차감된다.
 
 {% include ads-contents.html %}
@@ -57,7 +57,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 ### 적용 예시 및 참고사항
 
-- 예를 들어 현재 연 소득이 5천만원 이면서 연간 상환 원리금이 2천5백만 원인 사람의 DSR은 50%이다. 이 때 DSR 한도가 60%인 금융기관에서 추가 대출을 실행할 경우, 이 사람이 해당 금융기관에서 받을 수 있는 추가 대출 가능 금액은 기존 DSR 50%를 제외한 나머지 10%(500만 원)가 될 것이다.
+- 예를들어 현재 연 소득이 5천만원 이면서 연간 상환 원리금이 2천5백만 원인 사람의 DSR은 50%이다. 이 때 DSR 한도가 60%인 금융기관에서 추가 대출을 실행할 경우, 이 사람이 해당 금융기관에서 받을 수 있는 추가 대출 가능 금액은 기존 DSR 50%를 제외한 나머지 10%(500만 원)가 될 것이다.
 - DSR의 기준은 70%이며, 이를 초과할 경우는 '위험 대출'로, 90%를 초과할 경우 '고위험 대출'로 분류된다.
 
 ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdf7Lm6%2Fbtreh1ENV90%2FahXL1wbzvAoGK7CBW4ydKk%2Fimg.webp)
