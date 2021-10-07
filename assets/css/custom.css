@@ -48,6 +48,10 @@ article.article-post iframe[allowfullscreen] {
   padding: 0 !important;
 }
 
+.ads-search {
+  margin: -64px 0 32px !important;
+}
+
 /* Next/Previous posting */
 .nextprev {
   width: 100%;

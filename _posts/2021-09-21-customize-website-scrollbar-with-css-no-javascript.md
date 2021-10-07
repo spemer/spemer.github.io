@@ -2,7 +2,7 @@
 layout: post
 title: "Customizing website scrollbar with CSS(NO JavaScript!)"
 categories: [Web, CSS, HTML]
-tags: [featured]
+tags: []
 image: https://miro.medium.com/max/1400/1*kh08HW91JyQ2FMUyHGRA9w.png
 ---
 
