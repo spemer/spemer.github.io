@@ -10,7 +10,7 @@ image: https://blog.kakaocdn.net/dn/FTlZM/btrgJYSFcRE/kYHkynoxjhINhOReZFnxtk/img
 
 이번 STEAL THE APPLE 전시는 나처럼 스티브 잡스를 좋아하거나, 애플 제품을 굉장히 사랑하는 친구들과 함께했다. 평소에도 애플 신제품 발표회가 있는 날이면 새벽 2시에도 애플 이벤트를 꼬박꼬박 챙겨보는 우리에게는 놓칠 수 없는 기회. 전시는 10월 17일까지 진행되며, 음료나 기타 사은품 없이 전시만 보기위한 입장권은 10,000원이다. 함께 간 친구들은 예매할때 2천원을 더 내고 1층에서 밀크티를 먹었다. 음료 혹은 에어팟 프로 케이스가 함께 주어지는 티켓은 각각 12,000원 그리고 36,000원.
 
-[STEAL THE APPLE: 애플 박물관을 훔치다](https://booking.naver.com/booking/5/bizes/575806)
+<a href="https://booking.naver.com/booking/5/bizes/575806" target="_blank" class="markdown-link">STEAL THE APPLE: 애플 박물관을 훔치다</a>
 
 ![STEAL THE APPLE: 애플 박물관을 훔치다 전시장 입구의 스티브 잡스](https://blog.kakaocdn.net/dn/CQiUf/btrgJZquPfj/WldjAPxRNxMmfgCkI2ko90/img.png)
 
@@ -74,5 +74,11 @@ image: https://blog.kakaocdn.net/dn/FTlZM/btrgJYSFcRE/kYHkynoxjhINhOReZFnxtk/img
 
 규모가 큰 전시회는 아니어도 이렇게 다양한 애플 컴퓨터들을 가까이서 보며 직접 시연까지 해볼 수 있는 전시가 고작 10,000원밖에 하지 않는다는건 정말 땡큐인 부분이다. 거기에 처음부터 끝까지 자세히 설명해주시는 도슨트님까지. 개인적으로 도슨트님의 설명을 들을때는 이 분이 그냥 돈을 받고 하는게 아닌, 정말 애플 제품을 사랑하고 애플 제품들의 의미를 전달하고싶은 마음이 크다는게 느껴져서 너무 좋았었다. 혹시 이번 STEAL THE APPLE 전시에 가게된다면, 시간이 조금 오래 걸리더라도 꼭 도슨트님의 설명을 들으며 전시를 관람하는걸 추천드린다.
 
-- [신사동 가로골목](https://place.map.kakao.com/2051041306)
-- [STEAL THE APPLE 전시 예매 바로가기](https://booking.naver.com/booking/5/bizes/575806)
+<ul>
+  <li>
+    <a href="https://place.map.kakao.com/2051041306" target="_blank" class="markdown-link">신사동 가로골목</a>
+  </li>
+  <li>
+    <a href="https://booking.naver.com/booking/5/bizes/575806" target="_blank" class="markdown-link">STEAL THE APPLE 전시 예매 바로가기(네이버 예약)</a>
+  </li>
+</ul>
