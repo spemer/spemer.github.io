@@ -39,6 +39,15 @@ article.article-post iframe[allowfullscreen] {
   padding-bottom: 96px !important;
 }
 
+.google-ads.search {
+  margin-top: 32px !important;
+  padding-bottom: 0 !important;
+}
+
+.google-ads.search .gsc-control-cse {
+  padding: 0 !important;
+}
+
 /* Next/Previous posting */
 .nextprev {
   width: 100%;
