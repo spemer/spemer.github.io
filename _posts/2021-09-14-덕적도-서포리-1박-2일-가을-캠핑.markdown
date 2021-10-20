@@ -100,6 +100,6 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Xoivu9cEeRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="/1%EB%B0%95-2%EC%9D%BC-%EB%8D%95%EC%A0%81%EB%8F%84-%EB%B0%B1%ED%8C%A8%ED%82%B9-%EC%BA%A0%ED%95%91-%EC%96%91%EA%B0%88%EB%B9%84-%ED%94%84%EB%A0%8C%EC%B9%98%EB%9E%99/" class="markdown-link">이전 덕적도 포스팅이 궁금하다면?(클릭)</a>
+<a href="/1%EB%B0%95-2%EC%9D%BC-%EB%8D%95%EC%A0%81%EB%8F%84-%EB%B0%B1%ED%8C%A8%ED%82%B9-%EC%BA%A0%ED%95%91-%EC%96%91%EA%B0%88%EB%B9%84-%ED%94%84%EB%A0%8C%EC%B9%98%EB%9E%99/" title="이전 덕적도 포스팅" class="markdown-link">이전 덕적도 포스팅이 궁금하다면?(클릭)</a>
 
-<a href="http://www.kefship.com/" rel="noopener noreferrer" target="_blank" class="markdown-link">덕적도 배편 예약하는 곳</a>
+<a href="http://www.kefship.com/" rel="noopener noreferrer" target="_blank" title="덕적도 배편 예약하는 곳" class="markdown-link">덕적도 배편 예약하는 곳</a>

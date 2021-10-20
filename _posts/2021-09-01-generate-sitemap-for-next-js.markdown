@@ -8,7 +8,7 @@ image: https://spemer.com/img/works/sitemap/logo.jpeg
 
 > 사이트맵 생성부터, 검색엔진 색인 요청까지
 
-얼마 전, 기존 [Vue.js](https://vuejs.org/)로 만들어져있던 볼라 랜딩페이지(https://volla.live)를 앱 내 콘텐츠 공유용 브릿지 페이지([Next.js](https://nextjs.org/))에 통합하게 되면서 함께 진행한 검색엔진 최적화(SEO) 작업 - 그중에서도 사이트맵 작업 중에 진행했던, Next.js 동적 sitemap generator 스크립트 작성기를 공유하고자 합니다.
+얼마 전, 기존 <a href="https://vuejs.org/" rel="noopener noreferrer" target="_blank" title="Vue.js" class="markdown-link">Vue.js</a>로 만들어져있던 볼라 랜딩페이지(https://volla.live)를 앱 내 콘텐츠 공유용 브릿지 페이지(<a href="https://nextjs.org/" rel="noopener noreferrer" target="_blank" title="Next.js" class="markdown-link">Next.js</a>)에 통합하게 되면서 함께 진행한 검색엔진 최적화(SEO) 작업 - 그중에서도 사이트맵 작업 중에 진행했던, Next.js 동적 sitemap generator 스크립트 작성기를 공유하고자 합니다.
 
 ---
 
@@ -355,3 +355,5 @@ $ curl http://google.com/ping?sitemap=http://website.com/sitemap.xml
 ### 마치며
 
 개발에 대한 지식이 많이 부족한 터라 잘못된 내용이 있을 수도 있는데, 해당 부분에 코멘트를 달아주신다면 바로잡을 수 있도록 하겠습니다. 혹시 위 방법보다 더욱 좋은 방법이나, 개선을 위한 의견 등은 댓글로 부탁드립니다. 읽어주셔서 감사합니다!
+
+- <a href="https://nextjs.org/" rel="noopener noreferrer" target="_blank" title="Next.js" class="markdown-link">Next.js</a>

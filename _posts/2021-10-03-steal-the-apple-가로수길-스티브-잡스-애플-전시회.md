@@ -10,7 +10,7 @@ image: https://blog.kakaocdn.net/dn/FTlZM/btrgJYSFcRE/kYHkynoxjhINhOReZFnxtk/img
 
 이번 STEAL THE APPLE 전시는 나처럼 스티브 잡스를 좋아하거나, 애플 제품을 굉장히 사랑하는 친구들과 함께했다. 평소에도 애플 신제품 발표회가 있는 날이면 새벽 2시에도 애플 이벤트를 꼬박꼬박 챙겨보는 우리에게는 놓칠 수 없는 기회. 전시는 10월 17일까지 진행되며, 음료나 기타 사은품 없이 전시만 보기위한 입장권은 10,000원이다. 함께 간 친구들은 예매할때 2천원을 더 내고 1층에서 밀크티를 먹었다. 음료 혹은 에어팟 프로 케이스가 함께 주어지는 티켓은 각각 12,000원 그리고 36,000원.
 
-<a href="https://booking.naver.com/booking/5/bizes/575806" target="_blank" class="markdown-link">STEAL THE APPLE: 애플 박물관을 훔치다</a>
+<a href="https://booking.naver.com/booking/5/bizes/575806" target="_blank" rel="noopener noreferrer" title="STEAL THE APPLE: 애플 박물관을 훔치다" class="markdown-link">STEAL THE APPLE: 애플 박물관을 훔치다</a>
 
 ![STEAL THE APPLE: 애플 박물관을 훔치다 전시장 입구의 스티브 잡스](https://blog.kakaocdn.net/dn/CQiUf/btrgJZquPfj/WldjAPxRNxMmfgCkI2ko90/img.png)
 
@@ -76,9 +76,9 @@ image: https://blog.kakaocdn.net/dn/FTlZM/btrgJYSFcRE/kYHkynoxjhINhOReZFnxtk/img
 
 <ul>
   <li>
-    <a href="https://place.map.kakao.com/2051041306" target="_blank" class="markdown-link">신사동 가로골목</a>
+    <a href="https://place.map.kakao.com/2051041306" title="신사동 가로골목" rel="noopener noreferrer" target="_blank" class="markdown-link">신사동 가로골목</a>
   </li>
   <li>
-    <a href="https://booking.naver.com/booking/5/bizes/575806" target="_blank" class="markdown-link">STEAL THE APPLE 전시 예매 바로가기(네이버 예약)</a>
+    <a href="https://booking.naver.com/booking/5/bizes/575806" target="_blank" rel="noopener noreferrer" title="STEAL THE APPLE: 애플 박물관을 훔치다" class="markdown-link">STEAL THE APPLE: 애플 박물관을 훔치다</a>
   </li>
 </ul>

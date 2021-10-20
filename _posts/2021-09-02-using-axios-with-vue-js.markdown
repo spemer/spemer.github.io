@@ -6,9 +6,7 @@ tags: []
 image: https://spemer.com/img/works/vue/thumb.png
 ---
 
-[Axios](https://github.com/axios/axios)는 http통신을 하고, ajax 요청을 하는 등의 작업을 위한 라이브러리입니다. 이 외에 [vue-resource](https://github.com/pagekit/vue-resource) 라는 라이브러리도 있지만 업데이트도 느리고 Axios보다 커뮤니티도 활성화되어있지 않아서 잘 사용하지 않는다고 합니다.
-
-[https://github.com/axios/axios](https://github.com/axios/axios)
+<a href="https://github.com/axios/axios" rel="noopener noreferrer" target="_blank" title="Axios 깃허브 바로가기" class="markdown-link">Axios</a>는 http통신을 하고, ajax 요청을 하는 등의 작업을 위한 라이브러리입니다. 이 외에 <a href="https://github.com/pagekit/vue-resource" rel="noopener noreferrer" target="_blank" title="vue-resource 깃허브 바로가기" class="markdown-link">vue-resource</a> 라는 라이브러리도 있지만 업데이트도 느리고 Axios보다 커뮤니티도 활성화되어있지 않아서 잘 사용하지 않는다고 합니다.
 
 ---
 
@@ -84,3 +82,5 @@ npm install --save es6-promise
 ```javascript
 require("es6-promise").polyfill();
 ```
+
+- <a href="https://github.com/axios/axios" rel="noopener noreferrer" target="_blank" title="Axios 깃허브 바로가기" class="markdown-link">Axios 깃허브 바로가기</a>
