@@ -8,6 +8,8 @@ image: https://blog.kakaocdn.net/dn/w529y/btrgqxWNaHq/56xoWmx0YlqEqP75Ct0sV0/img
 
 검색엔진최적화의 핵심은 콘텐츠다. 하지만 단가가 높은 키워드일수록 콘텐츠만으로 승부를 보기는 어려워지고, 나머지는 기술적인 부분의 도움을 받게 된다. 기술적인 부분에는 웹사이트 속도의 최적화, 보안, 모바일 친화 그리고 웹페이지 접근성 등 다양한 요소가 고려된다. 실제로 Lighthouse 검사를 해보면 이러한 부분들이 점수에 큰 영향을 미치는것을 알 수 있다. 더불어 웹사이트 검색결과에서 **보여주어야 할 것**과 **보여주지 말아야 할 것**을 구분해서 노출시켜주는것 또한 검색엔진최적화에 있어 중요한 부분이다.
 
+- <a href="https://www.robotstxt.org" rel="noopener noreferrer" target="_blank" title="robots.txt 공식 웹사이트" class="markdown-link">robots.txt 공식 웹사이트</a>
+
 ![robots.txt](https://blog.kakaocdn.net/dn/w529y/btrgqxWNaHq/56xoWmx0YlqEqP75Ct0sV0/img.png)
 
 이번 아티클의 주제인 robots.txt가 바로 **보여주어야 할 것**과 **보여주지 말아야 할 것**을 구분할 수 있게 해주는 장치인 동시에, 얼마 전 작성한 meta tag: robots 포스팅과도 연관된 항목이다.
@@ -144,7 +146,7 @@ Allow: /
 
 ## 마치며
 
-**[robots.txt 공식 웹사이트](https://www.robotstxt.org)**에 가면 자세한 문서를 볼 수 있다. 추가적으로 robots.txt 파일에 명시된 내용은 권고사항일 뿐 법적인 근거나 강제력이 없지만 무단 크롤링, 특히 크롤링한 데이터베이스를 상업적으로 이용할 경우 저작권법에 저촉될 수 있다는 점 또한 숙지하고 있는것이 좋다.
+<a href="https://www.robotstxt.org" rel="noopener noreferrer" target="_blank" title="robots.txt 공식 웹사이트" class="markdown-link">robots.txt 공식 웹사이트</a>에 가면 자세한 문서를 볼 수 있다. 추가적으로 robots.txt 파일에 명시된 내용은 권고사항일 뿐 법적인 근거나 강제력이 없지만 무단 크롤링, 특히 크롤링한 데이터베이스를 상업적으로 이용할 경우 저작권법에 저촉될 수 있다는 점 또한 숙지하고 있는것이 좋다.
 
-- **https://www.robotstxt.org**
+- <a href="https://www.robotstxt.org" rel="noopener noreferrer" target="_blank" title="robots.txt 공식 웹사이트" class="markdown-link">robots.txt 공식 웹사이트</a>
 - 연관 아티클 보러가기: <a href="/meta-robots-%ED%83%9C%EA%B7%B8-%EA%B2%80%EC%83%89-%EB%85%B8%EC%B6%9C-%EC%A0%9C%EC%96%B4-%EC%A0%80%ED%92%88%EC%A7%88-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%95%B4%EA%B2%B0/" class="markdown-link">Meta tag: robots 태그를 통한 검색 색인 및 노출 제어 | 저품질 블로그 해결</a>

@@ -8,9 +8,16 @@ image: https://blog.kakaocdn.net/dn/FTlZM/btrgJYSFcRE/kYHkynoxjhINhOReZFnxtk/img
 
 나는 '곤조'가 있는 사람을 좋아한다. 옳은 방식이건 그렇지 못한 방식이건, 자신만의 굳건한 철학이 있는 사람을 굉장히 높게 평가한다. 스티브 잡스가 그렇다. 진정한 의미의 스마트폰 시대를 열었다는 평가, 개인용 컴퓨터의 대중화를 이끌었다는 평가, 제품에서의 디자인을 '보이는 것'이 아닌 '기능'으로써 정의했다는 평가 등 그를 논하는 의견은 굉장히 많지만 나는 단순히 잡스의 곤조 하나때문에 그에게 빠져들었다. 역설적으로 그런 곤조가 그를 죽음에 이르게 만들었지만, '단순함'에 병적으로 집착하는 잡스의 철학이 지금 나의 삶과 살아가는 방식에도 굉장히 많은 영향을 끼쳤다.
 
-이번 STEAL THE APPLE 전시는 나처럼 스티브 잡스를 좋아하거나, 애플 제품을 굉장히 사랑하는 친구들과 함께했다. 평소에도 애플 신제품 발표회가 있는 날이면 새벽 2시에도 애플 이벤트를 꼬박꼬박 챙겨보는 우리에게는 놓칠 수 없는 기회. 전시는 10월 17일까지 진행되며, 음료나 기타 사은품 없이 전시만 보기위한 입장권은 10,000원이다. 함께 간 친구들은 예매할때 2천원을 더 내고 1층에서 밀크티를 먹었다. 음료 혹은 에어팟 프로 케이스가 함께 주어지는 티켓은 각각 12,000원 그리고 36,000원.
+<ul>
+  <li>
+    <a href="https://place.map.kakao.com/2051041306" title="신사동 가로골목" rel="noopener noreferrer" target="_blank" class="markdown-link">신사동 가로골목</a>
+  </li>
+  <li>
+    <a href="https://booking.naver.com/booking/5/bizes/575806" target="_blank" rel="noopener noreferrer" title="STEAL THE APPLE: 애플 박물관을 훔치다" class="markdown-link">STEAL THE APPLE: 애플 박물관을 훔치다</a>
+  </li>
+</ul>
 
-<a href="https://booking.naver.com/booking/5/bizes/575806" target="_blank" rel="noopener noreferrer" title="STEAL THE APPLE: 애플 박물관을 훔치다" class="markdown-link">STEAL THE APPLE: 애플 박물관을 훔치다</a>
+이번 STEAL THE APPLE 전시는 나처럼 스티브 잡스를 좋아하거나, 애플 제품을 굉장히 사랑하는 친구들과 함께했다. 평소에도 애플 신제품 발표회가 있는 날이면 새벽 2시에도 애플 이벤트를 꼬박꼬박 챙겨보는 우리에게는 놓칠 수 없는 기회. 전시는 10월 17일까지 진행되며, 음료나 기타 사은품 없이 전시만 보기위한 입장권은 10,000원이다. 함께 간 친구들은 예매할때 2천원을 더 내고 1층에서 밀크티를 먹었다. 음료 혹은 에어팟 프로 케이스가 함께 주어지는 티켓은 각각 12,000원 그리고 36,000원.
 
 ![STEAL THE APPLE: 애플 박물관을 훔치다 전시장 입구의 스티브 잡스](https://blog.kakaocdn.net/dn/CQiUf/btrgJZquPfj/WldjAPxRNxMmfgCkI2ko90/img.png)
 
