@@ -107,4 +107,5 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 SEO(검색 엔진 최적화)를 위해 네이버 서치어드바이저나 구글 서치콘솔등에 티스토리 혹은 기타 블로그 웹사이트들을 함께 등록해두었다면, 각각의 검색엔진에 가장 맞는 매체 하나만 남겨두고 다른 웹사이트(블로그)들은 등록하지 않는것을 추천한다. 아래에 로봇 메타태그에 관한 구글 문서를 함께 읽어본다면 많은 도움이 될거라 생각된다.
 
-<a href="https://developers.google.com/search/docs/advanced/robots/robots_meta_tag?hl=ko" rel="noopener noreferrer" target="_blank" title="구글 로봇 메타태그 문서" class="markdown-link">구글 로봇 메타태그 문서</a>
+- <a href="https://developers.google.com/search/docs/advanced/robots/robots_meta_tag?hl=ko" rel="noopener noreferrer" target="_blank" title="구글 로봇 메타태그 문서" class="markdown-link">구글 로봇 메타태그 문서</a>
+- 관련 글: <a href="/robots-txt-%ED%86%B5%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%B2%94%EC%9C%84-%EC%A7%80%EC%A0%95/" class="markdown-link">[SEO] robots.txt 세팅으로 내 블로그/홈페이지 크롤링 범위 설정하기</a>
