@@ -2,7 +2,7 @@
 layout: post
 title: "[전시회 후기] STEAL THE APPLE: 애플 박물관을 훔치다"
 categories: [일상, 전시, 가로수길, 스티브 잡스, 애플 스토어]
-tags: [featured]
+tags: []
 image: https://blog.kakaocdn.net/dn/FTlZM/btrgJYSFcRE/kYHkynoxjhINhOReZFnxtk/img.png
 ---
 
