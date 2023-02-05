@@ -3,7 +3,7 @@ layout: post
 title: "[주식용어] ROE/PER/PBR 차이점 정리"
 categories: [주식, ROE, PER, PBR, 재테크]
 tags: []
-image: 
+image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBn2hB%2FbtrYaqflkS7%2F2wflEO9o1fkoKyzyI0H4rK%2Fimg.jpg
 ---
 
 # ROE(자기자본이익률)
