@@ -45,4 +45,6 @@ __주당 순자산(BPS)이란 기업이 문을 닫게 될 경우, 주주에게 �
 
 ---
 
+![ROE/PER/PBR](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBn2hB%2FbtrYaqflkS7%2F2wflEO9o1fkoKyzyI0H4rK%2Fimg.jpg)
+
 요약하자면 ROE는 회사의 수익성을 나타내고, PER은 주가와 순이익 간의 관계를, PBR은 주가와 자본 간의 관계를 나타낸다.
