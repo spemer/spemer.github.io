@@ -25,8 +25,7 @@
   {% if post.image %}
   <div class="col-md-3 pr-0 text-right">
     <a href="{{site.baseurl}}{{post.url}}">
-      <img class="w-100" src="{% if post.image contains "://" %}{{ post.image
-      }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{
+      <img class="w-100" loading="lazy" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{% assign _img_first = post.image | slice: 0 %}{% if _img_first == '/' %}{{ site.baseurl }}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}{% endif %}" alt="{{
       post.title }}">
     </a>
   </div>

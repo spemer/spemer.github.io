@@ -4,6 +4,7 @@ layout: default
 
 {% assign author = site.authors[page.author] %}
 <div class="container">
+  {% include breadcrumb.html %}
   <div
     class="
       jumbotron jumbotron-fluid
@@ -77,15 +78,8 @@ layout: default
             {% endif %}
             <small class="ml-3">
               {{ author.name }}
-              <span
-                ><a
-                  rel="noopener noreferrer"
-                  target="_blank"
-                  href="{{ author.twitter }}"
-                  class="btn btn-outline-success btn-sm btn-round ml-1"
-                  >Follow</a
-                ></span
-              >
+
+
               <span class="text-muted d-block mt-1"
                 >{{ page.date | date: '%b %d, %Y' }} · {% include
                 meta-read-time.html %}</span
@@ -97,8 +91,8 @@ layout: default
         <div class="col-md-6 pr-0 align-self-center">
           <img
             class="rounded"
-            src="{% if page.image contains '://' %}{{
-          page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}"
+            loading="lazy"
+            src="{% if page.image contains '://' %}{{ page.image }}{% else %}{% assign _img_first = page.image | slice: 0 %}{% if _img_first == '/' %}{{ site.baseurl }}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}{% endif %}"
             alt="{{ page.title }}"
           />
         </div>
@@ -116,12 +110,22 @@ layout: default
         <div class="text-muted">Share this 📤</div>
         <div class="share d-inline-block">
           <!-- AddToAny BEGIN -->
-          <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+          <div class="a2a_kit a2a_kit_size_32 a2a_default_style" id="a2a-share">
             <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
             <a class="a2a_button_facebook"></a>
-            <a class="a2a_button_twitter"></a>
           </div>
-          <script async src="https://static.addtoany.com/menu/page.js"></script>
+          <script>
+            var a2aObserver = new IntersectionObserver(function (entries) {
+              if (entries[0].isIntersecting) {
+                var s = document.createElement('script');
+                s.async = true;
+                s.src = 'https://static.addtoany.com/menu/page.js';
+                document.head.appendChild(s);
+                a2aObserver.disconnect();
+              }
+            }, { rootMargin: '200px' });
+            a2aObserver.observe(document.getElementById('a2a-share'));
+          </script>
           <!-- AddToAny END -->
         </div>
         {% include ads-display.html %}
@@ -165,15 +169,7 @@ layout: default
         </div>
         <div class="col-md-10">
           <h3 class="font-weight-bold">
-            Written by ✍️ {{ author.name }} {% if author.twitter %}<span
-              ><a
-                rel="noopener noreferrer"
-                target="_blank"
-                href="{{ author.twitter }}"
-                class="btn btn-outline-success btn-sm btn-round ml-2"
-                >Follow</a
-              ></span
-            >{% endif %}
+            Written by ✍️ {{ author.name }}
           </h3>
           {{ author.bio }}
         </div>
