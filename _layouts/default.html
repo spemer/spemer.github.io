@@ -90,13 +90,6 @@
     <main role="main" class="site-content">{{ content }}</main>
 
     <!-- Scripts: navbar toggle, copyright year -->
-    <script>
-      document.querySelector('.navbar-toggler').addEventListener('click', function () {
-        var target = document.querySelector(this.getAttribute('data-target'));
-        if (target) target.classList.toggle('show');
-      });
-      document.getElementById('year').textContent = new Date().getFullYear();
-    </script>
     <script defer src="{{site.baseurl}}/assets/js/theme.js"></script>
 
     <!-- Footer -->
@@ -125,6 +118,14 @@
         </div>
       </div>
     </footer>
+
+    <script>
+      document.querySelector('.navbar-toggler').addEventListener('click', function () {
+        var target = document.querySelector(this.getAttribute('data-target'));
+        if (target) target.classList.toggle('show');
+      });
+      document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
 
   </body>
 </html>
