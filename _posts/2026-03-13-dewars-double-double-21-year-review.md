@@ -5,7 +5,7 @@ date: 2026-03-13 12:30:00 +0900
 description: "듀어스 더블더블 21년 블렌디드 스카치 위스키 테이스팅 리뷰. 듀어스의 역사와 독특한 4단계 숙성 공정, 향과 맛 피니시까지 상세 정리."
 categories: [위스키]
 tags: [듀어스, 위스키, 블렌디드, 하이랜드, 테이스팅, 스카치위스키]
-image: assets/images/posts/2026-03-13-dewars-double-double-21-year-review.jpeg
+image: assets/images/posts/2026-03-13-dewars-double-double-21-year-review.webp
 ---
 
 블렌디드 위스키를 좀 무시하던 시절이 있었다. 싱글 몰트만 고급이고 블렌디드는 그냥 대중주라는 편견이랄까. 근데 듀어스 더블더블 21년을 마시고 그 생각이 완전히 뒤집혔다. 21년이라는 숙성 연수도 대단하지만, 4단계 숙성이라는 독특한 공정을 거친 이 위스키는 블렌디드의 한계가 어디까지인지를 보여준다. "블렌디드가 이 정도라고?" 라는 말이 입에서 절로 나왔다.
@@ -40,7 +40,7 @@ image: assets/images/posts/2026-03-13-dewars-double-double-21-year-review.jpeg
 
 듀어스의 라인업은 일반 라인과 더블더블 시리즈로 나뉜다.
 
-![듀어스 대표 라인업 비교](/assets/images/posts/2026-03-13-dewars-double-double-21-year-review-01.png)
+![듀어스 대표 라인업 비교](/assets/images/posts/2026-03-13-dewars-double-double-21-year-review-01.webp)
 
 **듀어스 화이트 라벨** — 듀어스의 스탠다드. 전 세계적으로 가장 많이 팔리는 듀어스 제품이고, 하이볼 베이스로 많이 쓰인다. 가볍고 스무스한 스타일.
 
@@ -62,7 +62,7 @@ image: assets/images/posts/2026-03-13-dewars-double-double-21-year-review.jpeg
 
 4단계 숙성이 만들어낸 블렌디드 스카치의 진수를 맛보자.
 
-![듀어스 더블더블 21년 블렌디드 스카치 위스키](/assets/images/posts/2026-03-13-dewars-double-double-21-year-review.jpeg)
+![듀어스 더블더블 21년 블렌디드 스카치 위스키](/assets/images/posts/2026-03-13-dewars-double-double-21-year-review.webp)
 
 ### 향 (Nose)
 

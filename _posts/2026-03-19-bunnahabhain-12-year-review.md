@@ -5,7 +5,7 @@ date: 2026-03-19 15:30:00 +0900
 description: "아일라 섬에서 피트를 쓰지 않는 이단아 부나하벤 증류소의 대표 위스키 부나하벤 12년 테이스팅 리뷰와 라인업 정리"
 categories: [위스키]
 tags: [부나하벤, 위스키, 아일라, 싱글몰트, 테이스팅, 스카치위스키]
-image: assets/images/posts/2026-03-19-bunnahabhain-12-year-review.jpeg
+image: assets/images/posts/2026-03-19-bunnahabhain-12-year-review.webp
 ---
 
 아일라 위스키를 이야기할 때 빠지지 않는 키워드가 "피트"다. 라프로익의 약품 같은 날카로움, 라가불린의 묵직한 스모크, 아드벡의 강렬한 훈연. 아일라 섬 하면 곧 피트를 떠올릴 정도로 둘은 뗄 수 없는 관계다. 그런데 이 섬에 피트를 거의 쓰지 않는 증류소가 하나 있다. 부나하벤(Bunnahabhain). 처음에 이 이름을 들었을 때 "아일라인데 논피트?"라는 의문이 들었는데, 막상 마셔보니까 오히려 그게 이 위스키의 가장 큰 매력이더라. 피트 향 없이도 아일라의 바다를 온전히 담아낼 수 있다는 걸 부나하벤 12년이 보여준다.
@@ -40,7 +40,7 @@ image: assets/images/posts/2026-03-19-bunnahabhain-12-year-review.jpeg
 
 부나하벤의 라인업은 논피트를 중심으로, 피티드 라인까지 꽤 폭넓게 구성돼 있다.
 
-![부나하벤 대표 라인업 비교](/assets/images/posts/2026-03-19-bunnahabhain-12-year-review-01.png)
+![부나하벤 대표 라인업 비교](/assets/images/posts/2026-03-19-bunnahabhain-12-year-review-01.webp)
 
 **부나하벤 12년** — 증류소의 간판이자 핵심. 셰리 캐스크를 중심으로 숙성하며, 논피트의 깔끔한 몰트 캐릭터에 해양성 뉘앙스가 더해진 보틀이다. 46.3%로 병입하고 비냉각 여과(Non-chill filtered), 무색소(No colour added)를 내세우는데, 이 정도 가격대에서 이런 조건을 갖춘 위스키가 많지 않다. 자세한 테이스팅은 아래에서.
 
@@ -56,7 +56,7 @@ image: assets/images/posts/2026-03-19-bunnahabhain-12-year-review.jpeg
 
 부나하벤의 얼굴, 12년산을 본격적으로 뜯어보자.
 
-![부나하벤 12년 싱글몰트 위스키](/assets/images/posts/2026-03-19-bunnahabhain-12-year-review.jpeg)
+![부나하벤 12년 싱글몰트 위스키](/assets/images/posts/2026-03-19-bunnahabhain-12-year-review.webp)
 
 ### 향 (Nose)
 

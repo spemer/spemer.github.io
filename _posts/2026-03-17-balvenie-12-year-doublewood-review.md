@@ -5,7 +5,7 @@ date: 2026-03-17 14:30:00 +0900
 description: "발베니 12년 더블우드 테이스팅 리뷰. 캐스크 피니싱을 최초로 도입한 발베니 증류소의 역사와 장인 정신, 대표 라인업을 함께 정리했다"
 categories: [위스키]
 tags: [발베니, 더블우드, 싱글몰트, 스페이사이드, 캐스크피니싱, 스카치위스키]
-image: assets/images/posts/2026-03-17-balvenie-12-year-doublewood-review.jpeg
+image: assets/images/posts/2026-03-17-balvenie-12-year-doublewood-review.webp
 ---
 
 위스키를 마시면서 "이 증류소는 진짜 장인 정신이 살아있구나" 하고 느낀 적이 몇 번 있는데, 발베니가 그중 하나다. 전통 플로어 몰팅을 아직도 직접 하고, 자체 쿠퍼리지(통 제작소)까지 운영하는 증류소라니. 거기에 캐스크 피니싱이라는 기법을 스카치 위스키 업계에서 최초로 도입한 곳이기도 하다. 발베니 12년 더블우드는 그 캐스크 피니싱의 시작점이 된 병인데, 한 모금 마시면 왜 이 기법이 업계 전체로 퍼져나갔는지 바로 이해가 간다.
@@ -42,7 +42,7 @@ image: assets/images/posts/2026-03-17-balvenie-12-year-doublewood-review.jpeg
 
 발베니의 라인업은 대부분 캐스크 피니싱을 기반으로 구성되어 있다. 데이비드 스튜어트의 철학이 그대로 반영된 구성.
 
-![발베니 대표 라인업 비교](/assets/images/posts/2026-03-17-balvenie-12-year-doublewood-review-01.png)
+![발베니 대표 라인업 비교](/assets/images/posts/2026-03-17-balvenie-12-year-doublewood-review-01.webp)
 
 **12년 더블우드** — 오늘의 주인공이자 발베니의 간판. 아메리칸 오크 버번 배럴에서 1차 숙성한 후, 유러피안 오크 올로로소 셰리 캐스크에서 추가 숙성을 거친다. 캐스크 피니싱의 원조다운 교과서적인 완성도를 보여주는 병.
 
@@ -60,7 +60,7 @@ image: assets/images/posts/2026-03-17-balvenie-12-year-doublewood-review.jpeg
 
 그럼 캐스크 피니싱의 원점, 발베니 12년 더블우드를 마셔보자.
 
-![발베니 12년 더블우드 싱글몰트 위스키](/assets/images/posts/2026-03-17-balvenie-12-year-doublewood-review.jpeg)
+![발베니 12년 더블우드 싱글몰트 위스키](/assets/images/posts/2026-03-17-balvenie-12-year-doublewood-review.webp)
 
 ### 향 (Nose)
 

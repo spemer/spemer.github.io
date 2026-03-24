@@ -5,7 +5,7 @@ date: 2026-03-12 12:00:00 +0900
 description: "닛카 타케츠루 퓨어몰트 테이스팅 리뷰. 일본 위스키의 아버지 타케츠루 마사타카의 닛카 증류소 이야기와 향 맛 피니시까지 상세 정리."
 categories: [위스키]
 tags: [닛카, 타케츠루, 일본위스키, 퓨어몰트, 테이스팅, 재패니즈위스키]
-image: assets/images/posts/2026-03-12-nikka-taketsuru-pure-malt-review.jpeg
+image: assets/images/posts/2026-03-12-nikka-taketsuru-pure-malt-review.webp
 ---
 
 스코틀랜드 위스키만 마시다가 처음 일본 위스키를 접했을 때, 솔직히 좀 놀랐다. "이게 일본에서 나온 거라고?" 싶을 정도로 완성도가 높았는데, 그 첫 경험이 닛카 타케츠루 퓨어몰트였다. 스카치와는 분명히 다른데 어디서 뿌리가 이어져 있다는 느낌, 그러면서도 일본 특유의 깔끔하고 정제된 감성이 묻어나는 독특한 위스키였다. 이 한 병에 일본 위스키의 역사가 압축돼 있다고 해도 과언이 아니다.
@@ -42,7 +42,7 @@ image: assets/images/posts/2026-03-12-nikka-taketsuru-pure-malt-review.jpeg
 
 닛카의 라인업은 두 증류소의 싱글 몰트와 블렌디드 라인으로 나뉜다.
 
-![닛카 대표 라인업 비교](/assets/images/posts/2026-03-12-nikka-taketsuru-pure-malt-review-01.png)
+![닛카 대표 라인업 비교](/assets/images/posts/2026-03-12-nikka-taketsuru-pure-malt-review-01.webp)
 
 **타케츠루 퓨어몰트** — 오늘의 주인공. 요이치와 미야기쿄의 몰트 원액을 블렌딩한 퓨어몰트(= 블렌디드 몰트)로, 닛카의 철학을 가장 잘 보여주는 제품이다. 창업자의 이름을 딴 만큼 닛카에서도 각별한 의미를 가진 라인업.
 
@@ -60,7 +60,7 @@ image: assets/images/posts/2026-03-12-nikka-taketsuru-pure-malt-review.jpeg
 
 일본 위스키의 아버지가 남긴 이름, 그 맛을 확인해보자.
 
-![닛카 타케츠루 퓨어몰트 위스키](/assets/images/posts/2026-03-12-nikka-taketsuru-pure-malt-review.jpeg)
+![닛카 타케츠루 퓨어몰트 위스키](/assets/images/posts/2026-03-12-nikka-taketsuru-pure-malt-review.webp)
 
 ### 향 (Nose)
 

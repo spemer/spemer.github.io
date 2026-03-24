@@ -5,7 +5,7 @@ date: 2026-03-10 11:00:00 +0900
 description: "글렌파클라스 증류소 역사와 15년산 싱글몰트 테이스팅 리뷰. 스페이사이드 셰리 캐스크 위스키의 정석, 향과 맛 피니시까지 상세하게 정리했다."
 categories: [위스키]
 tags: [글렌파클라스, 위스키, 스페이사이드, 싱글몰트, 셰리캐스크, 테이스팅]
-image: assets/images/posts/2026-03-10-glenfarclas-15-year-review.jpeg
+image: assets/images/posts/2026-03-10-glenfarclas-15-year-review.webp
 ---
 
 셰리 캐스크 위스키에 입문하던 시절, 누군가 "가성비 좋은 셰리 위스키 찾으면 글렌파클라스 가라"고 했다. 솔직히 처음엔 이름도 생소하고 병 디자인도 투박해서 반신반의했는데, 한 모금 머금는 순간 "아, 이거구나" 싶었다. 화려하지 않은데 묵직하고, 달콤한데 과하지 않은 그 절묘한 밸런스. 글렌파클라스 15년은 셰리 캐스크가 위스키에 줄 수 있는 최선의 결과물 중 하나라고 생각한다.
@@ -40,7 +40,7 @@ image: assets/images/posts/2026-03-10-glenfarclas-15-year-review.jpeg
 
 글렌파클라스의 라인업은 솔직히 좀 압도적이다. 거의 모든 숙성 연수를 커버하고 있어서 취향에 맞는 걸 고르기 좋다.
 
-![글렌파클라스 대표 라인업 비교](/assets/images/posts/2026-03-10-glenfarclas-15-year-review-01.png)
+![글렌파클라스 대표 라인업 비교](/assets/images/posts/2026-03-10-glenfarclas-15-year-review-01.webp)
 
 **글렌파클라스 10년** — 입문용으로 딱 좋은 라인업. 셰리 캐스크의 영향이 은은하게 느껴지면서 가격도 착한 편이다. 스페이사이드 셰리 위스키가 뭔지 맛보고 싶다면 여기서 시작하면 된다.
 
@@ -58,7 +58,7 @@ image: assets/images/posts/2026-03-10-glenfarclas-15-year-review.jpeg
 
 셰리 캐스크 싱글 몰트의 교과서를 열어보자.
 
-![글렌파클라스 15년 싱글몰트 위스키](/assets/images/posts/2026-03-10-glenfarclas-15-year-review.jpeg)
+![글렌파클라스 15년 싱글몰트 위스키](/assets/images/posts/2026-03-10-glenfarclas-15-year-review.webp)
 
 ### 향 (Nose)
 

@@ -5,7 +5,7 @@ date: 2026-03-23 17:30:00 +0900
 description: "듀어스 12년 더 앤세스터 테이스팅 리뷰. 에버펠디 싱글몰트를 핵심으로 더블 에이징 공법을 거친 블렌디드 스카치의 역사와 맛을 정리했다"
 categories: [위스키]
 tags: [듀어스, 블렌디드위스키, 스카치위스키, 하이랜드, 테이스팅, 더블에이징]
-image: assets/images/posts/2026-03-23-dewars-12-year-review.jpeg
+image: assets/images/posts/2026-03-23-dewars-12-year-review.webp
 ---
 
 블렌디드 스카치에 대한 편견이 확 깨지는 병이 가끔 있다. 듀어스 12년이 딱 그런 케이스였는데, 가격대가 4~5만 원 선인 게 믿기지 않을 정도로 부드럽고 깔끔했다. 더블 에이징이라는 공법이 괜히 있는 게 아니구나 싶었던 한 병.
@@ -32,7 +32,7 @@ image: assets/images/posts/2026-03-23-dewars-12-year-review.jpeg
 
 듀어스는 입문용부터 울트라 프리미엄까지 꽤 넓은 라인업을 갖추고 있다.
 
-![듀어스 대표 라인업 비교](/assets/images/posts/2026-03-23-dewars-12-year-review-01.png)
+![듀어스 대표 라인업 비교](/assets/images/posts/2026-03-23-dewars-12-year-review-01.webp)
 
 **화이트 라벨(White Label)** — NAS(No Age Statement). 편의점이나 마트에서 가장 쉽게 볼 수 있는 듀어스의 기본 라인. 하이볼 베이스로 많이 쓰인다.
 
@@ -48,7 +48,7 @@ image: assets/images/posts/2026-03-23-dewars-12-year-review.jpeg
 
 그럼 듀어스 12년을 한 잔 따라보겠다.
 
-![듀어스 12년 블렌디드 스카치 위스키](/assets/images/posts/2026-03-23-dewars-12-year-review.jpeg)
+![듀어스 12년 블렌디드 스카치 위스키](/assets/images/posts/2026-03-23-dewars-12-year-review.webp)
 
 ### 향 (Nose)
 

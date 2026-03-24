@@ -5,7 +5,7 @@ date: 2026-03-07 09:30:00 +0900
 description: "하이랜드 명가 글렌모렌지 증류소 역사와 대표 라인업, 넥타 도르 16년 소테른 와인 피니시 테이스팅 노트를 정리한 위스키 리뷰"
 categories: [위스키]
 tags: [글렌모렌지, 위스키, 하이랜드, 싱글몰트, 소테른, 넥타도르]
-image: assets/images/posts/2026-03-07-glenmorangie-16-year-the-nectar-dor-review.jpeg
+image: assets/images/posts/2026-03-07-glenmorangie-16-year-the-nectar-dor-review.webp
 ---
 
 글렌모렌지를 처음 마신 건 위스키를 막 시작하던 때였다. 10년산 오리지널이었는데, 그때는 솔직히 "아, 위스키가 이렇게 가볍고 깔끔할 수도 있구나" 정도의 인상이었다. 근데 나중에 넥타 도르를 마셔보고 나서 글렌모렌지에 대한 인식이 확 바뀌었다. 소테른 와인 캐스크 피니시가 만들어내는 그 달콤하고 크리미한 풍미는 처음 경험하는 종류의 맛이었다. 디저트 위스키라는 표현이 절로 나오더라.
@@ -40,7 +40,7 @@ image: assets/images/posts/2026-03-07-glenmorangie-16-year-the-nectar-dor-review
 
 글렌모렌지의 라인업은 크게 두 축으로 나뉜다. 기본 숙성 라인과, 다양한 와인 캐스크로 추가 숙성하는 "엑스트라 매추어드" 라인.
 
-![글렌모렌지 대표 라인업 비교](/assets/images/posts/2026-03-07-glenmorangie-16-year-the-nectar-dor-review-01.png)
+![글렌모렌지 대표 라인업 비교](/assets/images/posts/2026-03-07-glenmorangie-16-year-the-nectar-dor-review-01.webp)
 
 **글렌모렌지 오리지널 10년** — 모든 글렌모렌지의 기초. 버번 캐스크에서 10년 숙성. 40%로 병입하는데, 바닐라와 복숭아, 시트러스 향이 깔끔하게 올라오는 입문용 싱글 몰트의 교과서 같은 위스키다. 위스키 처음 시작하는 사람에게 추천하기 딱 좋다.
 
@@ -58,7 +58,7 @@ image: assets/images/posts/2026-03-07-glenmorangie-16-year-the-nectar-dor-review
 
 소테른 와인은 프랑스 보르도 지방에서 생산되는 디저트 와인인데, 귀부균(Noble Rot)이라 불리는 곰팡이가 포도에 붙어서 수분을 빼앗기면 당도가 극도로 높아진 포도가 된다. 이 포도로 만든 와인이 소테른인데, 그 캐스크에서 추가 숙성한 위스키가 바로 넥타 도르다. "넥타 도르"는 불어로 "황금의 감로"라는 뜻이라고.
 
-![글렌모렌지 넥타 도르 16년 싱글몰트 위스키](/assets/images/posts/2026-03-07-glenmorangie-16-year-the-nectar-dor-review.jpeg)
+![글렌모렌지 넥타 도르 16년 싱글몰트 위스키](/assets/images/posts/2026-03-07-glenmorangie-16-year-the-nectar-dor-review.webp)
 
 ### 향 (Nose)
 

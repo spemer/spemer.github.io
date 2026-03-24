@@ -5,7 +5,7 @@ date: 2026-03-09 10:30:00 +0900
 description: "스페이사이드 글렌알라키 15년 위스키의 세 가지 캐스크 배팅 구성과 테이스팅 노트를 정리한 싱글몰트 위스키 리뷰"
 categories: [위스키]
 tags: [글렌알라키, 위스키, 스페이사이드, 싱글몰트, 테이스팅, 스카치위스키]
-image: assets/images/posts/2026-03-09-glenallachie-15-year-review.jpeg
+image: assets/images/posts/2026-03-09-glenallachie-15-year-review.webp
 ---
 
 글렌알라키 10년 캐스크 스트렝스의 강렬한 인상이 있고 나서, 자연스럽게 이 증류소의 다른 라인업에도 손이 갔다. 15년산을 처음 마셨을 때의 느낌은 10년 CS와는 완전히 다른 방향이었다. 10년 CS가 풍미의 폭발이라면, 15년은 풍미의 포옹 같은 느낌이랄까. 버터스카치, 토피, 꿀이 부드럽게 감싸안는 그 질감에 한번 빠지면 좀처럼 빠져나오기 어렵다.
@@ -40,7 +40,7 @@ image: assets/images/posts/2026-03-09-glenallachie-15-year-review.jpeg
 
 15년산의 특징을 이해하려면 캐스크 구성을 먼저 알아야 한다. 세 가지 캐스크의 원액을 배팅해서 만드는데, 각각이 담당하는 역할이 있다.
 
-![글렌알라키 15년 캐스크 구성 비교](/assets/images/posts/2026-03-09-glenallachie-15-year-review-01.png)
+![글렌알라키 15년 캐스크 구성 비교](/assets/images/posts/2026-03-09-glenallachie-15-year-review-01.webp)
 
 **페드로 히메네스(PX) 셰리 캐스크** — 건포도, 무화과, 진한 캐러멜 같은 달콤한 풍미를 담당한다. PX 셰리 자체가 달콤한 디저트 와인이다 보니, 이 캐스크에서 숙성된 원액이 15년산의 핵심 단맛을 만들어낸다.
 
@@ -54,7 +54,7 @@ image: assets/images/posts/2026-03-09-glenallachie-15-year-review.jpeg
 
 46% 병입에 논칠필터드. 색상은 진한 금빛에서 호박색 사이 어딘가. 인공 색소를 넣지 않는데도 이 정도 색이면 셰리 캐스크의 영향이 확실하다.
 
-![글렌알라키 15년 싱글몰트 위스키](/assets/images/posts/2026-03-09-glenallachie-15-year-review.jpeg)
+![글렌알라키 15년 싱글몰트 위스키](/assets/images/posts/2026-03-09-glenallachie-15-year-review.webp)
 
 ### 향 (Nose)
 

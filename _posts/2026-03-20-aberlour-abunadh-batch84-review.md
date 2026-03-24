@@ -5,7 +5,7 @@ date: 2026-03-20 16:00:00 +0900
 description: "스페이사이드 아벨라워 증류소의 대표 캐스크 스트렝스 위스키 아부나흐 배치 84 테이스팅 리뷰. 올로로소 셰리 버트 숙성의 진한 풍미"
 categories: [위스키]
 tags: [아벨라워, 아부나흐, 위스키, 스페이사이드, 캐스크스트렝스, 셰리캐스크]
-image: assets/images/posts/2026-03-20-aberlour-abunadh-batch84-review.jpeg
+image: assets/images/posts/2026-03-20-aberlour-abunadh-batch84-review.webp
 ---
 
 캐스크 스트렝스(Cask Strength) 위스키의 세계에 한 발 들여놓으면 다시 돌아오기가 쉽지 않다. 통에서 꺼낸 그대로의 도수, 물이나 여과 과정 없이 위스키 원액의 진짜 모습을 보여주는 경험이라고 해야 하나. 그런 캐스크 스트렝스 위스키 중에서도 아벨라워 아부나흐(Aberlour A'bunadh)는 좀 특별한 위치에 있다. 올로로소 셰리 버트만으로 숙성한 캐스크 스트렝스. 처음 한 모금 머금는 순간 입 안에서 셰리 폭탄이 터진다. 진짜 이런 게 셰리 캐스크의 정수구나, 하는 생각이 절로 드는 병이다.
@@ -38,7 +38,7 @@ image: assets/images/posts/2026-03-20-aberlour-abunadh-batch84-review.jpeg
 
 아벨라워의 라인업은 더블 캐스크 시리즈와 아부나흐, 두 축으로 구성된다.
 
-![아벨라워 대표 라인업 비교](/assets/images/posts/2026-03-20-aberlour-abunadh-batch84-review-01.png)
+![아벨라워 대표 라인업 비교](/assets/images/posts/2026-03-20-aberlour-abunadh-batch84-review-01.webp)
 
 **아벨라워 12년 더블 캐스크** — 아벨라워 입문으로 가장 많이 추천되는 보틀. 셰리 캐스크와 버번 캐스크에서 각각 숙성한 원액을 블렌딩한 스타일이다. 밸런스가 좋고 무난한데, 40% 도수가 좀 아쉬운 부분이다.
 
@@ -54,7 +54,7 @@ image: assets/images/posts/2026-03-20-aberlour-abunadh-batch84-review.jpeg
 
 자, 이제 진짜로 글라스를 들어보자. 배치 84, 약 61% ABV.
 
-![아벨라워 아부나흐 배치 84](/assets/images/posts/2026-03-20-aberlour-abunadh-batch84-review.jpeg)
+![아벨라워 아부나흐 배치 84](/assets/images/posts/2026-03-20-aberlour-abunadh-batch84-review.webp)
 
 ### 향 (Nose)
 

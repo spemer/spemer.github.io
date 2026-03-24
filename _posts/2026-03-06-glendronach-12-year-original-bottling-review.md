@@ -5,7 +5,7 @@ date: 2026-03-06 09:00:00 +0900
 description: "하이랜드 셰리 캐스크 명가 글렌드로낙 증류소의 역사와 대표 라인업, 글렌드로낙 12년 오리지널 테이스팅 노트까지 정리한 위스키 리뷰"
 categories: [위스키]
 tags: [글렌드로낙, 위스키, 하이랜드, 싱글몰트, 셰리캐스크, 스카치위스키]
-image: assets/images/posts/2026-03-06-glendronach-12-year-original-bottling-review.jpeg
+image: assets/images/posts/2026-03-06-glendronach-12-year-original-bottling-review.webp
 ---
 
 셰리 캐스크 위스키에 관심을 갖기 시작한 건 꽤 오래 전 일인데, 그 시작점이 바로 글렌드로낙이었다. 위스키를 막 마시기 시작하던 시절, 누군가 "셰리 캐스크를 제대로 알고 싶으면 글렌드로낙부터 가라"는 말을 해줬고, 실제로 12년산 한 잔을 마셔보니 왜 그런 소리를 하는지 바로 이해가 됐다. 건과일이 잔뜩 들어간 크리스마스 푸딩을 한 입 베어 문 것 같은 느낌이랄까. 그때부터 셰리 계열 위스키를 본격적으로 파게 된 계기가 됐다.
@@ -40,7 +40,7 @@ image: assets/images/posts/2026-03-06-glendronach-12-year-original-bottling-revi
 
 글렌드로낙의 정규 라인업은 숙성 연수에 따라 깔끔하게 정리되어 있다. 전부 셰리 캐스크 숙성이라는 공통점이 있고, 올라갈수록 셰리의 깊이가 한 층씩 더해지는 구조다.
 
-![글렌드로낙 대표 라인업 비교](/assets/images/posts/2026-03-06-glendronach-12-year-original-bottling-review-01.png)
+![글렌드로낙 대표 라인업 비교](/assets/images/posts/2026-03-06-glendronach-12-year-original-bottling-review-01.webp)
 
 **글렌드로낙 12년 오리지널** — 페드로 히메네스와 올로로소 셰리 캐스크에서 숙성한 이 집의 입문작이자 간판. 43%로 병입한다. 가격 대비 셰리 캐스크의 풍미를 이만큼 충실하게 보여주는 위스키가 흔치 않다.
 
@@ -54,7 +54,7 @@ image: assets/images/posts/2026-03-06-glendronach-12-year-original-bottling-revi
 
 그러면 본론으로 들어가서, 이 집의 얼굴인 12년 오리지널을 뜯어보자.
 
-![글렌드로낙 12년 오리지널 싱글몰트 위스키](/assets/images/posts/2026-03-06-glendronach-12-year-original-bottling-review.jpeg)
+![글렌드로낙 12년 오리지널 싱글몰트 위스키](/assets/images/posts/2026-03-06-glendronach-12-year-original-bottling-review.webp)
 
 ### 향 (Nose)
 

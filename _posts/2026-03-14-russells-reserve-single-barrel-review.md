@@ -5,7 +5,7 @@ date: 2026-03-14 13:00:00 +0900
 description: "와일드 터키 증류소의 프리미엄 라인 러셀 리저브 싱글배럴 테이스팅 리뷰. 지미 러셀 부자의 철학과 켄터키 버번의 매력을 정리했다"
 categories: [위스키]
 tags: [러셀리저브, 버번위스키, 와일드터키, 싱글배럴, 켄터키, 아메리칸위스키]
-image: assets/images/posts/2026-03-14-russells-reserve-single-barrel-review.jpeg
+image: assets/images/posts/2026-03-14-russells-reserve-single-barrel-review.webp
 ---
 
 스카치 위주로 마시다가 버번에 발을 들인 건 사실 얼마 되지 않았다. 처음에는 "옥수수로 만든 위스키가 뭐 그리 대단하겠어" 싶었는데, 러셀 리저브 싱글배럴을 한 잔 마시고 나서 그 생각이 완전히 바뀌었다. 캐러멜, 바닐라, 그리고 오크의 묵직한 조합이 입 안에서 폭발하는 느낌. 스카치와는 결이 전혀 다른 매력이 있었다.
@@ -38,7 +38,7 @@ image: assets/images/posts/2026-03-14-russells-reserve-single-barrel-review.jpeg
 
 러셀 리저브는 와일드 터키의 프리미엄 라인이다. 와일드 터키 본 브랜드가 대중적인 라인이라면, 러셀 리저브는 좀 더 정제된 경험을 원하는 사람들을 위한 것.
 
-![와일드 터키 & 러셀 리저브 대표 라인업](/assets/images/posts/2026-03-14-russells-reserve-single-barrel-review-01.png)
+![와일드 터키 & 러셀 리저브 대표 라인업](/assets/images/posts/2026-03-14-russells-reserve-single-barrel-review-01.webp)
 
 **와일드 터키 101** — 와일드 터키의 간판 제품. 50.5%라는 적절한 도수에 스파이시하면서도 달콤한 맛이 특징이다. 가성비로 따지면 버번 시장에서 독보적인 위치에 있는 병. 칵테일 베이스로도 훌륭하고, 니트로 마셔도 충분히 즐길 수 있다.
 
@@ -54,7 +54,7 @@ image: assets/images/posts/2026-03-14-russells-reserve-single-barrel-review.jpeg
 
 그럼 본격적으로 러셀 리저브 싱글배럴을 뜯어보자.
 
-![러셀 리저브 싱글배럴 버번 위스키](/assets/images/posts/2026-03-14-russells-reserve-single-barrel-review.jpeg)
+![러셀 리저브 싱글배럴 버번 위스키](/assets/images/posts/2026-03-14-russells-reserve-single-barrel-review.webp)
 
 ### 향 (Nose)
 

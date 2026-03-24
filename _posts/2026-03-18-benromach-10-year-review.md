@@ -5,7 +5,7 @@ date: 2026-03-18 15:00:00 +0900
 description: "스페이사이드에서 가장 작은 증류소 벤로막의 대표 위스키 벤로막 10년 테이스팅 리뷰. 라이트 피트와 셰리의 독특한 조합을 가진 싱글몰트"
 categories: [위스키]
 tags: [벤로막, 위스키, 스페이사이드, 싱글몰트, 테이스팅, 스카치위스키]
-image: assets/images/posts/2026-03-18-benromach-10-year-review.jpeg
+image: assets/images/posts/2026-03-18-benromach-10-year-review.webp
 ---
 
 스페이사이드 위스키 하면 보통 글렌피딕, 맥칼란, 글렌리벳 같은 대형 증류소부터 떠올리게 된다. 부드럽고 과일 향 풍부한, 그 전형적인 스페이사이드 스타일 말이다. 근데 벤로막(Benromach)은 좀 다르다. 스페이사이드에서 피트를 쓰는 증류소라니, 처음 들었을 때 "그게 되나?" 싶었다. 근데 막상 마셔보니까 이게 꽤 절묘하게 맞아떨어진다. 피트가 아일라처럼 들이받는 게 아니라, 은근슬쩍 뒤에서 잡아주는 느낌이라고 해야 하나. 벤로막 10년은 그래서 내가 "스페이사이드의 숨은 보석"이라고 부르는 병이다.
@@ -38,7 +38,7 @@ image: assets/images/posts/2026-03-18-benromach-10-year-review.jpeg
 
 벤로막의 라인업은 규모에 비해 꽤 다양한 편이다.
 
-![벤로막 대표 라인업 비교](/assets/images/posts/2026-03-18-benromach-10-year-review-01.png)
+![벤로막 대표 라인업 비교](/assets/images/posts/2026-03-18-benromach-10-year-review-01.webp)
 
 **벤로막 10년** — 이 집의 간판이자, 벤로막을 처음 접한다면 여기서 시작하는 게 맞다. 퍼스트 필 & 리필 셰리 캐스크와 버번 캐스크를 혼합 사용해서 숙성한다. 라이트 피트의 특징이 가장 잘 드러나는 보틀이라고 생각한다.
 
@@ -54,7 +54,7 @@ image: assets/images/posts/2026-03-18-benromach-10-year-review.jpeg
 
 자, 이제 본론으로 들어가자. 벤로막의 얼굴인 10년산.
 
-![벤로막 10년 싱글몰트 위스키](/assets/images/posts/2026-03-18-benromach-10-year-review.jpeg)
+![벤로막 10년 싱글몰트 위스키](/assets/images/posts/2026-03-18-benromach-10-year-review.webp)
 
 ### 향 (Nose)
 

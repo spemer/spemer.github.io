@@ -5,7 +5,7 @@ date: 2026-03-11 11:30:00 +0900
 description: "글렌피딕 15년 솔레라 싱글몰트 테이스팅 리뷰. 글렌피딕 증류소의 역사와 솔레라 바트 숙성 방식, 향과 맛 피니시까지 상세 정리."
 categories: [위스키]
 tags: [글렌피딕, 위스키, 스페이사이드, 싱글몰트, 솔레라, 테이스팅]
-image: assets/images/posts/2026-03-11-glenfiddich-15-year-solera-review.jpeg
+image: assets/images/posts/2026-03-11-glenfiddich-15-year-solera-review.webp
 ---
 
 글렌피딕은 내가 싱글 몰트 위스키라는 세계에 발을 들인 계기가 된 브랜드다. 처음 위스키를 마시기 시작했을 때 "싱글 몰트가 뭔데?" 하면서 검색하면 어디서든 글렌피딕 이름이 나왔고, 12년산을 한 잔 마시고 나서 "아, 위스키가 이런 맛이구나" 하고 눈을 떴다. 그 이후로 여러 글렌피딕 라인업을 마셔봤는데, 15년 솔레라는 12년에서 한 단계 올라간 복합성을 보여주면서도 여전히 편하게 마실 수 있는, 글렌피딕다운 균형감이 살아있는 병이다.
@@ -40,7 +40,7 @@ image: assets/images/posts/2026-03-11-glenfiddich-15-year-solera-review.jpeg
 
 글렌피딕의 라인업은 깔끔하게 정리돼 있어서 고르기 편하다.
 
-![글렌피딕 대표 라인업 비교](/assets/images/posts/2026-03-11-glenfiddich-15-year-solera-review-01.png)
+![글렌피딕 대표 라인업 비교](/assets/images/posts/2026-03-11-glenfiddich-15-year-solera-review-01.webp)
 
 **글렌피딕 12년** — 전 세계에서 가장 많이 팔리는 싱글 몰트. 아메리칸 오크와 유러피안 셰리 오크에서 숙성한 후 혼합한다. 배, 사과 같은 과일향에 약간의 몰트 단맛이 특징이고, 싱글 몰트의 첫 잔으로 이보다 나은 선택을 찾기 어렵다.
 
@@ -58,7 +58,7 @@ image: assets/images/posts/2026-03-11-glenfiddich-15-year-solera-review.jpeg
 
 솔레라 바트가 만들어내는 그 독특한 풍미를 느껴보자.
 
-![글렌피딕 15년 솔레라 싱글몰트 위스키](/assets/images/posts/2026-03-11-glenfiddich-15-year-solera-review.jpeg)
+![글렌피딕 15년 솔레라 싱글몰트 위스키](/assets/images/posts/2026-03-11-glenfiddich-15-year-solera-review.webp)
 
 ### 향 (Nose)
 

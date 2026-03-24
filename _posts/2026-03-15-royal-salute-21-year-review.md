@@ -5,7 +5,7 @@ date: 2026-03-15 13:30:00 +0900
 description: "로얄살루트 21년 시그니처 블렌드 테이스팅 리뷰. 엘리자베스 2세 대관식에서 탄생한 프리미엄 블렌디드 스카치의 역사와 맛을 정리했다"
 categories: [위스키]
 tags: [로얄살루트, 블렌디드위스키, 스카치위스키, 21년, 프리미엄위스키, 테이스팅]
-image: assets/images/posts/2026-03-15-royal-salute-21-year-review.jpeg
+image: assets/images/posts/2026-03-15-royal-salute-21-year-review.webp
 ---
 
 싱글 몰트만 고집하던 시절이 있었다. "블렌디드는 싱글 몰트보다 한 수 아래"라는 편견을 가지고 있었는데, 로얄살루트 21년을 마신 날 그 생각이 깨끗하게 사라졌다. 글라스에서 올라오는 복합적인 향, 입에 넣었을 때 느껴지는 비단결 같은 질감. 블렌딩이라는 게 단순히 섞는 게 아니라 하나의 예술이 될 수 있다는 걸 처음 체감한 순간이었다.
@@ -38,7 +38,7 @@ image: assets/images/posts/2026-03-15-royal-salute-21-year-review.jpeg
 
 로얄살루트는 크게 세 가지 색상의 플래건으로 구분되는 21년 라인업과, 그 위의 프리미엄 라인으로 나뉜다.
 
-![로얄살루트 대표 라인업 비교](/assets/images/posts/2026-03-15-royal-salute-21-year-review-01.png)
+![로얄살루트 대표 라인업 비교](/assets/images/posts/2026-03-15-royal-salute-21-year-review-01.webp)
 
 **21년 시그니처 블렌드 (Blue)** — 블루 플래건에 담기는 시그니처 제품. 플로럴하고 프루티한 캐릭터가 특징이다. 로얄살루트를 처음 마셔본다면 여기서부터 시작하는 게 맞다.
 
@@ -54,7 +54,7 @@ image: assets/images/posts/2026-03-15-royal-salute-21-year-review.jpeg
 
 그럼 오늘의 주인공, 블루 플래건의 시그니처 블렌드를 뜯어보겠다.
 
-![로얄살루트 21년 시그니처 블렌드](/assets/images/posts/2026-03-15-royal-salute-21-year-review.jpeg)
+![로얄살루트 21년 시그니처 블렌드](/assets/images/posts/2026-03-15-royal-salute-21-year-review.webp)
 
 ### 향 (Nose)
 

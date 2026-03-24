@@ -5,7 +5,7 @@ date: 2026-03-24 20:00:00 +0900
 description: "블로그 포스팅 글자 수, 주제별로 몇 자가 적당한지 SEO 관점에서 정리했다. 맛집 후기부터 기술 블로그까지 적정 분량 가이드."
 tags: [블로그 글자수, SEO, 블로그 포스팅, 콘텐츠 마케팅, 블로그 운영]
 categories: [블로그, SEO]
-image: assets/images/posts/2026-03-24-blog-post-optimal-word-count.png
+image: assets/images/posts/2026-03-24-blog-post-optimal-word-count.webp
 ---
 
 블로그를 꾸준히 쓰다보면 한 번쯤은 이런 고민을 하게 된다. "도대체 글을 몇 자나 써야 하는거지?" 너무 짧으면 검색에 안 걸릴것 같고, 너무 길면 읽는 사람도 지치고 쓰는 사람도 지친다. 나도 블로그를 오래 운영해오면서 이 부분을 꽤 신경 써왔는데, 결론부터 말하자면 주제에 따라 적정 분량이 다르다.
@@ -26,7 +26,7 @@ image: assets/images/posts/2026-03-24-blog-post-optimal-word-count.png
 
 직접 여러 글을 써보고, SEO 데이터도 살펴본 결과를 주제별로 정리해봤다. 아래 글자 수는 공백 포함, 순수 본문 기준이다. front matter나 코드 블록 같은건 제외한 수치다.
 
-![주제별 블로그 포스팅 적정 글자수](/assets/images/posts/2026-03-24-blog-post-optimal-word-count-01.png)
+![주제별 블로그 포스팅 적정 글자수](/assets/images/posts/2026-03-24-blog-post-optimal-word-count-01.webp)
 
 ### 맛집 / 오마카세 후기: 2,000 ~ 3,000자
 

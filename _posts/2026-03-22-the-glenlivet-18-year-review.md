@@ -5,7 +5,7 @@ date: 2026-03-22 17:00:00 +0900
 description: "더 글렌리벳 18년 싱글몰트 위스키 테이스팅 리뷰. 스페이사이드 최초의 합법 증류소가 만든 18년 숙성 위스키의 향, 맛, 피니시를 정리했다"
 categories: [위스키]
 tags: [글렌리벳, 싱글몰트, 스페이사이드, 스카치위스키, 18년, 테이스팅]
-image: assets/images/posts/2026-03-22-the-glenlivet-18-year-review.jpeg
+image: assets/images/posts/2026-03-22-the-glenlivet-18-year-review.webp
 ---
 
 글렌리벳은 위스키를 좀 마셔본 사람이라면 누구나 아는 이름인데, 의외로 18년을 제대로 앉아서 마셔본 적은 없었다. 12년은 워낙 유명하니까 당연히 거쳤고, 15년 프렌치 오크도 한 번 경험했지만 18년은 계속 미루다가 이번에 드디어 열어봤다. 한마디로, 글렌리벳이 이렇게까지 깊어질 수 있구나 싶은 병이었다.
@@ -36,7 +36,7 @@ image: assets/images/posts/2026-03-22-the-glenlivet-18-year-review.jpeg
 
 글렌리벳의 라인업은 숙성 연수별로 깔끔하게 정리되어 있고, 여기에 캐스크 스트렝스 시리즈인 나두라가 별도로 존재한다.
 
-![더 글렌리벳 대표 라인업 비교](/assets/images/posts/2026-03-22-the-glenlivet-18-year-review-01.png)
+![더 글렌리벳 대표 라인업 비교](/assets/images/posts/2026-03-22-the-glenlivet-18-year-review-01.webp)
 
 **파운더스 리저브(Founder's Reserve)** — 연수 표기 없이 가볍고 접근하기 쉬운 스타일. 바닐라와 시트러스가 중심인 캐주얼한 한 병이다.
 
@@ -54,7 +54,7 @@ image: assets/images/posts/2026-03-22-the-glenlivet-18-year-review.jpeg
 
 그럼 글렌리벳 18년을 본격적으로 뜯어보겠다.
 
-![더 글렌리벳 18년 싱글몰트 위스키](/assets/images/posts/2026-03-22-the-glenlivet-18-year-review.jpeg)
+![더 글렌리벳 18년 싱글몰트 위스키](/assets/images/posts/2026-03-22-the-glenlivet-18-year-review.webp)
 
 ### 향 (Nose)
 

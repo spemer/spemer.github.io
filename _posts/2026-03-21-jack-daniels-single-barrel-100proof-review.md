@@ -5,7 +5,7 @@ date: 2026-03-21 16:30:00 +0900
 description: "잭 다니엘 싱글배럴 셀렉트 100프루프 테이스팅 리뷰. 링컨 카운티 프로세스와 싱글배럴 라인업의 깊은 풍미를 정리한 테네시 위스키 리뷰"
 categories: [위스키]
 tags: [잭다니엘, 위스키, 테네시위스키, 싱글배럴, 버번, 아메리칸위스키]
-image: assets/images/posts/2026-03-21-jack-daniels-single-barrel-100proof-review.jpeg
+image: assets/images/posts/2026-03-21-jack-daniels-single-barrel-100proof-review.webp
 ---
 
 스카치 위스키를 주로 마시다가 가끔 아메리칸 위스키로 방향을 틀 때가 있다. 기분 전환이기도 하고, 스카치와는 완전히 다른 결의 맛이 당길 때가 있거든. 잭 다니엘(Jack Daniel's)이라는 이름을 모르는 사람은 거의 없을 텐데, 대부분은 올드 넘버 7(검은 라벨)로만 알고 있는 경우가 많다. 나도 처음에는 "잭 다니엘이 뭐 그리 대단하다고"라는 생각이었는데, 싱글배럴 라인을 접하고 나서 생각이 좀 바뀌었다. 올드 넘버 7과 싱글배럴은 같은 브랜드라는 게 믿기지 않을 정도로 급이 다른 위스키다.
@@ -40,7 +40,7 @@ image: assets/images/posts/2026-03-21-jack-daniels-single-barrel-100proof-review
 
 잭 다니엘의 라인업은 올드 넘버 7을 기본으로, 프리미엄 라인인 싱글배럴까지 꽤 폭넓다.
 
-![잭 다니엘 대표 라인업 비교](/assets/images/posts/2026-03-21-jack-daniels-single-barrel-100proof-review-01.png)
+![잭 다니엘 대표 라인업 비교](/assets/images/posts/2026-03-21-jack-daniels-single-barrel-100proof-review-01.webp)
 
 **올드 넘버 7 (블랙 라벨)** — 전 세계에서 가장 많이 팔리는 위스키 중 하나. 40% 도수에, 잭 다니엘 하면 가장 먼저 떠오르는 보틀이다. 콜라나 진저에일과 섞어 마시기에 좋고, 위스키 입문 단계에서 쉽게 접근할 수 있다. 다만 니트로 마시기에는 좀 밋밋한 면이 있다.
 
@@ -58,7 +58,7 @@ image: assets/images/posts/2026-03-21-jack-daniels-single-barrel-100proof-review
 
 자, 이제 싱글배럴 셀렉트를 제대로 맛봐보자. 100 프루프(50% ABV).
 
-![잭 다니엘 싱글배럴 셀렉트](/assets/images/posts/2026-03-21-jack-daniels-single-barrel-100proof-review.jpeg)
+![잭 다니엘 싱글배럴 셀렉트](/assets/images/posts/2026-03-21-jack-daniels-single-barrel-100proof-review.webp)
 
 ### 향 (Nose)
 

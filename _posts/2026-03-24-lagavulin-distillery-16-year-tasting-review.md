@@ -5,7 +5,7 @@ date: 2026-03-24 14:00:00 +0900
 description: "아일라 섬 라가불린 증류소의 역사부터 대표 위스키 라인업, 라가불린 16년산 테이스팅 노트까지 정리한 위스키 리뷰"
 categories: [위스키]
 tags: [라가불린, 위스키, 아일라, 싱글몰트, 테이스팅, 스카치위스키]
-image: assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-review.png
+image: assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-review.webp
 ---
 
 아일라 위스키를 처음 접했을 때의 그 충격은 아직도 잊을 수가 없다. 분명 위스키인데, 한 모금 머금는 순간 바닷가 모닥불 옆에 앉아있는 듯한 느낌이랄까. 그 첫 경험이 바로 라가불린이었다. 처음에는 솔직히 "이게 맞아?" 싶었는데, 두세 모금 지나니까 이 묘한 스모키함에 빠져들더라. 그 이후로 아일라 위스키, 그 중에서도 라가불린을 꽤 자주 찾게 됐다.
@@ -32,7 +32,7 @@ image: assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-revie
 
 라가불린의 정규 라인업은 크게 네 가지로 나뉜다.
 
-![라가불린 대표 라인업 비교](/assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-review-01.png)
+![라가불린 대표 라인업 비교](/assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-review-01.webp)
 
 **라가불린 8년** — 원래 2016년 증류소 200주년 기념 한정판이었는데, 반응이 좋아서 정규 라인업에 편입됐다. 48%로 도수가 살짝 높고, 버번 캐스크만 사용해서 16년 대비 피트가 더 생생하고 시트러스 느낌이 있다. 라가불린 입문용으로 추천할 만하다.
 
@@ -48,9 +48,9 @@ image: assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-revie
 
 드디어 본론. 라가불린의 얼굴이자 아일라 싱글 몰트의 교과서라 불리는 16년산.
 
-![라가불린 16년 싱글몰트 위스키](/assets/images/posts/2026-03-24-lagavulin-16-year-photo.jpeg)
+![라가불린 16년 싱글몰트 위스키](/assets/images/posts/2026-03-24-lagavulin-16-year-photo.webp)
 
-![라가불린 16년 테이스팅 노트](/assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-review-02.png)
+![라가불린 16년 테이스팅 노트](/assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-review-02.webp)
 
 ### 향 (Nose)
 

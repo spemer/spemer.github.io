@@ -5,7 +5,7 @@ date: 2026-03-16 14:00:00 +0900
 description: "맥캘란 12년 셰리 오크 캐스크 테이스팅 리뷰. 스페이사이드 명가 맥캘란 증류소의 역사, 셰리 캐스크 철학, 대표 라인업을 함께 정리했다"
 categories: [위스키]
 tags: [맥캘란, 셰리오크, 싱글몰트, 스페이사이드, 스카치위스키, 테이스팅]
-image: assets/images/posts/2026-03-16-macallan-12-year-sherry-oak-review.jpeg
+image: assets/images/posts/2026-03-16-macallan-12-year-sherry-oak-review.webp
 ---
 
 위스키에 입문할 때 가장 먼저 이름을 듣게 되는 브랜드가 아마 맥캘란일 거다. "싱글 몰트의 롤스로이스"라는 별명 때문에 괜히 거창하게 느껴질 수 있는데, 실제로 맥캘란 12년 셰리 오크를 처음 마셨을 때의 감상은 "아, 이래서 다들 맥캘란 맥캘란 하는구나" 정도였다. 건과일의 풍성한 달콤함, 셰리 캐스크에서 온 깊은 맛. 한 잔으로 위스키의 매력이 뭔지 바로 이해가 되는 그런 병이었다.
@@ -38,7 +38,7 @@ image: assets/images/posts/2026-03-16-macallan-12-year-sherry-oak-review.jpeg
 
 맥캘란의 라인업은 크게 셰리 오크(Sherry Oak) 시리즈와 더블 캐스크(Double Cask) 시리즈로 나뉜다.
 
-![맥캘란 대표 라인업 비교](/assets/images/posts/2026-03-16-macallan-12-year-sherry-oak-review-01.png)
+![맥캘란 대표 라인업 비교](/assets/images/posts/2026-03-16-macallan-12-year-sherry-oak-review-01.webp)
 
 **12년 셰리 오크** — 오늘의 주인공. 100% 셰리 시즈닝 오크 캐스크에서만 숙성한 맥캘란의 간판. 셰리 오크 시리즈의 입문작이면서도, 맥캘란이 추구하는 맛의 방향성을 가장 명확하게 보여주는 병이다.
 
@@ -56,7 +56,7 @@ image: assets/images/posts/2026-03-16-macallan-12-year-sherry-oak-review.jpeg
 
 그럼 본격적으로 맥캘란의 정체성이 담긴 12년 셰리 오크를 마셔보자.
 
-![맥캘란 12년 셰리 오크 싱글몰트 위스키](/assets/images/posts/2026-03-16-macallan-12-year-sherry-oak-review.jpeg)
+![맥캘란 12년 셰리 오크 싱글몰트 위스키](/assets/images/posts/2026-03-16-macallan-12-year-sherry-oak-review.webp)
 
 ### 향 (Nose)
 

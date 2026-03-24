@@ -5,7 +5,7 @@ date: 2026-03-08 10:00:00 +0900
 description: "스페이사이드 글렌알라키 증류소 역사와 빌리 워커의 부활 스토리, 10년 캐스크 스트렝스 배치 12 테이스팅 노트를 정리한 위스키 리뷰"
 categories: [위스키]
 tags: [글렌알라키, 위스키, 스페이사이드, 캐스크스트렝스, 싱글몰트, 스카치위스키]
-image: assets/images/posts/2026-03-08-glenallachie-10-year-cask-strength-batch12-review.jpeg
+image: assets/images/posts/2026-03-08-glenallachie-10-year-cask-strength-batch12-review.webp
 ---
 
 캐스크 스트렝스 위스키의 매력을 알게 된 건 글렌알라키 덕분이었다. 처음에는 "58도짜리 위스키를 어떻게 마시지?" 싶었는데, 한 모금 머금는 순간 도수가 아니라 풍미의 밀도에 먼저 압도당했다. 다크 초콜릿, 체리 콤포트, 에스프레소가 한꺼번에 밀려오는데, 이건 일반 도수 위스키에서는 절대 경험할 수 없는 차원의 맛이었다. 물을 넣어도, 니트로 마셔도, 얼음을 넣어도 무너지지 않는 그 견고한 풍미. 그게 캐스크 스트렝스의 진짜 힘이라는 걸 글렌알라키가 가르쳐줬다.
@@ -42,7 +42,7 @@ image: assets/images/posts/2026-03-08-glenallachie-10-year-cask-strength-batch12
 
 빌리 워커 체제 이후의 글렌알라키 라인업은 깔끔하게 정리되어 있다. 공통적으로 46% 이상 병입, 논칠필터드(Non-chill filtered), 무색소 첨가라는 세 가지 원칙을 지키고 있는데, 이건 위스키 마니아들 사이에서 상당히 호감을 사는 포인트다.
 
-![글렌알라키 대표 라인업 비교](/assets/images/posts/2026-03-08-glenallachie-10-year-cask-strength-batch12-review-01.png)
+![글렌알라키 대표 라인업 비교](/assets/images/posts/2026-03-08-glenallachie-10-year-cask-strength-batch12-review-01.webp)
 
 **글렌알라키 10년 캐스크 스트렝스** — 오늘 리뷰할 바로 그 녀석. 매년 배치 넘버를 달리해서 출시하는데, 배치마다 사용하는 캐스크 구성이 달라져서 맛의 차이가 있다. 원액 그대로의 강렬한 풍미를 경험할 수 있는 라인업. 도수는 배치에 따라 다르지만 보통 57~59% 사이.
 
@@ -58,7 +58,7 @@ image: assets/images/posts/2026-03-08-glenallachie-10-year-cask-strength-batch12
 
 배치 12는 PX 셰리, 올로로소 셰리, 버진 오크 캐스크를 조합해서 만들어졌다. 도수는 58.1%인데, 병에서 따를 때부터 뭔가 진한 녀석이라는 게 느껴진다. 색상부터가 진한 호박색이라 셰리 캐스크의 영향이 눈으로도 보인다.
 
-![글렌알라키 10년 캐스크 스트렝스 배치 12 싱글몰트 위스키](/assets/images/posts/2026-03-08-glenallachie-10-year-cask-strength-batch12-review.jpeg)
+![글렌알라키 10년 캐스크 스트렝스 배치 12 싱글몰트 위스키](/assets/images/posts/2026-03-08-glenallachie-10-year-cask-strength-batch12-review.webp)
 
 ### 향 (Nose)
 
