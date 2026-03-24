@@ -48,6 +48,8 @@ image: assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-revie
 
 드디어 본론. 라가불린의 얼굴이자 아일라 싱글 몰트의 교과서라 불리는 16년산.
 
+![라가불린 16년 싱글몰트 위스키](/assets/images/posts/2026-03-24-lagavulin-16-year-photo.jpeg)
+
 ![라가불린 16년 테이스팅 노트](/assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-review-02.png)
 
 ### 향 (Nose)
