@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Set favicons with JavaScript"
+description: "JavaScript로 favicon과 Apple touch icon을 한번에 설정하는 방법. 배열과 반복문을 활용해 HTML 파일마다 수정할 필요 없이 적용 가능하다."
 categories: [JavaScript, Frontend, Web]
-tags: []
+tags: [파비콘, JavaScript, 프론트엔드, 웹 개발]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCtGvV%2FbtrfrdXITqu%2FpdwU5g9NL1GNdJhLPa3CX0%2Fimg.png
 ---
 

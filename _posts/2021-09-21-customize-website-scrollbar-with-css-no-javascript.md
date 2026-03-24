@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Customizing website scrollbar with CSS(NO JavaScript!)"
+description: "CSS만으로 웹사이트 스크롤바를 커스터마이징하는 방법. webkit 가상 요소를 활용한 스크롤바 디자인 변경 코드와 예제를 공유한다."
 categories: [Web, CSS, HTML]
-tags: []
+tags: [CSS 스크롤바, 웹 커스터마이징, webkit, 프론트엔드]
 image: https://miro.medium.com/max/1400/1*kh08HW91JyQ2FMUyHGRA9w.png
 ---
 

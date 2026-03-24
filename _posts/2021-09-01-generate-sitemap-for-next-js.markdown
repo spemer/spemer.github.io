@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Next.js를 위한 sitemap generator 만들기"
+description: "Next.js 프로젝트에서 동적 sitemap을 자동 생성하는 스크립트 작성법과 검색엔진 색인 요청까지의 과정을 정리했다."
 categories: [Next.js, React.js, Web, Frontend, SEO]
-tags: []
+tags: [Next.js 사이트맵, SEO, 검색엔진 최적화, sitemap 생성, 구글 서치콘솔]
 image: https://spemer.com/img/works/sitemap/logo.jpeg
 ---
 

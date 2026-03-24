@@ -1,7 +1,9 @@
 # Site
 name: "Spemer(Hyouk Seo)"
-description: "Spemer's camping diary 🏕️"
-logo: "assets/images/logo.png"
+title: "Spemer(Hyouk Seo)"
+description: "캠핑, 자동차, 맛집, 개발 등 다양한 일상을 기록하는 블로그"
+url: "https://spemer.github.io"
+logo: "assets/images/avatar.png"
 favicon: "assets/images/favicon.ico"
 baseurl: ""
 disqus: "Spemer"
@@ -26,12 +28,12 @@ authors:
     avatar: assets/images/avatar.png
     bio: "I am a detail-oriented Digital Product & User Experience Designer, Problem Solver and Frontend Developer; create design based on human-centered design."
     email: ghsspower@gmail.com
-    twitter: https://twitter.com/OfficialSpemer
+
 
 social:
   name: Hyouk Seo(Spemer)
   links:
-    - https://twitter.com/OfficialSpemer
+
     - https://www.facebook.com/ghsspower
     - https://www.linkedin.com/in/hyouk-seo-0b6801122/
     - https://github.com/spemer

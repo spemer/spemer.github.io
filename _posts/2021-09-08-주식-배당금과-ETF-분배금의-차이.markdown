@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "[간단정리] 주식 배당금 vs ETF 분배금"
+description: "주식 배당금과 ETF 분배금의 차이를 간단하게 정리. 배당소득세, 분배락 등 초보 투자자가 헷갈리기 쉬운 개념까지 비교했다."
 categories: [주식, 제태크, 경제]
-tags: []
+tags: [ETF 분배금, 주식 배당금, 배당소득세, 재테크 기초, 투자 용어]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FoVJfH%2FbtrepvFI2l5%2Fg3QGA7bAHl0gJkKj2WNRA1%2Fimg.webp
 ---
 

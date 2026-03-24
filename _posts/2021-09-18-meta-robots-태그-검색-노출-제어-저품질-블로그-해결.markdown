@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Meta tag: robots 태그를 통한 검색 색인 및 노출 제어하기 | 저품질 블로그 해결하기"
+description: "robots 메타태그로 특정 검색엔진의 크롤링과 색인을 제어하는 방법. 중복 콘텐츠로 인한 저품질 블로그 문제 해결법을 정리했다."
 categories: [개발, 블로그, 웹, SEO, 검색엔진최적화]
-tags: []
+tags: [robots 메타태그, 저품질 블로그, 검색엔진 크롤링, SEO, 중복 콘텐츠]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdwQdwQ%2FbtrfqD3o7T4%2FMVDxFdgnhWknK1sLQMDNRk%2Fimg.png
 ---
 

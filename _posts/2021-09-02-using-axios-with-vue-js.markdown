@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Vue.js 에서 Axios 사용하기"
+description: "Vue.js에서 Axios를 설치하고 전역으로 설정하는 방법부터 실제 API 호출 예제까지 간단하게 정리한 가이드."
 categories: [Vue.js, Axios, Web, Frontend]
-tags: []
+tags: [Vue.js, Axios, API 호출, 프론트엔드, 웹 개발]
 image: https://spemer.com/img/works/vue/thumb.png
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "1박 2일 덕적도 백패킹 캠핑, 맛집(Feat. 양갈비 프렌치랙)"
+description: "덕적도 서포리 해변에서 1박 2일 백패킹 캠핑 후기. 인천항 배편 정보부터 양갈비 프렌치랙 숯불 구이까지 솔직하게 기록했다."
 categories: [캠핑, 덕적도, 일상, 여행, 백패킹, 맛집]
 tags: [featured]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FblFemj%2FbtrdJ35oPUF%2FxP5WICbMSiWIfXmI4YQ25k%2Fimg.jpg

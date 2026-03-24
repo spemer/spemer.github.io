@@ -1,34 +1,4 @@
-User-agent: Naverbot
-Disallow: /
-
-User-agent: Yeti
-Disallow: /
-
-User-agent: Daumoa
-Disallow: /
-
-User-agent: Zumbot
-Disallow: /
-
-User-agent: Bingbot
-Disallow: /
-
-User-agent: msnbot
-Disallow: /
-
-User-agent: Yandex
-Disallow: /
-
-User-agent: DuckDuckBot
-Disallow: /
-
-User-agent: Baiduspider
-Disallow: /
-
-User-agent: Slurp
-Disallow: /
-
-User-agent: Googlebot
-Disallow: 
+User-agent: *
+Allow: /
 
 Sitemap: https://spemer.github.io/sitemap.xml

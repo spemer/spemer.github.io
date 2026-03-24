@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[SEO] robots.txt 세팅으로 내 블로그/홈페이지 크롤링 범위 설정하기"
+description: "robots.txt 파일로 검색엔진 크롤러별 크롤링 범위를 설정하는 방법. 기본 문법부터 사이트맵 지정, 크롤링 지연까지 실전 예시와 함께 정리."
 categories: [SEO, 블로그, 검색엔진최적화, 노출최적화, 티스토리]
 tags: [featured]
 image: https://blog.kakaocdn.net/dn/w529y/btrgqxWNaHq/56xoWmx0YlqEqP75Ct0sV0/img.png

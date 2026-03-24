@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "[전시회 후기] STEAL THE APPLE: 애플 박물관을 훔치다"
+description: "가로수길 STEAL THE APPLE 전시회 후기. Apple 2부터 아이맥 G3까지 직접 만져볼 수 있는 애플 컴퓨터 변천사 전시 관람 후기."
 categories: [일상, 전시, 가로수길, 스티브 잡스, 애플 스토어]
-tags: []
+tags: [애플 전시회, 스티브 잡스, 가로수길, 애플 컴퓨터, 아이맥 G3]
 image: https://blog.kakaocdn.net/dn/FTlZM/btrgJYSFcRE/kYHkynoxjhINhOReZFnxtk/img.png
 ---
 

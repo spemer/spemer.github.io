@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "역삼동 갈비 맛집 | 역삼역 회식 추천 | 마포 갈비 & 갈매기 | 역삼 노상 술집"
+description: "역삼역 근처 야외 숯불 고깃집 마포갈비&갈매기 회식 후기. 갈매기살과 늑간살을 노상에서 구워 먹는 분위기가 최고였다."
 categories: [일상, 맛집, 회식, 역삼]
-tags: []
+tags: [역삼동 맛집, 갈매기살, 숯불 고기, 회식 장소, 야외 술집]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbp2n6K%2Fbtrfibmc5cL%2FhxgqEaG1APqWVtfBMbQKPK%2Fimg.png
 ---
 

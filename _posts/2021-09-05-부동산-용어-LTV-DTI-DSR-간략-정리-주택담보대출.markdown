@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "부동산/주택담보대출 용어: LTV, DTI, DSR 간략 정리"
+description: "부동산 입문자를 위한 LTV, DTI, DSR 용어 정리. 주택담보대출 한도가 어떻게 정해지는지 쉬운 예시와 함께 풀어봤다."
 categories: [부동산, 제태크, 경제]
-tags: []
+tags: [LTV, DTI, DSR, 주택담보대출, 부동산 용어]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdf7Lm6%2Fbtreh1ENV90%2FahXL1wbzvAoGK7CBW4ydKk%2Fimg.webp
 ---
 

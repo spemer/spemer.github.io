@@ -8,14 +8,19 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-
     {% seo %}
 
-    <meta
-      name="keywords"
-      content="Spemer, Hyouk Seo, 서혁, GitHub, 깃허브, Instagram, 인스타그램, Twitter, 트위터, Blog, 블로그, 유튜브, Youtube, 캠핑, Camping, 백패킹, 일상, 맛집, 카페, Daily"
-    />
+    <!-- Preconnect: 서드파티 도메인 사전 연결 -->
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />
+
+    {% if page.tags.size > 0 %}
+    <meta name="keywords" content="{{ page.tags | join: ', ' }}" />
+    {% elsif page.categories.size > 0 %}
+    <meta name="keywords" content="{{ page.categories | join: ', ' }}" />
+    {% else %}
+    <meta name="keywords" content="캠핑, 자동차, 맛집, 오마카세, 튜닝, 개발, 블로그" />
+    {% endif %}
 
     <meta
       name="google-site-verification"
@@ -29,9 +34,10 @@
     />
     <meta name="theme-color" content="#fff" />
 
-    {% include google-adsense.html %} {% include tracking-header.html %} {%
-    include meta-robots.html %} {% include meta-social.html %} {% include
-    json-ld.html %}
+    {% include google-adsense.html %} {% include meta-robots.html %} {% include
+    meta-social.html %} {% include json-ld.html %}
+
+    <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Previous/Next posting -->
     {% if page.previous.url %}
@@ -46,21 +52,11 @@
 
     <meta name="author" content="Spemer(Hyouk Seo)" />
 
-    <!-- Bootstrap Modified -->
+    <!-- Stylesheets -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css" />
-
-    <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css" />
-
-    <!-- Custom Stylesheet -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/custom.css" />
 
-    <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
-    <script
-      src="https://code.jquery.com/jquery-3.3.1.min.js"
-      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-      crossorigin="anonymous"
-    ></script>
   </head>
 
   <body class="{% if page.url == '/' %} homefirstpage {% endif %}">
@@ -93,14 +89,15 @@
     <!-- Content -->
     <main role="main" class="site-content">{{ content }}</main>
 
-    <!-- Scripts: bootstrap, theme -->
-    <script
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-      integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
-      crossorigin="anonymous"
-    ></script>
-
-    <script src="{{site.baseurl}}/assets/js/theme.js"></script>
+    <!-- Scripts: navbar toggle, copyright year -->
+    <script>
+      document.querySelector('.navbar-toggler').addEventListener('click', function () {
+        var target = document.querySelector(this.getAttribute('data-target'));
+        if (target) target.classList.toggle('show');
+      });
+      document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+    <script defer src="{{site.baseurl}}/assets/js/theme.js"></script>
 
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">
@@ -110,18 +107,9 @@
           <div>
             <span
               >Copyright ©️
-              <script>
-                document.write(new Date().getFullYear());
-              </script>
+              <span id="year"></span>
               <b>Spemer(Hyouk Seo)</b></span
             >
-          </div>
-          <div>
-            <img
-              alt="Hits counter"
-              title="Hits counter"
-              src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fspemer.github.io&count_bg=%230FBC8E&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"
-            />
           </div>
           <div>
             Checkout my
@@ -138,6 +126,5 @@
       </div>
     </footer>
 
-    {% include tracking-footer.html %}
   </body>
 </html>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "덕적도 서포리해변 1박 2일 초가을 백패킹 캠핑 & 맛집 | 덕적도 카페리 차량 선적 주의사항"
+description: "덕적도 카페리 차량 선적 비용과 주의사항, 서포리해변 가을 캠핑 후기. 덕적도 짬뽕 맛집과 드라이브 코스까지 정리했다."
 categories: [캠핑, 덕적도, 일상, 여행, 백패킹, 맛집]
 tags: [featured]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrVrxm%2Fbtre5bGMr4o%2Fjbpb0lAOBDDdEzjoCIXkRK%2Fimg.jpg

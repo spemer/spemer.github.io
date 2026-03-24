@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Auto CSS prefix with Gulp"
+description: "Gulp를 사용해 CSS vendor prefix를 자동으로 추가하는 방법. 설치부터 gulpfile 설정, autoprefixer 적용까지 단계별 튜토리얼."
 categories: [CSS, Gulp, Web, Frontend]
-tags: []
+tags: [Gulp, CSS 자동 프리픽스, 프론트엔드 도구, autoprefixer, 웹 개발]
 image: https://spemer.com/img/works/gulp/gulp.png
 ---
 
