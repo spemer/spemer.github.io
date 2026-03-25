@@ -133,6 +133,16 @@ article.article-post a {
   font-weight: 700;
 }
 
+/* 포스팅 상단 카테고리 라벨 볼드 */
+.catlist a.text-danger {
+  font-weight: 700;
+}
+
+/* 텍스트 링크 커서 포인터 */
+a {
+  cursor: pointer;
+}
+
 /* Additional padding */
 main article.article-post {
   padding-bottom: 64px;
