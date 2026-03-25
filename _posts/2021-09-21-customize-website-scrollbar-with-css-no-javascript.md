@@ -4,12 +4,12 @@ title: "Customizing website scrollbar with CSS(NO JavaScript!)"
 description: "CSS만으로 웹사이트 스크롤바를 커스터마이징하는 방법. webkit 가상 요소를 활용한 스크롤바 디자인 변경 코드와 예제를 공유한다."
 categories: [Web, CSS, HTML]
 tags: [CSS 스크롤바, 웹 커스터마이징, webkit, 프론트엔드]
-image: https://miro.medium.com/max/1400/1*kh08HW91JyQ2FMUyHGRA9w.png
+image: assets/images/posts/2021-09-21-customize-website-scrollbar-with-css-no-javascript.webp
 ---
 
 It seems like **scrollbar** has just tiny part of the webpage, but to me — as UI designer — it’s not that tiny, nor okay to ignore.
 
-![Scrollbar](https://miro.medium.com/max/1400/1*kh08HW91JyQ2FMUyHGRA9w.png)
+![Scrollbar](assets/images/posts/2021-09-21-customize-website-scrollbar-with-css-no-javascript.webp)
 
 ---
 
@@ -113,6 +113,6 @@ body::-webkit-scrollbar-thumb {
 
 At this point - in my writing this article today(**September 21, 2021**), search result on <a href="https://caniuse.com/?search=scrollbar" rel="noopener noreferrer" target="_blank" class="markdown-link">caniuse.com</a> says 97.27% of browsers support for `::-webkit-scrollbar` pseudo-elements.
 
-![Can I Use](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdhRMju%2Fbtrfw3WGN9W%2Fx1jCBReNUjAZns1Dhkt1x0%2Fimg.jpg)
+![Can I Use](/assets/images/posts/2021-09-21-customize-website-scrollbar-with-css-no-javascript-body-01.webp)
 
 Thank you for reading my article, and hope you enjoyed!

@@ -5,7 +5,7 @@
   <ol class="breadcrumb-list">
     <li><a href="{{ site.baseurl }}/">홈</a></li>
     {% if category %}
-    <li><a href="{{ site.baseurl }}/categories.html#{{ category | downcase }}">{{ category }}</a></li>
+    <li><a href="{{ site.baseurl }}/categories/{{ category }}/">{{ category }}</a></li>
     {% endif %}
     <li aria-current="page">{{ page.title }}</li>
   </ol>
@@ -27,7 +27,7 @@
         "@type": "ListItem",
         "position": 2,
         "name": {{ category | jsonify }},
-        "item": "{{ site.url }}/categories.html#{{ category | downcase }}"
+        "item": "{{ site.url }}/categories/{{ category }}/"
       },
       {
         "@type": "ListItem",

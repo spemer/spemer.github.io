@@ -4,7 +4,7 @@ title: "Next.js를 위한 sitemap generator 만들기"
 description: "Next.js 프로젝트에서 동적 sitemap을 자동 생성하는 스크립트 작성법과 검색엔진 색인 요청까지의 과정을 정리했다."
 categories: [Next.js, React.js, Web, Frontend, SEO]
 tags: [Next.js 사이트맵, SEO, 검색엔진 최적화, sitemap 생성, 구글 서치콘솔]
-image: https://spemer.com/img/works/sitemap/logo.jpeg
+image: assets/images/posts/2021-09-01-generate-sitemap-for-next-js.webp
 ---
 
 > 사이트맵 생성부터, 검색엔진 색인 요청까지
@@ -335,7 +335,7 @@ $ curl http://google.com/ping?sitemap=http://website.com/sitemap.xml
 
 볼라의 경우에는 xml 형식의 사이트맵을 만든 후 해당 사이트맵들을 gzip 형식으로 압축한 다음, 기존의 xml 사이트맵을 제거할 수 있도록 아래와 같은 bash 스크립트를 따로 작성해주었습니다.
 
-![Bash script](https://blog.kakaocdn.net/dn/bvtUCO/btrdJj7Rnum/lpe5O3PF7Rf38nl7ZlREr0/img.png)
+![Bash script](/assets/images/posts/2021-09-01-generate-sitemap-for-next-js-body-01.webp)
 
 이후, 마스터 배포 시 GitHub Actions에서 위의 스크립트들을 실행하도록 workflow 파일을 수정했습니다.
 

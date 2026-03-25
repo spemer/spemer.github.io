@@ -4,7 +4,7 @@ title: "Meta tag: robots 태그를 통한 검색 색인 및 노출 제어하기 
 description: "robots 메타태그로 특정 검색엔진의 크롤링과 색인을 제어하는 방법. 중복 콘텐츠로 인한 저품질 블로그 문제 해결법을 정리했다."
 categories: [개발, 블로그, 웹, SEO, 검색엔진최적화]
 tags: [robots 메타태그, 저품질 블로그, 검색엔진 크롤링, SEO, 중복 콘텐츠]
-image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdwQdwQ%2FbtrfqD3o7T4%2FMVDxFdgnhWknK1sLQMDNRk%2Fimg.png
+image: assets/images/posts/2021-09-18-meta-robots-태그-검색-노출-제어-저품질-블로그-해결.webp
 ---
 
 > 들어가며: 이 글은 블로그 운영 및 HTML에 대한 기초적인 지식이 있는 분들을 대상으로 작성되었다.
@@ -15,7 +15,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 기본적으로 각 검색엔진들에는 웹페이지를 크롤링하는 로봇(크롤러)이 있고, 그 로봇에 의해 크롤링된 웹페이지들은 각 검색엔진들의 알고리즘에 따라 검색 결과에 적절하게 노출된다. 이 때, 같은 내용의 글들이 반복적으로 검색 결과에 노출된다면 UX의 저하를 야기하게 되며, 이러한 종류의 문제는 검색엔진의 본질을 벗어나게 된다고 볼 수 있을만큼 검색엔진을 운영하는 회사들(구글, 네이버, 다음 등)에 있어서는 큰 문제라고 볼 수 있다. 따라서 같거나 비슷한 내용을 가진 웹페이지들은 검색엔진 단에서 검색 결과 점수 등을 통해 미리 한 차례 걸러낸 후 검색 결과를 노출시켜주게 되며, 여기서 걸러진 웹페이지(포스팅)들이 흔히 말하는 **저품질** 포스팅의 일종이라고 볼 수 있다.
 
-![구글 검색결과](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdwQdwQ%2FbtrfqD3o7T4%2FMVDxFdgnhWknK1sLQMDNRk%2Fimg.png)
+![구글 검색결과](assets/images/posts/2021-09-18-meta-robots-태그-검색-노출-제어-저품질-블로그-해결.webp)
 
 보통 저품질 문제를 해결하기 위해서 많이 하는것이 같은 글을 여러개의 매체에 올리더라도 말투나 캡션등을 달리해서 마치 다른 사람이 쓴 글인것처럼 보이게 만드는 방법인데, 요즘의 검색엔진 로봇은 그런 방식을 통한 중복 검색결과도 걸러낼 수 있을만큼 꽤 영리해졌다. 일부 네이버 블로그에서는 발행 설정의 **'외부 공유 허용'** 옵션을 설정 해제 함으로써 해당 문제를 해결할 수 있다고 하지만, 같은 내용의 다른 웹페이지를 네이버 로봇(Yeti)이 크롤링하게 될 경우 결과적으로 네이버 검색결과에서 만큼은 중복 문제는 해결될 수 없으므로, 추가적인 조치가 필요하게 된다. 이러한 문제는 해당 중복 포스팅이 네이버에서만 검색되지 않게 조치함으로써 해결할 수 있다. 그렇다면 어떻게 '네이버'에서만 특정 웹페이지가 검색되지 않도록 조치할 수 있을까?
 
@@ -76,7 +76,7 @@ image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F
 
 예시를 티스토리로 들었고, 여러 블로그를 운영함으로 인해 저품질을 걱정하는 분들의 대다수가 티스토리 블로그를 사용할것으로 예상되어 티스토리에 해당 메타태그를 적용하는 방법을 설명하고 글을 마무리 지으려 한다. 우선 티스토리의 블로그 관리 페이지에 들어간 후, 좌측 패널의 '플러그인' 탭을 들어가면 '메타태그 등록' 이라는 카드를 볼 수 있을것이다. 해당 카드를 누르면 하나의 행에 Select box(첫 번째)와 두 개의 빈 Text field가 보일것이다. 우리는 여기의 Select box에서는 name을 선택하고, 첫 번째 빈 칸에는 name 속성의 값으로 명령 적용 대상이 될 네이버 크롤러인 Yeti를 적어준 다음, 두 번째 빈 칸에는 Yeti에게 전할 명령인 `noindex, nofollow`를 적어주면 된다. 위에서 원리를 설명하느라 글이 길어졌을 뿐, 사실 굉장히 간단한 해결방법이다.
 
-![티스토리 적용 예시](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdTD2AC%2Fbtrfn3oWVgO%2Fnw25I0I563GLd9g6RZ0Jc1%2Fimg.png)
+![티스토리 적용 예시](/assets/images/posts/2021-09-18-meta-robots-태그-검색-노출-제어-저품질-블로그-해결-body-01.webp)
 
 ---
 

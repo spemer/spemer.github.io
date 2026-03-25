@@ -1,0 +1,35 @@
+<nav class="sidebar-categories sticky-top sticky-top-offset" aria-label="카테고리 메뉴">
+  <h6 class="sidebar-categories-title">카테고리</h6>
+  <ul class="list-unstyled sidebar-categories-list">
+    <li>
+      <a href="/" class="sidebar-cat-link {% if page.url == '/' %}active{% endif %}" data-cat-all>
+        <span>전체 글</span>
+        <span class="sidebar-cat-count">{{ site.posts | size }}</span>
+      </a>
+    </li>
+    {% assign cat_entries = "" | split: "" %}
+    {% for cat in site.categories %}
+      {% if cat[1].size >= 2 %}
+        {% capture size_str %}{{ cat[1].size }}{% endcapture %}
+        {% assign size_str = size_str | strip %}
+        {% if size_str.size < 2 %}{% assign size_str = size_str | prepend: "0" %}{% endif %}
+        {% if size_str.size < 3 %}{% assign size_str = size_str | prepend: "0" %}{% endif %}
+        {% capture entry %}{{ size_str }}|||{{ cat[0] }}{% endcapture %}
+        {% assign entry = entry | strip %}
+        {% assign cat_entries = cat_entries | push: entry %}
+      {% endif %}
+    {% endfor %}
+    {% assign cat_entries = cat_entries | sort | reverse %}
+    {% for entry in cat_entries %}
+      {% assign parts = entry | split: "|||" %}
+      {% assign cat_name = parts[1] %}
+      {% assign cat_count = parts[0] | plus: 0 %}
+      <li>
+        <a href="/categories/{{ cat_name }}/" class="sidebar-cat-link {% if page.category_name == cat_name %}active{% endif %}">
+          <span>{{ cat_name }}</span>
+          <span class="sidebar-cat-count">{{ cat_count }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

@@ -1,13 +1,16 @@
 # Site
-name: "Spemer(Hyouk Seo)"
-title: "Spemer(Hyouk Seo)"
+name: "Spemer"
+title: "Spemer"
 description: "캠핑, 자동차, 맛집, 개발 등 다양한 일상을 기록하는 블로그"
 url: "https://spemer.github.io"
 logo: "assets/images/avatar.png"
 favicon: "assets/images/favicon.ico"
 baseurl: ""
-disqus: "Spemer"
+
 locale: ko_KR
+
+twitter:
+  card: summary_large_image
 email: "ghsspower@gmail.com"
 google-analytics: G-1CRN7Q6CQR
 
@@ -23,15 +26,15 @@ plugins:
 
 authors:
   Spemer:
-    name: Hyouk Seo
+    name: Spemer
     site: https://spemer.com/
     avatar: assets/images/avatar.png
-    bio: "I am a detail-oriented Digital Product & User Experience Designer, Problem Solver and Frontend Developer; create design based on human-centered design."
+    bio: "위스키, 캠핑, 자동차, 기타, 게임, 디자인, 맛집"
     email: ghsspower@gmail.com
 
 
 social:
-  name: Hyouk Seo(Spemer)
+  name: Spemer
   links:
 
     - https://www.facebook.com/ghsspower
@@ -61,6 +64,9 @@ highlighter: rouge
 
 # Paginate
 paginate: 50
+
+sass:
+  style: compressed
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude:

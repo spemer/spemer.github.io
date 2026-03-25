@@ -13,12 +13,12 @@ layout: default
       page.image contains '://' %}{{ page.image }}{% else %}{{ page.image |
       absolute_url }}{% endif %}"
         alt="{{ page.title }}"
+        width="1200"
+        height="630"
       />
       {% endif %}
       <div class="page-content">
         {{ content }}
-        <!-- Comments -->
-        {% if page.comments == true %} {% include comments.html %} {% endif %}
       </div>
     </div>
   </div>

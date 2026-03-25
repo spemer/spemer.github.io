@@ -40,7 +40,7 @@ layout: default
             if
             page.image
             %}
-            col-md-6
+            col-md-5
             {%
             else
             %}
@@ -59,7 +59,7 @@ layout: default
               🏷️ {% for category in page.categories %}
               <a
                 class="sscroll text-danger"
-                href="{{site.baseurl}}/categories.html#{{ category | downcase }}"
+                href="{{site.baseurl}}/categories/{{ category }}/"
                 >{{ category | downcase }}</a
               ><span class="sep">, </span>
               {% endfor %}
@@ -81,19 +81,22 @@ layout: default
 
 
               <span class="text-muted d-block mt-1"
-                >{{ page.date | date: '%b %d, %Y' }} · {% include
+                ><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%b %d, %Y' }}</time>{% if page.last_modified_at %} · 수정 <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: '%b %d, %Y' }}</time>{% endif %} · {% include
                 meta-read-time.html %}</span
               >
             </small>
           </div>
         </div>
         {% if page.image %}
-        <div class="col-md-6 pr-0 align-self-center">
+        <div class="col-md-7 pr-0 align-self-center">
           <img
             class="rounded"
             loading="lazy"
             src="{% if page.image contains '://' %}{{ page.image }}{% else %}{% assign _img_first = page.image | slice: 0 %}{% if _img_first == '/' %}{{ site.baseurl }}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}{% endif %}"
             alt="{{ page.title }}"
+            width="1200"
+            height="630"
+            style="width:100%;height:auto;"
           />
         </div>
         {% endif %}
@@ -104,30 +107,8 @@ layout: default
 
 <div class="container-lg pt-4 pb-4">
   <div class="row justify-content-center">
-    <!-- Share -->
     <div class="col-lg-2 pr-4 mb-4 col-md-12">
       <div class="sticky-top sticky-top-offset text-center">
-        <div class="text-muted">Share this 📤</div>
-        <div class="share d-inline-block">
-          <!-- AddToAny BEGIN -->
-          <div class="a2a_kit a2a_kit_size_32 a2a_default_style" id="a2a-share">
-            <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-            <a class="a2a_button_facebook"></a>
-          </div>
-          <script>
-            var a2aObserver = new IntersectionObserver(function (entries) {
-              if (entries[0].isIntersecting) {
-                var s = document.createElement('script');
-                s.async = true;
-                s.src = 'https://static.addtoany.com/menu/page.js';
-                document.head.appendChild(s);
-                a2aObserver.disconnect();
-              }
-            }, { rootMargin: '200px' });
-            a2aObserver.observe(document.getElementById('a2a-share'));
-          </script>
-          <!-- AddToAny END -->
-        </div>
         {% include ads-display.html %}
       </div>
     </div>
@@ -176,6 +157,10 @@ layout: default
       </div>
       {% endif %}
 
+      <div class="mb-5"></div>
+      <!-- Related posts -->
+      {% include related-posts.html %}
+
       <!-- Next/Previous posting -->
       <div class="nextprev">
         {% if page.next.url %}
@@ -193,8 +178,6 @@ layout: default
         {% endif %}
       </div>
 
-      <!-- Comments -->
-      {% if page.comments != false %} {% include comments.html %} {% endif %}
     </div>
   </div>
 </div>

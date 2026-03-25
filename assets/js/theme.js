@@ -1,16 +1,3 @@
-// alertbar later
-document.addEventListener('scroll', function () {
-  var y = window.scrollY;
-  var alertbar = document.querySelector('.alertbar');
-  if (alertbar) {
-    if (y > 280) {
-      alertbar.style.display = 'block';
-    } else {
-      alertbar.style.display = 'none';
-    }
-  }
-});
-
 // Hide Header on scroll down
 var didScroll;
 var lastScrollTop = 0;
@@ -30,6 +17,7 @@ setInterval(function () {
 }, 250);
 
 function hasScrolled() {
+  if (!nav) return;
   var st = window.scrollY;
 
   if (Math.abs(lastScrollTop - st) <= delta) return;

@@ -1,1 +1,39 @@
 <!-- jekyll-seo-tag가 WebSite/BlogPosting JSON-LD를 자동 생성하므로, 여기서는 추가 정보만 보완 -->
+
+<!-- Person schema (홈페이지에서만) -->
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.social.name }}",
+  "url": "{{ site.url }}",
+  "sameAs": [{% for link in site.social.links %}"{{ link }}"{% unless forloop.last %}, {% endunless %}{% endfor %}]
+}
+</script>
+{% endif %}
+
+<!-- Review schema (review 포스팅에서만) -->
+{% if page.review %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "{{ page.review_type | default: 'Thing' }}",
+    "name": "{{ page.review_target }}"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.social.name }}"
+  },
+  {% if page.rating %}"reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ page.rating }}",
+    "bestRating": "5"
+  },
+  {% endif %}"datePublished": "{{ page.date | date_to_xmlschema }}",
+  "reviewBody": "{{ page.description | strip_html | escape }}"
+}
+</script>
+{% endif %}

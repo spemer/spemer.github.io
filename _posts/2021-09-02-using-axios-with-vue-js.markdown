@@ -4,7 +4,7 @@ title: "Vue.js 에서 Axios 사용하기"
 description: "Vue.js에서 Axios를 설치하고 전역으로 설정하는 방법부터 실제 API 호출 예제까지 간단하게 정리한 가이드."
 categories: [Vue.js, Axios, Web, Frontend]
 tags: [Vue.js, Axios, API 호출, 프론트엔드, 웹 개발]
-image: https://spemer.com/img/works/vue/thumb.png
+image: assets/images/posts/2021-09-02-using-axios-with-vue-js.webp
 ---
 
 <a href="https://github.com/axios/axios" rel="noopener noreferrer" target="_blank" title="Axios 깃허브 바로가기" class="markdown-link">Axios</a>는 http통신을 하고, ajax 요청을 하는 등의 작업을 위한 라이브러리입니다. 이 외에 <a href="https://github.com/pagekit/vue-resource" rel="noopener noreferrer" target="_blank" title="vue-resource 깃허브 바로가기" class="markdown-link">vue-resource</a> 라는 라이브러리도 있지만 업데이트도 느리고 Axios보다 커뮤니티도 활성화되어있지 않아서 잘 사용하지 않는다고 합니다.

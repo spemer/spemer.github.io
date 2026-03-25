@@ -1,0 +1,41 @@
+{% assign related_posts = "" | split: "" %}
+
+{% for post in site.posts %}
+  {% if post.url == page.url %}{% continue %}{% endif %}
+  {% assign match = false %}
+  {% for cat in page.categories %}
+    {% if post.categories contains cat %}
+      {% assign match = true %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  {% if match %}
+    {% assign related_posts = related_posts | push: post %}
+  {% endif %}
+  {% if related_posts.size >= 3 %}{% break %}{% endif %}
+{% endfor %}
+
+{% if related_posts.size > 0 %}
+<div class="related-posts mt-5 mb-4">
+  <h4 class="font-weight-bold spanborder"><span>📖 관련 글</span></h4>
+  {% for post in related_posts %}
+  <div class="mb-3 d-flex align-items-center">
+    {% if post.image %}
+    <div class="col-3 col-md-3 pr-0">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <img class="rounded" loading="lazy" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{% assign _img_first = post.image | slice: 0 %}{% if _img_first == '/' %}{{ site.baseurl }}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}{% endif %}" alt="{{ post.title }}" width="150" height="79" style="width:100%;aspect-ratio:1200/630;object-fit:cover;">
+      </a>
+    </div>
+    {% endif %}
+    <div class="pl-3">
+      <h5 class="mb-1 h6 font-weight-bold">
+        <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h5>
+      <small class="text-muted">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %d, %Y' }}</time>
+      </small>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}

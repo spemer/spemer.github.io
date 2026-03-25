@@ -5,27 +5,37 @@ permalink: "/categories.html"
 ---
 
 <div class="container">
-  <div class="row justify-content-center">
-    <div class="col-md-8">
+  <div class="row">
+    <aside class="col-lg-2 d-none d-lg-block sidebar-categories-wrap">
+      {% include sidebar-categories.html %}
+    </aside>
+    <div class="col-lg-10">
+    <div class="row">
+    <div class="col-md-12">
       <h1 class="font-weight-bold title h6 text-uppercase mb-4">
         🔖 Categories
       </h1>
 
       {% for category in site.categories %}
-      <h4
-        class="font-weight-bold spanborder text-capitalize"
-        id="{{ category[0] | downcase }}"
-      >
-        <span>{{ category[0] }}</span>
+      <div class="category-section">
+      <h4 class="font-weight-bold spanborder text-capitalize">
+        <a href="/categories/{{ category[0] }}/" class="text-dark">
+          <span>{{ category[0] }}</span>
+        </a>
       </h4>
+      {% for desc in site.data.category_descriptions %}{% if desc[0] == category[0] %}
+      <p class="text-muted mb-3">{{ desc[1] }}</p>
+      {% endif %}{% endfor %}
 
       {% assign pages_list = category[1] %} {% for post in pages_list %} {% if
       post.title != null %} {% if group == null or group == post.group %} {%
       include main-loop-card.html %} {% endif %} {% endif %} {% endfor %} {%
-      assign pages_list = nil %} {% assign group = nil %} {% endfor %} {%
-      include ads-contents.html %}
+      assign pages_list = nil %} {% assign group = nil %}
+      </div>
+      {% endfor %}
+      {% include ads-contents.html %}
     </div>
-
-    <div class="col-md-4">{% include sidebar-featured.html %}</div>
+  </div>
+  </div>
   </div>
 </div>

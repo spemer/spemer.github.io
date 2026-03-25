@@ -4,7 +4,7 @@ title: "Auto CSS prefix with Gulp"
 description: "Gulp를 사용해 CSS vendor prefix를 자동으로 추가하는 방법. 설치부터 gulpfile 설정, autoprefixer 적용까지 단계별 튜토리얼."
 categories: [CSS, Gulp, Web, Frontend]
 tags: [Gulp, CSS 자동 프리픽스, 프론트엔드 도구, autoprefixer, 웹 개발]
-image: https://spemer.com/img/works/gulp/gulp.png
+image: assets/images/posts/2021-09-04-auto-css-vendor-browser-prefix-javascript-gulp.webp
 ---
 
 > Short tutorial for beginners with bit of examples
@@ -70,7 +70,7 @@ gulp taskname
 
 If you can see the same result of mine like the image below, Congrats! You set your first gulpfile successfully.
 
-![Terminal](https://spemer.com/img/works/gulp/npmver.png)
+![Terminal](/assets/images/posts/2021-09-04-auto-css-vendor-browser-prefix-javascript-gulp-body-01.webp)
 
 On the Gist code snippet above, I wrote `taskname` after `gulp.task` on the line 3, and used that taskname on my command prompt to execute the task. You can set the name of task with the way you want, or you can set it’s name as `default`. If you set the name of task as `default`, you don’t need to write the task’s name on command prompt — just write `gulp` to execute it.
 

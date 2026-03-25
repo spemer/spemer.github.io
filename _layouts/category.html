@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <aside class="col-lg-2 d-none d-lg-block sidebar-categories-wrap">
+      {% include sidebar-categories.html %}
+    </aside>
+    <div class="col-lg-10">
+    <div class="row">
+    <div class="col-md-12">
+      <h1 class="font-weight-bold title h6 text-uppercase mb-4">
+        🔖 {{ page.category_name }}
+      </h1>
+
+      {% for desc in site.data.category_descriptions %}{% if desc[0] == page.category_name %}
+      <p class="text-muted mb-3">{{ desc[1] }}</p>
+      {% endif %}{% endfor %}
+
+      {% assign posts = site.categories[page.category_name] %}
+      {% for post in posts %}
+        {% if post.title != null %}
+          {% include main-loop-card.html %}
+        {% endif %}
+      {% endfor %}
+
+      {% include ads-contents.html %}
+    </div>
+  </div>
+  </div>
+  </div>
+</div>

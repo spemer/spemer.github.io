@@ -14,19 +14,19 @@
         {% for category in post.categories %}
         <a
           class="text-capitalize text-muted smoothscroll"
-          href="{{site.baseurl}}/categories.html#{{ category | downcase }}"
+          href="{{site.baseurl}}/categories/{{ category }}/"
           >{{ category }}</a
         ><span class="sep">, </span>
         {% endfor %}
       </span>
     </small>
-    <small class="text-muted"> {{ post.date | date: '%b %d, %Y' }} </small>
+    <small class="text-muted"> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %d, %Y' }}</time> </small>
   </div>
   {% if post.image %}
   <div class="col-md-3 pr-0 text-right">
     <a href="{{site.baseurl}}{{post.url}}">
-      <img class="w-100" loading="lazy" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{% assign _img_first = post.image | slice: 0 %}{% if _img_first == '/' %}{{ site.baseurl }}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}{% endif %}" alt="{{
-      post.title }}">
+      <img loading="lazy" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{% assign _img_first = post.image | slice: 0 %}{% if _img_first == '/' %}{{ site.baseurl }}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}{% endif %}" alt="{{
+      post.title }}" width="300" height="158" style="width:100%;aspect-ratio:1200/630;object-fit:cover;border-radius:4px;">
     </a>
   </div>
   {% endif %}
