@@ -93,7 +93,6 @@
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">
       <div class="container">
-        <div class="ads-search">{% include ads-search.html %}</div>
         <div class="row align-items-center justify-content-between">
           <div>
             <span
@@ -101,6 +100,11 @@
               <span id="year"></span>
               <b>Spemer</b></span
             >
+          </div>
+          <div>
+            <span style="font-size:12px;color:#999;letter-spacing:0.3px;">
+              Total Visitors: <span id="goatcounter-total" style="font-weight:700;color:#666;">-</span>
+            </span>
           </div>
           <div>
             Checkout my
@@ -123,6 +127,24 @@
         if (target) target.classList.toggle('show');
       });
       document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+
+    <!-- GoatCounter -->
+    <script data-goatcounter="https://spemer.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
+    <script>
+      (function() {
+        var el = document.getElementById('goatcounter-total');
+        if (!el) return;
+        var r = new XMLHttpRequest();
+        r.open('GET', 'https://spemer.goatcounter.com/counter/' + encodeURIComponent(location.pathname) + '.json');
+        r.onload = function() {
+          if (r.status === 200) {
+            try { el.textContent = JSON.parse(r.responseText).count; } catch(e) {}
+          }
+        };
+        r.send();
+      })();
     </script>
 
   </body>
