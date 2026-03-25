@@ -103,7 +103,8 @@
           </div>
           <div>
             <span style="font-size:12px;color:#999;letter-spacing:0.3px;">
-              Total Visitors: <span id="goatcounter-total" style="font-weight:700;color:#666;">-</span>
+              Today <span id="goatcounter-today" style="font-weight:700;color:#666;">-</span>
+              · Total <span id="goatcounter-total" style="font-weight:700;color:#666;">-</span>
             </span>
           </div>
           <div>
@@ -134,16 +135,29 @@
             async src="//gc.zgo.at/count.js"></script>
     <script>
       (function() {
-        var el = document.getElementById('goatcounter-total');
-        if (!el) return;
-        var r = new XMLHttpRequest();
-        r.open('GET', 'https://spemer.goatcounter.com/counter/' + encodeURIComponent(location.pathname) + '.json');
-        r.onload = function() {
-          if (r.status === 200) {
-            try { el.textContent = JSON.parse(r.responseText).count; } catch(e) {}
+        var base = 'https://spemer.goatcounter.com/counter/';
+        var path = encodeURIComponent(location.pathname);
+        var today = new Date().toISOString().slice(0, 10);
+
+        // Total
+        var r1 = new XMLHttpRequest();
+        r1.open('GET', base + path + '.json');
+        r1.onload = function() {
+          if (r1.status === 200) {
+            try { document.getElementById('goatcounter-total').textContent = JSON.parse(r1.responseText).count; } catch(e) {}
           }
         };
-        r.send();
+        r1.send();
+
+        // Today
+        var r2 = new XMLHttpRequest();
+        r2.open('GET', base + path + '.json?start=' + today);
+        r2.onload = function() {
+          if (r2.status === 200) {
+            try { document.getElementById('goatcounter-today').textContent = JSON.parse(r2.responseText).count; } catch(e) {}
+          }
+        };
+        r2.send();
       })();
     </script>
 
