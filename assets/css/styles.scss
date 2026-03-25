@@ -1,5 +1,5 @@
 ---
 ---
-@use "main" as *;
-@use "theme" as *;
-@use "custom" as *;
+@import "main";
+@import "theme";
+@import "custom";
