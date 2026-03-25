@@ -16,6 +16,7 @@ google-analytics: G-1CRN7Q6CQR
 
 include: ["_pages"]
 permalink: /:title/
+future: true
 
 # Plugins
 plugins:
