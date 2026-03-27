@@ -58,7 +58,7 @@ image: assets/images/posts/2021-10-03-steal-the-apple-가로수길-스티브-잡
 
 잡스의 프레젠테이션 이야기를 하니 떠오르는 발표가 또 하나 있는데, 바로 2008년 맥월드 맥북 에어 발표이다. 종이 몇장이나 들어갈법한 작은 서류봉투에서 갑자기 노트북을 꺼내는 잡스의 프레젠테이션이 정말 압권이었는데, 아래 유튜브 링크로 설명을 대신하겠다. 10분짜리 영상인데 주요 부분만 빨리 보고싶다면 2분 24초부터 봐도 상관은 없다. 3분 25초가 그 유명한 서류 봉투에서 맥북 에어를 꺼내는 장면.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/OIV6peKMj9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" loading="lazy" src="https://www.youtube.com/embed/OIV6peKMj9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![파워맥 G4 큐브](/assets/images/posts/2021-10-03-steal-the-apple-가로수길-스티브-잡스-애플-전시회-body-11.webp)
 

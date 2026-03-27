@@ -10,9 +10,19 @@
     />
     {% seo %}
 
-    <!-- Preconnect: 서드파티 도메인 사전 연결 -->
+    {% unless page.image %}
+    {% assign _latest_img = site.posts.first.image %}
+    {% if _latest_img %}
+    <meta property="og:image" content="{{ site.url }}/{{ _latest_img }}" />
+    <meta name="twitter:image" content="{{ site.url }}/{{ _latest_img }}" />
+    {% endif %}
+    {% endunless %}
+
+    <!-- Preconnect / DNS Prefetch: 서드파티 도메인 사전 연결 -->
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
     <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
 
     {% if page.tags.size > 0 %}
     <meta name="keywords" content="{{ page.tags | join: ', ' }}" />
@@ -136,7 +146,7 @@
     <script>
       (function() {
         var base = 'https://spemer.goatcounter.com/counter/';
-        var path = encodeURIComponent(location.pathname);
+        var path = 'TOTAL';
         var today = new Date().toISOString().slice(0, 10);
 
         // Total

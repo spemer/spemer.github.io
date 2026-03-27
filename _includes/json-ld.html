@@ -36,4 +36,22 @@
   "reviewBody": "{{ page.description | strip_html | escape }}"
 }
 </script>
+{% elsif page.layout == "post" %}
+<!-- Article schema (일반 포스팅) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.social.name }}",
+    "url": "{{ site.url }}"
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% if page.last_modified_at %}"dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+  {% endif %}"description": "{{ page.description | strip_html | escape }}"{% if page.image %},
+  "image": "{{ site.url }}/{{ page.image }}"{% endif %}
+}
+</script>
 {% endif %}

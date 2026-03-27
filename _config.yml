@@ -68,6 +68,7 @@ paginate: 50
 
 sass:
   style: compressed
+  sourcemap: never
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude:

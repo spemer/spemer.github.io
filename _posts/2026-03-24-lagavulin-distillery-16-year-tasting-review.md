@@ -5,7 +5,7 @@ date: 2026-03-24 14:00:00 +0900
 description: "아일라 섬 라가불린 증류소의 역사부터 대표 위스키 라인업, 라가불린 16년산 테이스팅 노트까지 정리한 위스키 리뷰"
 categories: [위스키]
 tags: [라가불린, 위스키, 아일라, 싱글몰트, 테이스팅, 스카치위스키]
-image: assets/images/posts/2026-03-24-lagavulin-distillery-16-year-tasting-review.webp
+image: assets/images/posts/2026-03-24-lagavulin-16-year-photo.webp
 review: true
 review_target: "라가불린 16년"
 review_type: Product
