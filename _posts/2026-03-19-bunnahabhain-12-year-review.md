@@ -49,7 +49,7 @@ review_type: Product
 
 ## 부나하벤 12년 테이스팅 노트
 
-부나하벤의 얼굴, 12년산을 본격적으로 뜯어보자.
+부나하벤의 얼굴, 12년을 본격적으로 뜯어보자.
 
 ![부나하벤 12년 싱글몰트 위스키](/assets/images/posts/2026-03-19-bunnahabhain-12-year-review.webp)
 

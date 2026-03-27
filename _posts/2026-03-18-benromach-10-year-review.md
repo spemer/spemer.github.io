@@ -55,7 +55,7 @@ review_type: Product
 
 ## 벤로막 10년 테이스팅 노트
 
-자, 이제 본론으로 들어가자. 벤로막의 얼굴인 10년산.
+자, 이제 본론으로 들어가자. 벤로막의 얼굴인 10년.
 
 ![벤로막 10년 싱글몰트 위스키](/assets/images/posts/2026-03-18-benromach-10-year-review.webp)
 
