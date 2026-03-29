@@ -143,6 +143,14 @@ a {
   cursor: pointer;
 }
 
+/* Accessibility: contrast ratio */
+.page-link {
+  color: #06805b;
+}
+.text-muted {
+  color: #636b73 !important;
+}
+
 /* Additional padding */
 main article.article-post {
   padding-bottom: 64px;

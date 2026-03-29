@@ -21,8 +21,10 @@
     <!-- Preconnect / DNS Prefetch: 서드파티 도메인 사전 연결 -->
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
     <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
     <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
 
     {% if page.tags.size > 0 %}
     <meta name="keywords" content="{{ page.tags | join: ', ' }}" />
@@ -62,8 +64,13 @@
 
     <meta name="author" content="Spemer" />
 
-    <!-- Stylesheets -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css" />
+    <!-- Inline Stylesheet -->
+    {% capture inline_css %}
+    @import "main";
+    @import "theme";
+    @import "custom";
+    {% endcapture %}
+    <style>{{ inline_css | scssify }}</style>
 
   </head>
 
@@ -97,9 +104,6 @@
     <!-- Content -->
     <main role="main" class="site-content">{{ content }}</main>
 
-    <!-- Scripts: navbar toggle, copyright year -->
-    <script defer src="{{site.baseurl}}/assets/js/theme.js"></script>
-
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">
       <div class="container">
@@ -112,7 +116,7 @@
             >
           </div>
           <div>
-            <span style="font-size:12px;color:#999;letter-spacing:0.3px;">
+            <span style="font-size:12px;color:#767676;letter-spacing:0.3px;">
               Today <span id="goatcounter-today" style="font-weight:700;color:#666;">-</span>
               · Total <span id="goatcounter-total" style="font-weight:700;color:#666;">-</span>
             </span>
@@ -138,6 +142,10 @@
         if (target) target.classList.toggle('show');
       });
       document.getElementById('year').textContent = new Date().getFullYear();
+      // Hide Header on scroll down
+      var didScroll;var lastScrollTop=0;var delta=5;var nav=document.querySelector('nav');var navbarHeight=nav?nav.offsetHeight:0;window.addEventListener('scroll',function(){didScroll=true});setInterval(function(){if(didScroll){hasScrolled();didScroll=false}},250);function hasScrolled(){if(!nav)return;var st=window.scrollY;if(Math.abs(lastScrollTop-st)<=delta)return;if(st>lastScrollTop&&st>navbarHeight){nav.classList.remove('nav-down');nav.classList.add('nav-up');nav.style.top=-nav.offsetHeight+'px'}else{if(st+window.innerHeight<document.body.scrollHeight){nav.classList.remove('nav-up');nav.classList.add('nav-down');nav.style.top='0px'}}lastScrollTop=st}
+      // Smooth scroll
+      (function(){setTimeout(function(){if(location.hash){window.scrollTo(0,0);var t=document.querySelector(location.hash);if(t)smoothScrollTo(t)}},1);document.querySelectorAll('a[href*="#"]:not([href="#"])').forEach(function(link){link.addEventListener('click',function(e){if(location.pathname.replace(/^\//,'')===this.pathname.replace(/^\//,'')&&location.hostname===this.hostname){var t=document.querySelector(this.hash);if(t){smoothScrollTo(t);e.preventDefault()}}})});function smoothScrollTo(t){if(t){window.scrollTo({top:t.offsetTop,behavior:'smooth'})}}})();
     </script>
 
     <!-- GoatCounter -->
