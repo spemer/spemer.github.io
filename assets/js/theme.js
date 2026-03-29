@@ -25,7 +25,7 @@ function hasScrolled() {
   if (st > lastScrollTop && st > navbarHeight) {
     nav.classList.remove('nav-down');
     nav.classList.add('nav-up');
-    nav.style.top = -nav.offsetHeight + 'px';
+    nav.style.top = -navbarHeight + 'px';
   } else {
     if (st + window.innerHeight < document.body.scrollHeight) {
       nav.classList.remove('nav-up');
