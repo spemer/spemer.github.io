@@ -9,6 +9,7 @@ image: assets/images/posts/2026-03-25-hart-brothers-peated-islay-single-malt-rev
 review: true
 review_target: "하트 브라더스 피티드 아일라 싱글몰트"
 review_type: Product
+last_modified_at: 2026-03-30T22:30:00+09:00
 ---
 
 [아일라 위스키](/islay-whisky-characteristics-guide/)를 좋아하면서도 매번 라프로익이나 라가불린만 사기엔 지갑이 좀 아프다. 그러다 트레이더스에서 눈에 띈 게 이 녹색 병이었다. 하트 브라더스(Hart Brothers) 피티드 아일라 싱글몰트. 700ml에 50도, 가격은 4만원대. 독립병입자(Independent Bottler)라는 말에 한 번, 가격에 한 번 놀랐다. 아일라 싱글몰트가 이 가격에? 일단 집어왔다.
@@ -42,6 +43,11 @@ review_type: Product
 피니시는 중간에서 중상 정도 길이. 피트 스모크의 여운이 꽤 오래 남는다. 입 안에 이탄의 건조한 훈연감이 잔잔하게 머무르면서, 살짝 달콤한 몰트의 꼬리가 마지막에 스친다. [부나하벤 12년](/bunnahabhain-12-year-review/)처럼 깔끔하게 끊기는 타입은 아니고, 아일라 피트 위스키답게 스모크가 여운으로 길게 이어진다. 이 여운이 다음 모금을 부르는 느낌.
 
 {% include ads-contents.html %}
+
+## 하트 브라더스 피티드 아일라에 어울리는 안주
+
+- **생굴** — 아일라 위스키와 굴은 클래식한 조합. 피트의 스모키함이 굴의 바다 향과 만나면 시너지
+- **양고기** — 피트 위스키의 강렬함이 양고기의 풍미와 잘 맞는다
 
 ## 마치며
 
