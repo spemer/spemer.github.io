@@ -91,7 +91,7 @@ layout: default
         <div class="col-md-7 pr-md-0 align-self-center">
           <img
             class="rounded"
-            loading="lazy"
+            fetchpriority="high"
             src="{% if page.image contains '://' %}{{ page.image }}{% else %}{% assign _img_first = page.image | slice: 0 %}{% if _img_first == '/' %}{{ site.baseurl }}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}{% endif %}"
             alt="{{ page.title }}"
             width="1200"
