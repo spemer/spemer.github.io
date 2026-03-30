@@ -16,6 +16,28 @@
 <!-- Review schema (review 포스팅에서만) -->
 {% if page.review %}
 <script type="application/ld+json">
+{% if page.review_type == "Product" or page.review_type == "Restaurant" %}
+{
+  "@context": "https://schema.org",
+  "@type": "{{ page.review_type }}",
+  "name": "{{ page.review_target }}",{% if page.image %}
+  "image": "{{ site.url }}/{{ page.image }}",{% endif %}
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.social.name }}"
+    },{% if page.rating %}
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "{{ page.rating }}",
+      "bestRating": "5"
+    },{% endif %}
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "reviewBody": "{{ page.description | strip_html | escape }}"
+  }
+}
+{% else %}
 {
   "@context": "https://schema.org",
   "@type": "Review",
@@ -35,6 +57,7 @@
   {% endif %}"datePublished": "{{ page.date | date_to_xmlschema }}",
   "reviewBody": "{{ page.description | strip_html | escape }}"
 }
+{% endif %}
 </script>
 {% elsif page.layout == "post" %}
 <!-- Article schema (일반 포스팅) -->
