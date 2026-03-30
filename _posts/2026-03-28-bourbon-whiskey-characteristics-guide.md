@@ -58,7 +58,7 @@ image: assets/images/posts/2026-03-28-bourbon-whiskey-characteristics-guide.webp
 
 버번을 처음 시작한다면 와일드 터키 101이 가장 무난한 출발점이다. 50.5%라는 적절한 도수에 버번의 기본 요소 — 캐러멜, 바닐라, 스파이스 — 를 고루 갖추고 있어서 버번이 어떤 위스키인지 파악하기 좋다. 여기서 마음에 들었다면 다음 단계는 취향에 따라 갈린다.
 
-스파이시하고 강렬한 쪽이 좋다면 [와일드 터키 레어 브리드](/wild-turkey-rare-breed-barrel-proof-review/). 배럴 프루프 58.4%의 캐스크 스트렝스를 경험할 수 있다. 도수보다 숙성의 깊이가 궁금하다면 [와일드 터키 12년](/wild-turkey-12-year-review/)이 좋은 선택이고, 부드러운 텍스처를 선호한다면 [잭 다니엘 싱글배럴 100 프루프](/jack-daniels-single-barrel-100proof-review/)로 테네시 위스키의 차콜 멜로잉을 경험해보는 것도 추천한다. 싱글배럴의 개성이 궁금하다면 [러셀 리저브 싱글배럴](/russells-reserve-single-barrel-review/)도 빠질 수 없다.
+스파이시하고 강렬한 쪽이 좋다면 [와일드 터키 레어 브리드](/wild-turkey-rare-breed-barrel-proof-review/). 배럴 프루프 58.4%의 캐스크 스트렝스를 경험할 수 있다. 도수보다 숙성의 깊이가 궁금하다면 [와일드 터키 12년](/wild-turkey-12-year-review/)이 좋은 선택이고, 부드러운 텍스처를 선호한다면 [잭 다니엘 싱글배럴 100 프루프](/jack-daniels-single-barrel-100proof-review/)로 테네시 위스키의 차콜 멜로잉을 경험해보는 것도 추천한다. 싱글배럴의 개성이 궁금하다면 [러셀 리저브 싱글배럴](/russells-reserve-single-barrel-review/)도 빠질 수 없다. 9년 숙성의 묵직한 프리프로히비션 스타일이 끌린다면 [납 크릭 9년](/knob-creek-9-year-bourbon-review/)도 좋은 선택지다.
 
 {% include ads-contents.html %}
 
