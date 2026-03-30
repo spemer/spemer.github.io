@@ -18,22 +18,22 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "{{ page.review_type | default: 'Thing' }}",
-  "name": "{{ page.review_target }}",
-  "review": {
-    "@type": "Review",
-    "author": {
-      "@type": "Person",
-      "name": "{{ site.social.name }}"
-    },
-    {% if page.rating %}"reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "{{ page.rating }}",
-      "bestRating": "5"
-    },
-    {% endif %}"datePublished": "{{ page.date | date_to_xmlschema }}",
-    "reviewBody": "{{ page.description | strip_html | escape }}"
-  }
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "{{ page.review_type | default: 'Thing' }}",
+    "name": "{{ page.review_target }}"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.social.name }}"
+  },
+  {% if page.rating %}"reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ page.rating }}",
+    "bestRating": "5"
+  },
+  {% endif %}"datePublished": "{{ page.date | date_to_xmlschema }}",
+  "reviewBody": "{{ page.description | strip_html | escape }}"
 }
 </script>
 {% elsif page.layout == "post" %}
